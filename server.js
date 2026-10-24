@@ -42,9 +42,8 @@ app.use((req, res, next) => {
   next();
 });
 
-// Serve frontend static assets from src folder and project root
+// Serve frontend static assets from src folder
 app.use(express.static(path.join(__dirname, "src")));
-app.use(express.static(__dirname));
 
 // Helper metadata function
 function getCatalogData(baseUrl) {
@@ -91,10 +90,6 @@ function catalogHandler(req, res) {
   }
 
   // Serve the frontend HTML dashboard
-  const rootIndex = path.join(__dirname, "index.html");
-  if (fs.existsSync(rootIndex)) {
-    return res.sendFile(rootIndex);
-  }
   res.sendFile(path.join(__dirname, "src", "index.html"));
 }
 

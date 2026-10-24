@@ -1,20 +1,7 @@
-// Dynamic Port, Host, and GitHub Pages Detection
-const isGitHubPages = window.location.hostname.includes('github.io');
-const isLocalhost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+// Dynamic Port and Host Detection
 const CURRENT_HOST = window.location.host || 'localhost:1500';
 const CURRENT_PORT = window.location.port || '1500';
-
-// Repository base path for GitHub Pages (e.g., '/mock-market' on 'https://<user>.github.io/mock-market/')
-const pathname = window.location.pathname;
-const repoBasePath = (function () {
-    if (!pathname || pathname === '/' || pathname === '/index.html') return '';
-    return pathname.replace(/\/index\.html$/, '').replace(/\/$/, '');
-})();
-
-const STATIC_DATA_BASE = `${window.location.origin}${repoBasePath}/data`;
-const BASE_API_URL = isGitHubPages
-    ? STATIC_DATA_BASE
-    : (window.location.origin ? `${window.location.origin}/api` : `http://localhost:${CURRENT_PORT}/api`);
+const BASE_API_URL = window.location.origin ? `${window.location.origin}/api` : `http://localhost:${CURRENT_PORT}/api`;
 
 // --- 1. QUERY FEATURES GUIDE DATA ---
 const queryFeatures = [
@@ -131,119 +118,19 @@ let activeCategory = 'all';
 let activeViewMode = 'grid';
 let currentModalRawJson = '';
 let currentModalPath = '';
-let currentModalCollection = 'products';
 
-// --- 3. DYNAMIC QUERY ENGINE FOR STATIC SITES ---
-function applyStaticQuery(dataArray, queryString) {
-    if (!Array.isArray(dataArray) || !queryString) return dataArray;
-    const searchParams = new URLSearchParams(queryString);
-    let result = [...dataArray];
-
-    // 1. Full-text search (?q=keyword)
-    const q = searchParams.get('q');
-    if (q) {
-        const term = q.toLowerCase();
-        result = result.filter(item => JSON.stringify(item).toLowerCase().includes(term));
-    }
-
-    // 2. Field-level filtering and range operators
-    for (const [key, value] of searchParams.entries()) {
-        if (['_page', '_limit', '_sort', '_order', 'q', 'format'].includes(key)) continue;
-
-        if (key.endsWith('_gte')) {
-            const field = key.replace('_gte', '');
-            result = result.filter(item => Number(item[field]) >= Number(value));
-        } else if (key.endsWith('_lte')) {
-            const field = key.replace('_lte', '');
-            result = result.filter(item => Number(item[field]) <= Number(value));
-        } else {
-            result = result.filter(item => {
-                if (item[key] === undefined) return false;
-                return String(item[key]).toLowerCase() === String(value).toLowerCase();
-            });
-        }
-    }
-
-    // 3. Sorting (?_sort=field&_order=asc|desc)
-    const sortField = searchParams.get('_sort');
-    const sortOrder = (searchParams.get('_order') || 'asc').toLowerCase();
-    if (sortField) {
-        result.sort((a, b) => {
-            const valA = a[sortField];
-            const valB = b[sortField];
-            if (typeof valA === 'number' && typeof valB === 'number') {
-                return sortOrder === 'desc' ? valB - valA : valA - valB;
-            }
-            return sortOrder === 'desc'
-                ? String(valB || '').localeCompare(String(valA || ''))
-                : String(valA || '').localeCompare(String(valB || ''));
-        });
-    }
-
-    // 4. Pagination (?_page=1&_limit=10)
-    const page = parseInt(searchParams.get('_page'), 10) || 1;
-    const limit = parseInt(searchParams.get('_limit'), 10);
-    if (limit) {
-        const start = (page - 1) * limit;
-        result = result.slice(start, start + limit);
-    }
-
-    return result;
-}
-
-// Generate Catalog schema dynamically
-function generateCatalogData() {
-    const endpoints = {};
-    let totalItems = 0;
-    endpointsData.forEach(ep => {
-        totalItems += ep.count;
-        endpoints[`/api/${ep.name}`] = {
-            name: ep.name,
-            itemCount: ep.count,
-            staticUrl: `${repoBasePath}/data/${ep.name}.json`,
-            fullUrl: `${window.location.origin}${repoBasePath}/data/${ep.name}.json`
-        };
-    });
-    return {
-        name: "Mock Market API",
-        environment: isGitHubPages ? "GitHub Pages (Live Static Datasets)" : "Express.js Local Server",
-        description: `Mock RESTful API server with ${endpointsData.length} modular collections and ${totalItems} records. Full CRUD on local Express, and direct static JSON files on GitHub Pages.`,
-        totalEndpoints: endpointsData.length,
-        totalItems: totalItems,
-        endpoints: endpoints,
-        queryFeatures: {
-            pagination: `${repoBasePath}/data/products.json?_page=1&_limit=10`,
-            sorting: `${repoBasePath}/data/products.json?_sort=price&_order=desc`,
-            filtering: `${repoBasePath}/data/users.json?role=developer`,
-            rangeFilter: `${repoBasePath}/data/products.json?price_gte=100&price_lte=500`,
-            fullTextSearch: `${repoBasePath}/data/articles.json?q=react`
-        }
-    };
-}
-
-// --- 4. UPDATE DYNAMIC STATS & LABELS ---
+// Update Dynamic Host, Port, and Metric Badges
 function updateDynamicStats() {
     const hostLabel = document.getElementById('serverHostLabel');
     const baseBtn = document.getElementById('baseApiBtn');
     const footerLabel = document.getElementById('footerServerLabel');
-
-    if (isGitHubPages) {
-        if (hostLabel) hostLabel.textContent = `GitHub Pages • Live Static Mock API`;
-        if (baseBtn) {
-            baseBtn.setAttribute('onclick', `copyText('${STATIC_DATA_BASE}', 'Static Datasets Base URL copied to clipboard!')`);
-            const textSpan = baseBtn.querySelector('.base-url-text');
-            if (textSpan) textSpan.textContent = `GitHub Pages Live`;
-        }
-        if (footerLabel) footerLabel.textContent = `Mock Market • Live on GitHub Pages • 55 Modular JSON Datasets (1,429 Records)`;
-    } else {
-        if (hostLabel) hostLabel.textContent = `${CURRENT_HOST} • Express + json-server`;
-        if (baseBtn) {
-            baseBtn.setAttribute('onclick', `copyText('${BASE_API_URL}', 'Base API URL copied to clipboard!')`);
-            const textSpan = baseBtn.querySelector('.base-url-text');
-            if (textSpan) textSpan.textContent = `http://${CURRENT_HOST}`;
-        }
-        if (footerLabel) footerLabel.textContent = `Json Raw Data Server • Running on port ${CURRENT_PORT} • Made with Express & json-server`;
+    if (hostLabel) hostLabel.textContent = `${CURRENT_HOST} • Express + json-server`;
+    if (baseBtn) {
+        baseBtn.setAttribute('onclick', `copyText('${BASE_API_URL}', 'Base API URL copied to clipboard!')`);
+        const textSpan = baseBtn.querySelector('.base-url-text');
+        if (textSpan) textSpan.textContent = `http://${CURRENT_HOST}`;
     }
+    if (footerLabel) footerLabel.textContent = `Json Raw Data Server • Running on port ${CURRENT_PORT} • Made with Express & json-server`;
 
     // Dynamic Category Badge Counters
     const counts = { all: endpointsData.length, commerce: 0, content: 0, users: 0, system: 0 };
@@ -277,7 +164,7 @@ function updateDynamicStats() {
     if (footerRec) footerRec.textContent = `${totalRecs} Records`;
 }
 
-// --- 5. RENDER QUERY FEATURES GUIDE ---
+// --- 3. RENDER QUERY FEATURES GUIDE ---
 function renderQueryGuide() {
     const container = document.getElementById('queryGuideGrid');
     if (!container) return;
@@ -303,7 +190,7 @@ function renderQueryGuide() {
                     <span class="text-[#FFE9A9]">${q.endpoint}</span>
                 </div>
                 <div class="flex items-center gap-1 shrink-0">
-                    <button onclick="copyText('${isGitHubPages ? `${window.location.origin}${repoBasePath}/data/${q.collection}.json` : q.endpoint}', 'Query copied to clipboard!')" 
+                    <button onclick="copyText('${q.endpoint}', 'Copied ${q.endpoint}')" 
                         class="p-1.5 rounded-lg bg-slate-800 hover:bg-[#FFCB56] text-slate-300 hover:text-[#182230] transition-colors" title="Copy Query">
                         <i data-lucide="copy" class="w-3.5 h-3.5"></i>
                     </button>
@@ -318,7 +205,7 @@ function renderQueryGuide() {
     if (window.lucide) lucide.createIcons();
 }
 
-// --- 6. RENDER ALL 55 ENDPOINT CARDS ---
+// --- 4. RENDER ALL 55 ENDPOINT CARDS (4 ITEMS PER ROW ON DESKTOP) ---
 function renderEndpoints() {
     const searchInput = document.getElementById('endpointSearchInput');
     const searchQuery = searchInput ? searchInput.value.trim().toLowerCase() : '';
@@ -365,7 +252,7 @@ function renderEndpoints() {
                                 ${ep.path}
                             </code>
                         </div>
-                        <button onclick="copyText('${isGitHubPages ? `${window.location.origin}${repoBasePath}/data/${ep.name}.json` : ep.path}', 'Copied: ${isGitHubPages ? `${ep.name}.json` : ep.path}')" 
+                        <button onclick="copyText('${ep.path}', 'Copied ${ep.path}')" 
                             class="p-1.5 rounded-lg text-slate-400 hover:text-[#182230] hover:bg-[#FFE9A9] transition-colors shrink-0" title="Copy Endpoint Path">
                             <i data-lucide="copy" class="w-3.5 h-3.5"></i>
                         </button>
@@ -419,7 +306,7 @@ function renderEndpoints() {
     if (window.lucide) lucide.createIcons();
 }
 
-// --- 7. FILTER & VIEW CONTROLS ---
+// --- 5. FILTER & VIEW CONTROLS ---
 function filterEndpoints() {
     renderEndpoints();
 }
@@ -458,26 +345,20 @@ function resetFilters() {
     setCategory('all');
 }
 
-// Syntax highlighting for JSON inspector
-function syntaxHighlightJson(jsonObj) {
-    const jsonStr = JSON.stringify(jsonObj, null, 2);
-    return jsonStr.replace(/("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g, function (match) {
-        let cls = 'json-number';
-        if (/^"/.test(match)) {
-            if (/:$/.test(match)) {
-                cls = 'json-key';
-            } else {
-                cls = 'json-string';
-            }
-        } else if (/true|false/.test(match)) {
-            cls = 'json-boolean';
-        }
-        return '<span class="' + cls + '">' + match + '</span>';
-    });
-}
+// --- 6. SAMPLE PAYLOAD GENERATOR & LIVE JSON FETCH ---
+function generateMockPayload(collectionName, path, count) {
+    if (collectionName === 'catalog') {
+        return {
+            server: "Mock Market API",
+            port: Number(CURRENT_PORT) || 1500,
+            totalEndpoints: 55,
+            totalRecords: 1429,
+            corsEnabled: true,
+            palette: ["#FF933E", "#FFCB56", "#FFE9A9", "#73A5CA"],
+            endpoints: endpointsData.map(e => ({ path: e.path, records: e.count }))
+        };
+    }
 
-// Fallback dummy payload if both network & static fetch are unreachable
-function generateFallbackPayload(collectionName, requestedPath, count) {
     const ep = endpointsData.find(e => e.name === collectionName) || endpointsData[0];
     const sampleRecords = [1, 2, 3].map(idx => {
         const record = { id: idx };
@@ -498,7 +379,7 @@ function generateFallbackPayload(collectionName, requestedPath, count) {
             } else if (field.toLowerCase().includes('role')) {
                 record[field] = idx === 1 ? 'developer' : 'architect';
             } else {
-                record[field] = `${ep.name}_sample_${idx}`;
+                record[field] = `${ep.name.slice(0, -1)}_${field}_sample_${idx}`;
             }
         });
         return record;
@@ -507,116 +388,77 @@ function generateFallbackPayload(collectionName, requestedPath, count) {
     return {
         status: 200,
         collection: ep.name,
-        endpoint: requestedPath,
+        endpoint: path,
         totalItems: count,
         showingSample: 3,
         data: sampleRecords
     };
 }
 
-// --- 8. OPEN LIVE JSON MODAL (Dual Express / Static GitHub Pages Engine) ---
-async function openJsonModal(collectionName, requestedPath, count) {
+function syntaxHighlightJson(jsonObj) {
+    const jsonStr = JSON.stringify(jsonObj, null, 2);
+    return jsonStr.replace(/("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g, function (match) {
+        let cls = 'json-number';
+        if (/^"/.test(match)) {
+            if (/:$/.test(match)) {
+                cls = 'json-key';
+            } else {
+                cls = 'json-string';
+            }
+        } else if (/true|false/.test(match)) {
+            cls = 'json-boolean';
+        }
+        return '<span class="' + cls + '">' + match + '</span>';
+    });
+}
+
+async function openJsonModal(collectionName, path, count) {
     const modal = document.getElementById('jsonModal');
     const urlEl = document.getElementById('modalEndpointUrl');
     const countEl = document.getElementById('modalRecordCount');
     const contentEl = document.getElementById('modalJsonContent');
     const statusPill = document.getElementById('modalStatusPill');
-    const rawBtn = document.getElementById('modalOpenRawBtn');
 
-    currentModalPath = requestedPath;
-    currentModalCollection = collectionName;
-    urlEl.textContent = requestedPath;
+    currentModalPath = path;
+    urlEl.textContent = path;
     countEl.textContent = `${count} items`;
-    contentEl.textContent = 'Loading payload...';
-
-    // Update raw file button link
-    const staticRelativePath = `${repoBasePath}/data/${collectionName}.json`;
-    if (rawBtn) {
-        rawBtn.href = staticRelativePath;
-        rawBtn.title = `Open ${collectionName}.json raw data`;
-    }
+    contentEl.textContent = 'Loading live payload from server...';
 
     modal.classList.remove('hidden');
     modal.classList.add('flex');
     if (window.lucide) lucide.createIcons();
 
     const startTime = performance.now();
-
-    // 1. Catalog route request
-    if (collectionName === 'catalog' || requestedPath.includes('format=json')) {
-        const catalog = generateCatalogData();
+    try {
+        const res = await fetch(path, {
+            headers: { 'Accept': 'application/json' }
+        });
         const duration = Math.round(performance.now() - startTime);
-        currentModalRawJson = JSON.stringify(catalog, null, 2);
-        contentEl.innerHTML = syntaxHighlightJson(catalog);
+
+        if (res.ok) {
+            const liveData = await res.json();
+            currentModalRawJson = JSON.stringify(liveData, null, 2);
+            contentEl.innerHTML = syntaxHighlightJson(liveData);
+            if (statusPill) {
+                statusPill.innerHTML = `
+                    <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
+                    ${res.status} OK • ${duration}ms
+                `;
+            }
+            return;
+        }
+        throw new Error(`Server returned status ${res.status}`);
+    } catch (err) {
+        const duration = Math.round(performance.now() - startTime);
+        const payload = generateMockPayload(collectionName, path, count);
+        currentModalRawJson = JSON.stringify(payload, null, 2);
+        contentEl.innerHTML = syntaxHighlightJson(payload);
         if (statusPill) {
             statusPill.innerHTML = `
                 <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
-                200 OK • Catalog JSON (${duration}ms)
+                200 OK • ${duration}ms
             `;
         }
-        return;
-    }
-
-    // Parse query params for client-side query simulator
-    const queryIdx = requestedPath.indexOf('?');
-    const queryString = queryIdx !== -1 ? requestedPath.slice(queryIdx + 1) : '';
-
-    let dataToDisplay = null;
-    let fetchDuration = 0;
-    let statusText = '200 OK';
-
-    // 2. If running locally with active Express server, try /api first
-    if (!isGitHubPages) {
-        try {
-            const apiRes = await fetch(requestedPath, {
-                headers: { 'Accept': 'application/json' }
-            });
-            fetchDuration = Math.round(performance.now() - startTime);
-            if (apiRes.ok) {
-                dataToDisplay = await apiRes.json();
-                statusText = `${apiRes.status} OK • Express (${fetchDuration}ms)`;
-            }
-        } catch (e) {
-            // Local Express endpoint unavailable, fall through to static file
-        }
-    }
-
-    // 3. Fetch actual dataset from static data directory (on GitHub Pages or fallback)
-    if (!dataToDisplay) {
-        try {
-            const staticRes = await fetch(staticRelativePath, {
-                headers: { 'Accept': 'application/json' }
-            });
-            fetchDuration = Math.round(performance.now() - startTime);
-            if (staticRes.ok) {
-                const rawArray = await staticRes.json();
-                if (queryString) {
-                    dataToDisplay = applyStaticQuery(rawArray, queryString);
-                    statusText = `200 OK • Filtered Query (${dataToDisplay.length} items, ${fetchDuration}ms)`;
-                } else {
-                    dataToDisplay = rawArray;
-                    statusText = `200 OK • Static JSON Dataset (${fetchDuration}ms)`;
-                }
-            }
-        } catch (e) {
-            // Network or CORS issue, fall through
-        }
-    }
-
-    // 4. Fallback generator if both network and file fetch fail
-    if (!dataToDisplay) {
-        fetchDuration = Math.round(performance.now() - startTime);
-        dataToDisplay = generateFallbackPayload(collectionName, requestedPath, count);
-        statusText = `200 OK • Simulated Payload (${fetchDuration}ms)`;
-    }
-
-    currentModalRawJson = JSON.stringify(dataToDisplay, null, 2);
-    contentEl.innerHTML = syntaxHighlightJson(dataToDisplay);
-    if (statusPill) {
-        statusPill.innerHTML = `
-            <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
-            ${statusText}
-        `;
     }
 }
 
@@ -632,18 +474,12 @@ function copyModalJson() {
 }
 
 function copyCurlCommand() {
-    if (isGitHubPages) {
-        const fullUrl = `${window.location.origin}${repoBasePath}/data/${currentModalCollection}.json`;
-        const cmd = `curl -s "${fullUrl}"`;
-        copyText(cmd, 'cURL command copied (GitHub Pages Static JSON)!');
-    } else {
-        const fullUrl = `http://${CURRENT_HOST}${currentModalPath}`;
-        const cmd = `curl -X GET "${fullUrl}" -H "Accept: application/json"`;
-        copyText(cmd, 'cURL command copied!');
-    }
+    const fullUrl = `http://${CURRENT_HOST}${currentModalPath}`;
+    const cmd = `curl -X GET "${fullUrl}" -H "Accept: application/json"`;
+    copyText(cmd, 'cURL command copied!');
 }
 
-// --- 9. CLIPBOARD & TOAST HELPERS ---
+// --- 7. CLIPBOARD & TOAST HELPERS ---
 function copyText(text, message) {
     const textarea = document.createElement('textarea');
     textarea.value = text;
@@ -671,7 +507,7 @@ function showToast(message) {
     }, 2400);
 }
 
-// --- 10. THEME SWITCHER (Warm Daylight vs Dark Slate) ---
+// --- 8. THEME SWITCHER (Warm Daylight vs Dark Slate) ---
 function toggleTheme() {
     const html = document.documentElement;
     const isDark = html.classList.toggle('dark');
@@ -710,7 +546,7 @@ document.addEventListener('click', (e) => {
     }
 });
 
-// Initialize on DOM load
+// Initialize on load
 window.addEventListener('DOMContentLoaded', () => {
     updateDynamicStats();
     renderQueryGuide();
