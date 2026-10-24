@@ -1,0 +1,548 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Fullstack Engineer (React & Node) ",
+    "company": "Orange Kode",
+    "location": "Bandung, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Hybrid",
+    "salaryRange": {
+      "min": 20000000,
+      "max": 34000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Mid-Level",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-02",
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "title": "Lead DevOps Engineer (Kubernetes & AWS) ",
+    "company": "FinPay Nusantara",
+    "location": "Jakarta, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "On-site",
+    "salaryRange": {
+      "min": 25000000,
+      "max": 40000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Senior",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-03",
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "title": "Backend Engineer (Go & PostgreSQL) ",
+    "company": "Nusantara AI Labs",
+    "location": "Bandung, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Remote",
+    "salaryRange": {
+      "min": 30000000,
+      "max": 46000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Lead / Staff",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-04",
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "title": "Staff UI/UX Designer ",
+    "company": "CloudScale DevOps",
+    "location": "Jakarta, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Hybrid",
+    "salaryRange": {
+      "min": 35000000,
+      "max": 52000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Senior",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-05",
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "title": "Mobile Engineer (React Native) ",
+    "company": "Sadino Technology",
+    "location": "Bandung, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "On-site",
+    "salaryRange": {
+      "min": 15000000,
+      "max": 28000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Mid-Level",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-06",
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "title": "AI Application Engineer (Python & LangChain) ",
+    "company": "Orange Kode",
+    "location": "Jakarta, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Remote",
+    "salaryRange": {
+      "min": 20000000,
+      "max": 34000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Lead / Staff",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-07",
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "title": "Quality Assurance Engineer (Automation) ",
+    "company": "FinPay Nusantara",
+    "location": "Bandung, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Hybrid",
+    "salaryRange": {
+      "min": 25000000,
+      "max": 40000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Mid-Level",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-08",
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "title": "Engineering Manager - Platform ",
+    "company": "Nusantara AI Labs",
+    "location": "Jakarta, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "On-site",
+    "salaryRange": {
+      "min": 30000000,
+      "max": 46000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Senior",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-09",
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "title": "Cybersecurity Analyst (SOC / Threat Hunter) ",
+    "company": "CloudScale DevOps",
+    "location": "Bandung, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Remote",
+    "salaryRange": {
+      "min": 35000000,
+      "max": 52000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Lead / Staff",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-10",
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "title": "Frontend Engineer (Next.js & Tailwind) ",
+    "company": "Sadino Technology",
+    "location": "Jakarta, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Hybrid",
+    "salaryRange": {
+      "min": 15000000,
+      "max": 28000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Senior",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-11",
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "title": "Data Engineer (ETL & ClickHouse) ",
+    "company": "Orange Kode",
+    "location": "Bandung, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "On-site",
+    "salaryRange": {
+      "min": 20000000,
+      "max": 34000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Mid-Level",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-12",
+    "status": "Open"
+  },
+  {
+    "id": 12,
+    "title": "Site Reliability Engineer (SRE) ",
+    "company": "FinPay Nusantara",
+    "location": "Jakarta, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Remote",
+    "salaryRange": {
+      "min": 25000000,
+      "max": 40000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Lead / Staff",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-13",
+    "status": "Open"
+  },
+  {
+    "id": 13,
+    "title": "Product Manager - Core Infrastructure ",
+    "company": "Nusantara AI Labs",
+    "location": "Bandung, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Hybrid",
+    "salaryRange": {
+      "min": 30000000,
+      "max": 46000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Mid-Level",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-14",
+    "status": "Open"
+  },
+  {
+    "id": 14,
+    "title": "Senior Fullstack Engineer (React & Node) (Team 2)",
+    "company": "CloudScale DevOps",
+    "location": "Jakarta, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "On-site",
+    "salaryRange": {
+      "min": 35000000,
+      "max": 52000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Senior",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-15",
+    "status": "Open"
+  },
+  {
+    "id": 15,
+    "title": "Lead DevOps Engineer (Kubernetes & AWS) (Team 3)",
+    "company": "Sadino Technology",
+    "location": "Bandung, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Remote",
+    "salaryRange": {
+      "min": 15000000,
+      "max": 28000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Lead / Staff",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-16",
+    "status": "Open"
+  },
+  {
+    "id": 16,
+    "title": "Backend Engineer (Go & PostgreSQL) (Team 4)",
+    "company": "Orange Kode",
+    "location": "Jakarta, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Hybrid",
+    "salaryRange": {
+      "min": 20000000,
+      "max": 34000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Senior",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-17",
+    "status": "Open"
+  },
+  {
+    "id": 17,
+    "title": "Staff UI/UX Designer (Team 5)",
+    "company": "FinPay Nusantara",
+    "location": "Bandung, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "On-site",
+    "salaryRange": {
+      "min": 25000000,
+      "max": 40000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Mid-Level",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-18",
+    "status": "Open"
+  },
+  {
+    "id": 18,
+    "title": "Mobile Engineer (React Native) (Team 6)",
+    "company": "Nusantara AI Labs",
+    "location": "Jakarta, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Remote",
+    "salaryRange": {
+      "min": 30000000,
+      "max": 46000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Lead / Staff",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-19",
+    "status": "Open"
+  },
+  {
+    "id": 19,
+    "title": "AI Application Engineer (Python & LangChain) (Team 7)",
+    "company": "CloudScale DevOps",
+    "location": "Bandung, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Hybrid",
+    "salaryRange": {
+      "min": 35000000,
+      "max": 52000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Mid-Level",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-20",
+    "status": "Open"
+  },
+  {
+    "id": 20,
+    "title": "Quality Assurance Engineer (Automation) (Team 8)",
+    "company": "Sadino Technology",
+    "location": "Jakarta, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "On-site",
+    "salaryRange": {
+      "min": 15000000,
+      "max": 28000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Senior",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-21",
+    "status": "Open"
+  },
+  {
+    "id": 21,
+    "title": "Engineering Manager - Platform (Team 9)",
+    "company": "Orange Kode",
+    "location": "Bandung, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Remote",
+    "salaryRange": {
+      "min": 20000000,
+      "max": 34000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Lead / Staff",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-22",
+    "status": "Open"
+  },
+  {
+    "id": 22,
+    "title": "Cybersecurity Analyst (SOC / Threat Hunter) (Team 10)",
+    "company": "FinPay Nusantara",
+    "location": "Jakarta, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Hybrid",
+    "salaryRange": {
+      "min": 25000000,
+      "max": 40000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Senior",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-23",
+    "status": "Open"
+  },
+  {
+    "id": 23,
+    "title": "Frontend Engineer (Next.js & Tailwind) (Team 11)",
+    "company": "Nusantara AI Labs",
+    "location": "Bandung, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "On-site",
+    "salaryRange": {
+      "min": 30000000,
+      "max": 46000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Mid-Level",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-24",
+    "status": "Open"
+  },
+  {
+    "id": 24,
+    "title": "Data Engineer (ETL & ClickHouse) (Team 12)",
+    "company": "CloudScale DevOps",
+    "location": "Jakarta, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Remote",
+    "salaryRange": {
+      "min": 35000000,
+      "max": 52000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Lead / Staff",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-25",
+    "status": "Open"
+  },
+  {
+    "id": 25,
+    "title": "Site Reliability Engineer (SRE) (Team 13)",
+    "company": "Sadino Technology",
+    "location": "Bandung, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "Hybrid",
+    "salaryRange": {
+      "min": 15000000,
+      "max": 28000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Mid-Level",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-26",
+    "status": "Open"
+  },
+  {
+    "id": 26,
+    "title": "Product Manager - Core Infrastructure (Team 14)",
+    "company": "Orange Kode",
+    "location": "Jakarta, Indonesia",
+    "type": "Full-time",
+    "workplaceType": "On-site",
+    "salaryRange": {
+      "min": 20000000,
+      "max": 34000000,
+      "currency": "IDR"
+    },
+    "experienceLevel": "Senior",
+    "requirements": [
+      "Minimal 3+ tahun pengalaman di stack teknologi terkait",
+      "Pengalaman arsitektur REST / GraphQL dan database relasional",
+      "Kemampuan komunikasi kolaboratif dalam tim agile lintas fungsi"
+    ],
+    "postedAt": "2026-03-27",
+    "status": "Open"
+  }
+]

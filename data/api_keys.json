@@ -1,0 +1,339 @@
+[
+  {
+    "id": 1,
+    "keyName": "Production Payment Webhook",
+    "keyPrefix": "mm_live_zwjvzdob",
+    "scopes": [
+      "read:data"
+    ],
+    "rateLimitPerMinute": 60,
+    "createdAt": "2026-01-15",
+    "lastUsedAt": "2026-10-01T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "keyName": "Mobile App Read-Only",
+    "keyPrefix": "mm_live_xavt5k21",
+    "scopes": [
+      "read:data",
+      "write:records"
+    ],
+    "rateLimitPerMinute": 120,
+    "createdAt": "2026-02-15",
+    "lastUsedAt": "2026-10-02T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "keyName": "CI/CD Deployment Token",
+    "keyPrefix": "mm_live_zvp9pa56",
+    "scopes": [
+      "read:data",
+      "write:records",
+      "admin:access"
+    ],
+    "rateLimitPerMinute": 180,
+    "createdAt": "2026-03-15",
+    "lastUsedAt": "2026-10-03T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "keyName": "Analytics Collector",
+    "keyPrefix": "mm_live_h8aldtu9",
+    "scopes": [
+      "read:data"
+    ],
+    "rateLimitPerMinute": 240,
+    "createdAt": "2026-04-15",
+    "lastUsedAt": "2026-10-04T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "keyName": "Internal Dashboard Access",
+    "keyPrefix": "mm_live_02m8qauv",
+    "scopes": [
+      "read:data",
+      "write:records"
+    ],
+    "rateLimitPerMinute": 300,
+    "createdAt": "2026-05-15",
+    "lastUsedAt": "2026-10-05T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 6,
+    "keyName": "Third-Party CRM Sync",
+    "keyPrefix": "mm_live_p4v0f2cq",
+    "scopes": [
+      "read:data",
+      "write:records",
+      "admin:access"
+    ],
+    "rateLimitPerMinute": 60,
+    "createdAt": "2026-06-15",
+    "lastUsedAt": "2026-10-06T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 7,
+    "keyName": "Partner Integration Key",
+    "keyPrefix": "mm_live_re9vr4qj",
+    "scopes": [
+      "read:data"
+    ],
+    "rateLimitPerMinute": 120,
+    "createdAt": "2026-07-15",
+    "lastUsedAt": "2026-10-07T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 8,
+    "keyName": "Automated Testing Suite",
+    "keyPrefix": "mm_live_c88l50k2",
+    "scopes": [
+      "read:data",
+      "write:records"
+    ],
+    "rateLimitPerMinute": 180,
+    "createdAt": "2026-08-15",
+    "lastUsedAt": "2026-10-08T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 9,
+    "keyName": "Customer Portal Auth",
+    "keyPrefix": "mm_live_kcrnb7jc",
+    "scopes": [
+      "read:data",
+      "write:records",
+      "admin:access"
+    ],
+    "rateLimitPerMinute": 240,
+    "createdAt": "2026-09-15",
+    "lastUsedAt": "2026-10-09T14:20:00Z",
+    "isActive": false
+  },
+  {
+    "id": 10,
+    "keyName": "Data Warehouse Pipeline",
+    "keyPrefix": "mm_live_qg66b822",
+    "scopes": [
+      "read:data"
+    ],
+    "rateLimitPerMinute": 300,
+    "createdAt": "2026-01-15",
+    "lastUsedAt": "2026-10-10T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 11,
+    "keyName": "Staging Environment Key",
+    "keyPrefix": "mm_live_0o19riod",
+    "scopes": [
+      "read:data",
+      "write:records"
+    ],
+    "rateLimitPerMinute": 60,
+    "createdAt": "2026-02-15",
+    "lastUsedAt": "2026-10-11T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 12,
+    "keyName": "Audit Logger Token",
+    "keyPrefix": "mm_live_s46bmie2",
+    "scopes": [
+      "read:data",
+      "write:records",
+      "admin:access"
+    ],
+    "rateLimitPerMinute": 120,
+    "createdAt": "2026-03-15",
+    "lastUsedAt": "2026-10-12T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 13,
+    "keyName": "Public Catalog Reader",
+    "keyPrefix": "mm_live_cl9xhjc2",
+    "scopes": [
+      "read:data"
+    ],
+    "rateLimitPerMinute": 180,
+    "createdAt": "2026-04-15",
+    "lastUsedAt": "2026-10-13T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 14,
+    "keyName": "Slack Bot Integration",
+    "keyPrefix": "mm_live_h0rav7t7",
+    "scopes": [
+      "read:data",
+      "write:records"
+    ],
+    "rateLimitPerMinute": 240,
+    "createdAt": "2026-05-15",
+    "lastUsedAt": "2026-10-14T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 15,
+    "keyName": "Email Service Relay",
+    "keyPrefix": "mm_live_7m9bpk2n",
+    "scopes": [
+      "read:data",
+      "write:records",
+      "admin:access"
+    ],
+    "rateLimitPerMinute": 300,
+    "createdAt": "2026-06-15",
+    "lastUsedAt": "2026-10-15T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 16,
+    "keyName": "SMS Gateway Token",
+    "keyPrefix": "mm_live_fwrx39jt",
+    "scopes": [
+      "read:data"
+    ],
+    "rateLimitPerMinute": 60,
+    "createdAt": "2026-07-15",
+    "lastUsedAt": "2026-10-16T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 17,
+    "keyName": "Monitoring Healthcheck",
+    "keyPrefix": "mm_live_65o4pfxi",
+    "scopes": [
+      "read:data",
+      "write:records"
+    ],
+    "rateLimitPerMinute": 120,
+    "createdAt": "2026-08-15",
+    "lastUsedAt": "2026-10-17T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 18,
+    "keyName": "Search Indexer Service",
+    "keyPrefix": "mm_live_eupc8cqa",
+    "scopes": [
+      "read:data",
+      "write:records",
+      "admin:access"
+    ],
+    "rateLimitPerMinute": 180,
+    "createdAt": "2026-09-15",
+    "lastUsedAt": "2026-10-18T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 19,
+    "keyName": "AI Model Invoker",
+    "keyPrefix": "mm_live_ocddlr28",
+    "scopes": [
+      "read:data"
+    ],
+    "rateLimitPerMinute": 240,
+    "createdAt": "2026-01-15",
+    "lastUsedAt": "2026-10-19T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 20,
+    "keyName": "Backup Storage Key",
+    "keyPrefix": "mm_live_t34xmyx6",
+    "scopes": [
+      "read:data",
+      "write:records"
+    ],
+    "rateLimitPerMinute": 300,
+    "createdAt": "2026-02-15",
+    "lastUsedAt": "2026-10-20T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 21,
+    "keyName": "SSO Federation Token",
+    "keyPrefix": "mm_live_adom21t4",
+    "scopes": [
+      "read:data",
+      "write:records",
+      "admin:access"
+    ],
+    "rateLimitPerMinute": 60,
+    "createdAt": "2026-03-15",
+    "lastUsedAt": "2026-10-21T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 22,
+    "keyName": "Developer Sandbox",
+    "keyPrefix": "mm_live_wzgt1fay",
+    "scopes": [
+      "read:data"
+    ],
+    "rateLimitPerMinute": 120,
+    "createdAt": "2026-04-15",
+    "lastUsedAt": "2026-10-22T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 23,
+    "keyName": "Admin Superuser Token",
+    "keyPrefix": "mm_live_jgcxd7du",
+    "scopes": [
+      "read:data",
+      "write:records"
+    ],
+    "rateLimitPerMinute": 180,
+    "createdAt": "2026-05-15",
+    "lastUsedAt": "2026-10-23T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 24,
+    "keyName": "Reporting Export Engine",
+    "keyPrefix": "mm_live_u8ah4m29",
+    "scopes": [
+      "read:data",
+      "write:records",
+      "admin:access"
+    ],
+    "rateLimitPerMinute": 240,
+    "createdAt": "2026-06-15",
+    "lastUsedAt": "2026-10-24T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 25,
+    "keyName": "Webhook Listener Key",
+    "keyPrefix": "mm_live_h01zvxti",
+    "scopes": [
+      "read:data"
+    ],
+    "rateLimitPerMinute": 300,
+    "createdAt": "2026-07-15",
+    "lastUsedAt": "2026-10-01T14:20:00Z",
+    "isActive": true
+  },
+  {
+    "id": 26,
+    "keyName": "GraphQL Gateway Key",
+    "keyPrefix": "mm_live_lubff9r9",
+    "scopes": [
+      "read:data",
+      "write:records"
+    ],
+    "rateLimitPerMinute": 60,
+    "createdAt": "2026-08-15",
+    "lastUsedAt": "2026-10-02T14:20:00Z",
+    "isActive": true
+  }
+]

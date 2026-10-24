@@ -1,0 +1,470 @@
+[
+  {
+    "id": 1,
+    "title": "Omnichannel E-Commerce Dashboard ",
+    "slug": "omnichannel-e-commerce-dashboard",
+    "client": "Orange Kode",
+    "category": "Mobile Application",
+    "description": "Pengembangan menyeluruh Omnichannel E-Commerce Dashboard  dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "React Native",
+      "Node.js",
+      "Express",
+      "Redis"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/1",
+    "githubUrl": "https://github.com/example-org/project-1",
+    "image": "https://picsum.photos/800/500?project_1",
+    "completedAt": "2025-11-02"
+  },
+  {
+    "id": 2,
+    "title": "Telemedicine Doctor Booking Web & Mobile ",
+    "slug": "telemedicine-doctor-booking-web-mobile",
+    "client": "FinPay Nusantara",
+    "category": "Web Application",
+    "description": "Pengembangan menyeluruh Telemedicine Doctor Booking Web & Mobile  dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Vue.js",
+      "Go",
+      "Docker",
+      "MongoDB"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/2",
+    "githubUrl": "https://github.com/example-org/project-2",
+    "image": "https://picsum.photos/800/500?project_2",
+    "completedAt": "2025-12-03"
+  },
+  {
+    "id": 3,
+    "title": "Fintech P2P Micro-lending Mobile App ",
+    "slug": "fintech-p2p-micro-lending-mobile-app",
+    "client": "Nusantara AI Labs",
+    "category": "Mobile Application",
+    "description": "Pengembangan menyeluruh Fintech P2P Micro-lending Mobile App  dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Flutter",
+      "Python",
+      "FastAPI",
+      "PostGIS"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/3",
+    "githubUrl": "https://github.com/example-org/project-3",
+    "image": "https://picsum.photos/800/500?project_3",
+    "completedAt": "2025-10-04"
+  },
+  {
+    "id": 4,
+    "title": "Smart Logistics Fleet Telematics Platform ",
+    "slug": "smart-logistics-fleet-telematics-platform",
+    "client": "CloudScale DevOps",
+    "category": "Web Application",
+    "description": "Pengembangan menyeluruh Smart Logistics Fleet Telematics Platform  dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Angular",
+      "NestJS",
+      "Kafka",
+      "MySQL"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/4",
+    "githubUrl": "https://github.com/example-org/project-4",
+    "image": "https://picsum.photos/800/500?project_4",
+    "completedAt": "2025-11-05"
+  },
+  {
+    "id": 5,
+    "title": "EdTech Interactive Gamified LMS ",
+    "slug": "edtech-interactive-gamified-lms",
+    "client": "Sadino Technology",
+    "category": "Mobile Application",
+    "description": "Pengembangan menyeluruh EdTech Interactive Gamified LMS  dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "PostgreSQL"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/5",
+    "githubUrl": "https://github.com/example-org/project-5",
+    "image": "https://picsum.photos/800/500?project_5",
+    "completedAt": "2025-12-06"
+  },
+  {
+    "id": 6,
+    "title": "Crypto Assets Analytics & Portfolio Tracker ",
+    "slug": "crypto-assets-analytics-portfolio-tracker",
+    "client": "Orange Kode",
+    "category": "Web Application",
+    "description": "Pengembangan menyeluruh Crypto Assets Analytics & Portfolio Tracker  dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "React Native",
+      "Node.js",
+      "Express",
+      "Redis"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/6",
+    "githubUrl": "https://github.com/example-org/project-6",
+    "image": "https://picsum.photos/800/500?project_6",
+    "completedAt": "2025-10-07"
+  },
+  {
+    "id": 7,
+    "title": "Smart City IoT Flood Early Warning System ",
+    "slug": "smart-city-iot-flood-early-warning-system",
+    "client": "FinPay Nusantara",
+    "category": "Mobile Application",
+    "description": "Pengembangan menyeluruh Smart City IoT Flood Early Warning System  dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Vue.js",
+      "Go",
+      "Docker",
+      "MongoDB"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/7",
+    "githubUrl": "https://github.com/example-org/project-7",
+    "image": "https://picsum.photos/800/500?project_7",
+    "completedAt": "2025-11-08"
+  },
+  {
+    "id": 8,
+    "title": "Hospitality Hotel Booking Engine & CMS ",
+    "slug": "hospitality-hotel-booking-engine-cms",
+    "client": "Nusantara AI Labs",
+    "category": "Web Application",
+    "description": "Pengembangan menyeluruh Hospitality Hotel Booking Engine & CMS  dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Flutter",
+      "Python",
+      "FastAPI",
+      "PostGIS"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/8",
+    "githubUrl": "https://github.com/example-org/project-8",
+    "image": "https://picsum.photos/800/500?project_8",
+    "completedAt": "2025-12-09"
+  },
+  {
+    "id": 9,
+    "title": "Automated HRIS & Payroll Processing Suite ",
+    "slug": "automated-hris-payroll-processing-suite",
+    "client": "CloudScale DevOps",
+    "category": "Mobile Application",
+    "description": "Pengembangan menyeluruh Automated HRIS & Payroll Processing Suite  dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Angular",
+      "NestJS",
+      "Kafka",
+      "MySQL"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/9",
+    "githubUrl": "https://github.com/example-org/project-9",
+    "image": "https://picsum.photos/800/500?project_9",
+    "completedAt": "2025-10-10"
+  },
+  {
+    "id": 10,
+    "title": "Supply Chain Warehouse Management System ",
+    "slug": "supply-chain-warehouse-management-system",
+    "client": "Sadino Technology",
+    "category": "Web Application",
+    "description": "Pengembangan menyeluruh Supply Chain Warehouse Management System  dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "PostgreSQL"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/10",
+    "githubUrl": "https://github.com/example-org/project-10",
+    "image": "https://picsum.photos/800/500?project_10",
+    "completedAt": "2025-11-11"
+  },
+  {
+    "id": 11,
+    "title": "Real-Estate Virtual Tour & Listing Portal ",
+    "slug": "real-estate-virtual-tour-listing-portal",
+    "client": "Orange Kode",
+    "category": "Mobile Application",
+    "description": "Pengembangan menyeluruh Real-Estate Virtual Tour & Listing Portal  dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "React Native",
+      "Node.js",
+      "Express",
+      "Redis"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/11",
+    "githubUrl": "https://github.com/example-org/project-11",
+    "image": "https://picsum.photos/800/500?project_11",
+    "completedAt": "2025-12-12"
+  },
+  {
+    "id": 12,
+    "title": "Social Commerce Live Streaming Application ",
+    "slug": "social-commerce-live-streaming-application",
+    "client": "FinPay Nusantara",
+    "category": "Web Application",
+    "description": "Pengembangan menyeluruh Social Commerce Live Streaming Application  dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Vue.js",
+      "Go",
+      "Docker",
+      "MongoDB"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/12",
+    "githubUrl": "https://github.com/example-org/project-12",
+    "image": "https://picsum.photos/800/500?project_12",
+    "completedAt": "2025-10-13"
+  },
+  {
+    "id": 13,
+    "title": "Digital Notary & Legal Contract Lifecycle ",
+    "slug": "digital-notary-legal-contract-lifecycle",
+    "client": "Nusantara AI Labs",
+    "category": "Mobile Application",
+    "description": "Pengembangan menyeluruh Digital Notary & Legal Contract Lifecycle  dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Flutter",
+      "Python",
+      "FastAPI",
+      "PostGIS"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/13",
+    "githubUrl": "https://github.com/example-org/project-13",
+    "image": "https://picsum.photos/800/500?project_13",
+    "completedAt": "2025-11-14"
+  },
+  {
+    "id": 14,
+    "title": "Omnichannel E-Commerce Dashboard v2",
+    "slug": "omnichannel-e-commerce-dashboard-v2",
+    "client": "CloudScale DevOps",
+    "category": "Web Application",
+    "description": "Pengembangan menyeluruh Omnichannel E-Commerce Dashboard v2 dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Angular",
+      "NestJS",
+      "Kafka",
+      "MySQL"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/14",
+    "githubUrl": "https://github.com/example-org/project-14",
+    "image": "https://picsum.photos/800/500?project_14",
+    "completedAt": "2025-12-15"
+  },
+  {
+    "id": 15,
+    "title": "Telemedicine Doctor Booking Web & Mobile v2",
+    "slug": "telemedicine-doctor-booking-web-mobile-v2",
+    "client": "Sadino Technology",
+    "category": "Mobile Application",
+    "description": "Pengembangan menyeluruh Telemedicine Doctor Booking Web & Mobile v2 dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "PostgreSQL"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/15",
+    "githubUrl": "https://github.com/example-org/project-15",
+    "image": "https://picsum.photos/800/500?project_15",
+    "completedAt": "2025-10-16"
+  },
+  {
+    "id": 16,
+    "title": "Fintech P2P Micro-lending Mobile App v2",
+    "slug": "fintech-p2p-micro-lending-mobile-app-v2",
+    "client": "Orange Kode",
+    "category": "Web Application",
+    "description": "Pengembangan menyeluruh Fintech P2P Micro-lending Mobile App v2 dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "React Native",
+      "Node.js",
+      "Express",
+      "Redis"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/16",
+    "githubUrl": "https://github.com/example-org/project-16",
+    "image": "https://picsum.photos/800/500?project_16",
+    "completedAt": "2025-11-17"
+  },
+  {
+    "id": 17,
+    "title": "Smart Logistics Fleet Telematics Platform v2",
+    "slug": "smart-logistics-fleet-telematics-platform-v2",
+    "client": "FinPay Nusantara",
+    "category": "Mobile Application",
+    "description": "Pengembangan menyeluruh Smart Logistics Fleet Telematics Platform v2 dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Vue.js",
+      "Go",
+      "Docker",
+      "MongoDB"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/17",
+    "githubUrl": "https://github.com/example-org/project-17",
+    "image": "https://picsum.photos/800/500?project_17",
+    "completedAt": "2025-12-18"
+  },
+  {
+    "id": 18,
+    "title": "EdTech Interactive Gamified LMS v2",
+    "slug": "edtech-interactive-gamified-lms-v2",
+    "client": "Nusantara AI Labs",
+    "category": "Web Application",
+    "description": "Pengembangan menyeluruh EdTech Interactive Gamified LMS v2 dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Flutter",
+      "Python",
+      "FastAPI",
+      "PostGIS"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/18",
+    "githubUrl": "https://github.com/example-org/project-18",
+    "image": "https://picsum.photos/800/500?project_18",
+    "completedAt": "2025-10-19"
+  },
+  {
+    "id": 19,
+    "title": "Crypto Assets Analytics & Portfolio Tracker v2",
+    "slug": "crypto-assets-analytics-portfolio-tracker-v2",
+    "client": "CloudScale DevOps",
+    "category": "Mobile Application",
+    "description": "Pengembangan menyeluruh Crypto Assets Analytics & Portfolio Tracker v2 dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Angular",
+      "NestJS",
+      "Kafka",
+      "MySQL"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/19",
+    "githubUrl": "https://github.com/example-org/project-19",
+    "image": "https://picsum.photos/800/500?project_19",
+    "completedAt": "2025-11-20"
+  },
+  {
+    "id": 20,
+    "title": "Smart City IoT Flood Early Warning System v2",
+    "slug": "smart-city-iot-flood-early-warning-system-v2",
+    "client": "Sadino Technology",
+    "category": "Web Application",
+    "description": "Pengembangan menyeluruh Smart City IoT Flood Early Warning System v2 dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "PostgreSQL"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/20",
+    "githubUrl": "https://github.com/example-org/project-20",
+    "image": "https://picsum.photos/800/500?project_20",
+    "completedAt": "2025-12-21"
+  },
+  {
+    "id": 21,
+    "title": "Hospitality Hotel Booking Engine & CMS v2",
+    "slug": "hospitality-hotel-booking-engine-cms-v2",
+    "client": "Orange Kode",
+    "category": "Mobile Application",
+    "description": "Pengembangan menyeluruh Hospitality Hotel Booking Engine & CMS v2 dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "React Native",
+      "Node.js",
+      "Express",
+      "Redis"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/21",
+    "githubUrl": "https://github.com/example-org/project-21",
+    "image": "https://picsum.photos/800/500?project_21",
+    "completedAt": "2025-10-22"
+  },
+  {
+    "id": 22,
+    "title": "Automated HRIS & Payroll Processing Suite v2",
+    "slug": "automated-hris-payroll-processing-suite-v2",
+    "client": "FinPay Nusantara",
+    "category": "Web Application",
+    "description": "Pengembangan menyeluruh Automated HRIS & Payroll Processing Suite v2 dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Vue.js",
+      "Go",
+      "Docker",
+      "MongoDB"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/22",
+    "githubUrl": "https://github.com/example-org/project-22",
+    "image": "https://picsum.photos/800/500?project_22",
+    "completedAt": "2025-11-23"
+  },
+  {
+    "id": 23,
+    "title": "Supply Chain Warehouse Management System v2",
+    "slug": "supply-chain-warehouse-management-system-v2",
+    "client": "Nusantara AI Labs",
+    "category": "Mobile Application",
+    "description": "Pengembangan menyeluruh Supply Chain Warehouse Management System v2 dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Flutter",
+      "Python",
+      "FastAPI",
+      "PostGIS"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/23",
+    "githubUrl": "https://github.com/example-org/project-23",
+    "image": "https://picsum.photos/800/500?project_23",
+    "completedAt": "2025-12-24"
+  },
+  {
+    "id": 24,
+    "title": "Real-Estate Virtual Tour & Listing Portal v2",
+    "slug": "real-estate-virtual-tour-listing-portal-v2",
+    "client": "CloudScale DevOps",
+    "category": "Web Application",
+    "description": "Pengembangan menyeluruh Real-Estate Virtual Tour & Listing Portal v2 dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Angular",
+      "NestJS",
+      "Kafka",
+      "MySQL"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/24",
+    "githubUrl": "https://github.com/example-org/project-24",
+    "image": "https://picsum.photos/800/500?project_24",
+    "completedAt": "2025-10-25"
+  },
+  {
+    "id": 25,
+    "title": "Social Commerce Live Streaming Application v2",
+    "slug": "social-commerce-live-streaming-application-v2",
+    "client": "Sadino Technology",
+    "category": "Mobile Application",
+    "description": "Pengembangan menyeluruh Social Commerce Live Streaming Application v2 dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind",
+      "PostgreSQL"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/25",
+    "githubUrl": "https://github.com/example-org/project-25",
+    "image": "https://picsum.photos/800/500?project_25",
+    "completedAt": "2025-11-26"
+  },
+  {
+    "id": 26,
+    "title": "Digital Notary & Legal Contract Lifecycle v2",
+    "slug": "digital-notary-legal-contract-lifecycle-v2",
+    "client": "Orange Kode",
+    "category": "Web Application",
+    "description": "Pengembangan menyeluruh Digital Notary & Legal Contract Lifecycle v2 dari riset arsitektur sistem, UI/UX prototyping, hingga deployment cloud dengan SLA tinggi.",
+    "techStack": [
+      "React Native",
+      "Node.js",
+      "Express",
+      "Redis"
+    ],
+    "liveUrl": "https://showcase.example.com/projects/26",
+    "githubUrl": "https://github.com/example-org/project-26",
+    "image": "https://picsum.photos/800/500?project_26",
+    "completedAt": "2025-12-27"
+  }
+]

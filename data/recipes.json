@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi Goreng Spesial Nusantara ",
+    "cuisine": "Indonesian",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 15,
+    "servings": 3,
+    "difficulty": "Easy",
+    "caloriesPerServing": 480,
+    "image": "https://picsum.photos/600/400?recipe_1"
+  },
+  {
+    "id": 2,
+    "name": "Rendang Daging Sapi Padang ",
+    "cuisine": "Indonesian",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 180,
+    "servings": 4,
+    "difficulty": "Hard",
+    "caloriesPerServing": 650,
+    "image": "https://picsum.photos/600/400?recipe_2"
+  },
+  {
+    "id": 3,
+    "name": "Sate Ayam Madura Bumbu Kacang ",
+    "cuisine": "Indonesian",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 40,
+    "cookTimeMinutes": 20,
+    "servings": 2,
+    "difficulty": "Medium",
+    "caloriesPerServing": 520,
+    "image": "https://picsum.photos/600/400?recipe_3"
+  },
+  {
+    "id": 4,
+    "name": "Soto Ayam Lamongan Kuah Koya ",
+    "cuisine": "Indonesian",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 45,
+    "servings": 3,
+    "difficulty": "Medium",
+    "caloriesPerServing": 390,
+    "image": "https://picsum.photos/600/400?recipe_4"
+  },
+  {
+    "id": 5,
+    "name": "Gado-Gado Siram Bumbu Medok ",
+    "cuisine": "Indonesian",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "difficulty": "Easy",
+    "caloriesPerServing": 340,
+    "image": "https://picsum.photos/600/400?recipe_5"
+  },
+  {
+    "id": 6,
+    "name": "Spaghetti Carbonara Tradizionale ",
+    "cuisine": "Italian",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 15,
+    "servings": 2,
+    "difficulty": "Medium",
+    "caloriesPerServing": 580,
+    "image": "https://picsum.photos/600/400?recipe_6"
+  },
+  {
+    "id": 7,
+    "name": "Margherita Pizza Napoletana ",
+    "cuisine": "Italian",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 60,
+    "cookTimeMinutes": 10,
+    "servings": 3,
+    "difficulty": "Medium",
+    "caloriesPerServing": 680,
+    "image": "https://picsum.photos/600/400?recipe_7"
+  },
+  {
+    "id": 8,
+    "name": "Japanese Chicken Katsu Curry ",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 30,
+    "servings": 4,
+    "difficulty": "Medium",
+    "caloriesPerServing": 720,
+    "image": "https://picsum.photos/600/400?recipe_8"
+  },
+  {
+    "id": 9,
+    "name": "Salmon Sashimi & Nigiri Platter ",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 0,
+    "servings": 2,
+    "difficulty": "Medium",
+    "caloriesPerServing": 420,
+    "image": "https://picsum.photos/600/400?recipe_9"
+  },
+  {
+    "id": 10,
+    "name": "Tom Yum Goong Seafood Soup ",
+    "cuisine": "Thai",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 3,
+    "difficulty": "Medium",
+    "caloriesPerServing": 310,
+    "image": "https://picsum.photos/600/400?recipe_10"
+  },
+  {
+    "id": 11,
+    "name": "Pad Thai Noodles with Tiger Prawns ",
+    "cuisine": "Thai",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "difficulty": "Easy",
+    "caloriesPerServing": 490,
+    "image": "https://picsum.photos/600/400?recipe_11"
+  },
+  {
+    "id": 12,
+    "name": "Butter Chicken Masala with Naan ",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 40,
+    "servings": 2,
+    "difficulty": "Medium",
+    "caloriesPerServing": 690,
+    "image": "https://picsum.photos/600/400?recipe_12"
+  },
+  {
+    "id": 13,
+    "name": "Classic Smash Cheeseburger & Fries ",
+    "cuisine": "American",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 10,
+    "servings": 3,
+    "difficulty": "Easy",
+    "caloriesPerServing": 780,
+    "image": "https://picsum.photos/600/400?recipe_13"
+  },
+  {
+    "id": 14,
+    "name": "Nasi Goreng Spesial Nusantara Variasi 2",
+    "cuisine": "Indonesian",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 15,
+    "servings": 4,
+    "difficulty": "Easy",
+    "caloriesPerServing": 480,
+    "image": "https://picsum.photos/600/400?recipe_14"
+  },
+  {
+    "id": 15,
+    "name": "Rendang Daging Sapi Padang Variasi 3",
+    "cuisine": "Indonesian",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 180,
+    "servings": 2,
+    "difficulty": "Hard",
+    "caloriesPerServing": 650,
+    "image": "https://picsum.photos/600/400?recipe_15"
+  },
+  {
+    "id": 16,
+    "name": "Sate Ayam Madura Bumbu Kacang Variasi 4",
+    "cuisine": "Indonesian",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 40,
+    "cookTimeMinutes": 20,
+    "servings": 3,
+    "difficulty": "Medium",
+    "caloriesPerServing": 520,
+    "image": "https://picsum.photos/600/400?recipe_16"
+  },
+  {
+    "id": 17,
+    "name": "Soto Ayam Lamongan Kuah Koya Variasi 5",
+    "cuisine": "Indonesian",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 45,
+    "servings": 4,
+    "difficulty": "Medium",
+    "caloriesPerServing": 390,
+    "image": "https://picsum.photos/600/400?recipe_17"
+  },
+  {
+    "id": 18,
+    "name": "Gado-Gado Siram Bumbu Medok Variasi 6",
+    "cuisine": "Indonesian",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "caloriesPerServing": 340,
+    "image": "https://picsum.photos/600/400?recipe_18"
+  },
+  {
+    "id": 19,
+    "name": "Spaghetti Carbonara Tradizionale Variasi 7",
+    "cuisine": "Italian",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 15,
+    "servings": 3,
+    "difficulty": "Medium",
+    "caloriesPerServing": 580,
+    "image": "https://picsum.photos/600/400?recipe_19"
+  },
+  {
+    "id": 20,
+    "name": "Margherita Pizza Napoletana Variasi 8",
+    "cuisine": "Italian",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 60,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "difficulty": "Medium",
+    "caloriesPerServing": 680,
+    "image": "https://picsum.photos/600/400?recipe_20"
+  },
+  {
+    "id": 21,
+    "name": "Japanese Chicken Katsu Curry Variasi 9",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 30,
+    "servings": 2,
+    "difficulty": "Medium",
+    "caloriesPerServing": 720,
+    "image": "https://picsum.photos/600/400?recipe_21"
+  },
+  {
+    "id": 22,
+    "name": "Salmon Sashimi & Nigiri Platter Variasi 10",
+    "cuisine": "Japanese",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 0,
+    "servings": 3,
+    "difficulty": "Medium",
+    "caloriesPerServing": 420,
+    "image": "https://picsum.photos/600/400?recipe_22"
+  },
+  {
+    "id": 23,
+    "name": "Tom Yum Goong Seafood Soup Variasi 11",
+    "cuisine": "Thai",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "servings": 4,
+    "difficulty": "Medium",
+    "caloriesPerServing": 310,
+    "image": "https://picsum.photos/600/400?recipe_23"
+  },
+  {
+    "id": 24,
+    "name": "Pad Thai Noodles with Tiger Prawns Variasi 12",
+    "cuisine": "Thai",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 15,
+    "servings": 2,
+    "difficulty": "Easy",
+    "caloriesPerServing": 490,
+    "image": "https://picsum.photos/600/400?recipe_24"
+  },
+  {
+    "id": 25,
+    "name": "Butter Chicken Masala with Naan Variasi 13",
+    "cuisine": "Indian",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 40,
+    "servings": 3,
+    "difficulty": "Medium",
+    "caloriesPerServing": 690,
+    "image": "https://picsum.photos/600/400?recipe_25"
+  },
+  {
+    "id": 26,
+    "name": "Classic Smash Cheeseburger & Fries Variasi 14",
+    "cuisine": "American",
+    "ingredients": [
+      "Bahan utama segar pilihan",
+      "Bawang merah & putih cincang halus",
+      "Minyak nabati kualitas terbaik",
+      "Rempah-rempah tradisional aromatik",
+      "Garam laut dan lada bubuk secukupnya"
+    ],
+    "instructions": [
+      "Siapkan seluruh bahan baku dan cuci bersih di air mengalir.",
+      "Tumis bumbu halus dengan api sedang hingga mengeluarkan aroma harum.",
+      "Masukkan bahan utama lalu aduk merata hingga setengah matang.",
+      "Tambahkan kaldu dan masak dengan api kecil hingga bumbu meresap sempurna.",
+      "Angkat dan sajikan selagi hangat dengan taburan hiasan segar."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 10,
+    "servings": 4,
+    "difficulty": "Easy",
+    "caloriesPerServing": 780,
+    "image": "https://picsum.photos/600/400?recipe_26"
+  }
+]

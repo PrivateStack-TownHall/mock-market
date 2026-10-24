@@ -1,0 +1,756 @@
+[
+  {
+    "id": 1,
+    "orderNumber": "ORD-2026-1001",
+    "userId": 2,
+    "items": [
+      {
+        "productId": 2,
+        "title": "Dell XPS 15 OLED",
+        "price": 1899,
+        "quantity": 1
+      },
+      {
+        "productId": 7,
+        "title": "LG UltraFine 27\" 4K Monitor",
+        "price": 549,
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 2997,
+    "paymentMethod": "Bank Transfer",
+    "paymentStatus": "Paid",
+    "orderStatus": "Delivered",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 3",
+      "city": "Bandung",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-02T10:15:00Z"
+  },
+  {
+    "id": 2,
+    "orderNumber": "ORD-2026-1002",
+    "userId": 3,
+    "items": [
+      {
+        "productId": 3,
+        "title": "Keychron Q1 Pro Mechanical Keyboard",
+        "price": 199,
+        "quantity": 1
+      },
+      {
+        "productId": 8,
+        "title": "Samsung Odyssey Neo G9 Gaming Monitor",
+        "price": 1299,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 1498,
+    "paymentMethod": "E-Wallet",
+    "paymentStatus": "Paid",
+    "orderStatus": "Shipped",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 6",
+      "city": "Surabaya",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-03T10:15:00Z"
+  },
+  {
+    "id": 3,
+    "orderNumber": "ORD-2026-1003",
+    "userId": 4,
+    "items": [
+      {
+        "productId": 4,
+        "title": "Logitech MX Master 3S",
+        "price": 99,
+        "quantity": 1
+      },
+      {
+        "productId": 9,
+        "title": "iPad Pro 13\" M4 OLED",
+        "price": 1199,
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 2497,
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "Pending",
+    "orderStatus": "Processing",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 9",
+      "city": "Yogyakarta",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-04T10:15:00Z"
+  },
+  {
+    "id": 4,
+    "orderNumber": "ORD-2026-1004",
+    "userId": 5,
+    "items": [
+      {
+        "productId": 5,
+        "title": "Sony WH-1000XM5 Noise-Canceling",
+        "price": 399,
+        "quantity": 1
+      },
+      {
+        "productId": 10,
+        "title": "Samsung Galaxy Tab S9 Ultra",
+        "price": 999,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 1398,
+    "paymentMethod": "Bank Transfer",
+    "paymentStatus": "Failed",
+    "orderStatus": "Cancelled",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 12",
+      "city": "Medan",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-05T10:15:00Z"
+  },
+  {
+    "id": 5,
+    "orderNumber": "ORD-2026-1005",
+    "userId": 6,
+    "items": [
+      {
+        "productId": 6,
+        "title": "Bose QuietComfort Ultra",
+        "price": 429,
+        "quantity": 1
+      },
+      {
+        "productId": 11,
+        "title": "iPhone 16 Pro Max 256GB",
+        "price": 1199,
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 2827,
+    "paymentMethod": "E-Wallet",
+    "paymentStatus": "Refunded",
+    "orderStatus": "Delivered",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 15",
+      "city": "Semarang",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-06T10:15:00Z"
+  },
+  {
+    "id": 6,
+    "orderNumber": "ORD-2026-1006",
+    "userId": 7,
+    "items": [
+      {
+        "productId": 7,
+        "title": "LG UltraFine 27\" 4K Monitor",
+        "price": 549,
+        "quantity": 1
+      },
+      {
+        "productId": 12,
+        "title": "Samsung Galaxy S24 Ultra",
+        "price": 1149,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 1698,
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "Paid",
+    "orderStatus": "Delivered",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 18",
+      "city": "Denpasar",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-07T10:15:00Z"
+  },
+  {
+    "id": 7,
+    "orderNumber": "ORD-2026-1007",
+    "userId": 8,
+    "items": [
+      {
+        "productId": 8,
+        "title": "Samsung Odyssey Neo G9 Gaming Monitor",
+        "price": 1299,
+        "quantity": 1
+      },
+      {
+        "productId": 13,
+        "title": "Google Pixel 9 Pro XL",
+        "price": 1099,
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 3497,
+    "paymentMethod": "Bank Transfer",
+    "paymentStatus": "Paid",
+    "orderStatus": "Shipped",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 21",
+      "city": "Malang",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-08T10:15:00Z"
+  },
+  {
+    "id": 8,
+    "orderNumber": "ORD-2026-1008",
+    "userId": 9,
+    "items": [
+      {
+        "productId": 9,
+        "title": "iPad Pro 13\" M4 OLED",
+        "price": 1199,
+        "quantity": 1
+      },
+      {
+        "productId": 14,
+        "title": "Anker Prime 20,000mAh Power Bank",
+        "price": 89,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 1288,
+    "paymentMethod": "E-Wallet",
+    "paymentStatus": "Paid",
+    "orderStatus": "Processing",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 24",
+      "city": "Tangerang",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-09T10:15:00Z"
+  },
+  {
+    "id": 9,
+    "orderNumber": "ORD-2026-1009",
+    "userId": 10,
+    "items": [
+      {
+        "productId": 10,
+        "title": "Samsung Galaxy Tab S9 Ultra",
+        "price": 999,
+        "quantity": 1
+      },
+      {
+        "productId": 15,
+        "title": "CalDigit TS4 Thunderbolt 4 Dock",
+        "price": 399,
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 1797,
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "Pending",
+    "orderStatus": "Cancelled",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 27",
+      "city": "Bekasi",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-10T10:15:00Z"
+  },
+  {
+    "id": 10,
+    "orderNumber": "ORD-2026-1010",
+    "userId": 11,
+    "items": [
+      {
+        "productId": 11,
+        "title": "iPhone 16 Pro Max 256GB",
+        "price": 1199,
+        "quantity": 1
+      },
+      {
+        "productId": 16,
+        "title": "Elgato Stream Deck MK.2",
+        "price": 149,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 1348,
+    "paymentMethod": "Bank Transfer",
+    "paymentStatus": "Failed",
+    "orderStatus": "Delivered",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 30",
+      "city": "Jakarta",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-11T10:15:00Z"
+  },
+  {
+    "id": 11,
+    "orderNumber": "ORD-2026-1011",
+    "userId": 12,
+    "items": [
+      {
+        "productId": 12,
+        "title": "Samsung Galaxy S24 Ultra",
+        "price": 1149,
+        "quantity": 1
+      },
+      {
+        "productId": 17,
+        "title": "Shure SM7B Vocal Dynamic Mic",
+        "price": 399,
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 1947,
+    "paymentMethod": "E-Wallet",
+    "paymentStatus": "Refunded",
+    "orderStatus": "Delivered",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 33",
+      "city": "Bandung",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-12T10:15:00Z"
+  },
+  {
+    "id": 12,
+    "orderNumber": "ORD-2026-1012",
+    "userId": 13,
+    "items": [
+      {
+        "productId": 13,
+        "title": "Google Pixel 9 Pro XL",
+        "price": 1099,
+        "quantity": 1
+      },
+      {
+        "productId": 18,
+        "title": "Sony Alpha A7 IV Mirrorless Camera",
+        "price": 2498,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 3597,
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "Paid",
+    "orderStatus": "Shipped",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 36",
+      "city": "Surabaya",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-13T10:15:00Z"
+  },
+  {
+    "id": 13,
+    "orderNumber": "ORD-2026-1013",
+    "userId": 14,
+    "items": [
+      {
+        "productId": 14,
+        "title": "Anker Prime 20,000mAh Power Bank",
+        "price": 89,
+        "quantity": 1
+      },
+      {
+        "productId": 19,
+        "title": "DJI Mini 4 Pro Drone",
+        "price": 759,
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 1607,
+    "paymentMethod": "Bank Transfer",
+    "paymentStatus": "Paid",
+    "orderStatus": "Processing",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 39",
+      "city": "Yogyakarta",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-14T10:15:00Z"
+  },
+  {
+    "id": 14,
+    "orderNumber": "ORD-2026-1014",
+    "userId": 15,
+    "items": [
+      {
+        "productId": 15,
+        "title": "CalDigit TS4 Thunderbolt 4 Dock",
+        "price": 399,
+        "quantity": 1
+      },
+      {
+        "productId": 20,
+        "title": "Secretlab TITAN Evo Gaming Chair",
+        "price": 549,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 948,
+    "paymentMethod": "E-Wallet",
+    "paymentStatus": "Paid",
+    "orderStatus": "Cancelled",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 42",
+      "city": "Medan",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-15T10:15:00Z"
+  },
+  {
+    "id": 15,
+    "orderNumber": "ORD-2026-1015",
+    "userId": 16,
+    "items": [
+      {
+        "productId": 16,
+        "title": "Elgato Stream Deck MK.2",
+        "price": 149,
+        "quantity": 1
+      },
+      {
+        "productId": 21,
+        "title": "Autonomous SmartDesk Pro",
+        "price": 699,
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 1547,
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "Pending",
+    "orderStatus": "Delivered",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 45",
+      "city": "Semarang",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-16T10:15:00Z"
+  },
+  {
+    "id": 16,
+    "orderNumber": "ORD-2026-1016",
+    "userId": 17,
+    "items": [
+      {
+        "productId": 17,
+        "title": "Shure SM7B Vocal Dynamic Mic",
+        "price": 399,
+        "quantity": 1
+      },
+      {
+        "productId": 22,
+        "title": "Synology DiskStation DS923+ NAS",
+        "price": 599,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 998,
+    "paymentMethod": "Bank Transfer",
+    "paymentStatus": "Failed",
+    "orderStatus": "Delivered",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 48",
+      "city": "Denpasar",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-17T10:15:00Z"
+  },
+  {
+    "id": 17,
+    "orderNumber": "ORD-2026-1017",
+    "userId": 18,
+    "items": [
+      {
+        "productId": 18,
+        "title": "Sony Alpha A7 IV Mirrorless Camera",
+        "price": 2498,
+        "quantity": 1
+      },
+      {
+        "productId": 23,
+        "title": "Samsung 990 PRO 2TB NVMe SSD",
+        "price": 179,
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 2856,
+    "paymentMethod": "E-Wallet",
+    "paymentStatus": "Refunded",
+    "orderStatus": "Shipped",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 51",
+      "city": "Malang",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-18T10:15:00Z"
+  },
+  {
+    "id": 18,
+    "orderNumber": "ORD-2026-1018",
+    "userId": 19,
+    "items": [
+      {
+        "productId": 19,
+        "title": "DJI Mini 4 Pro Drone",
+        "price": 759,
+        "quantity": 1
+      },
+      {
+        "productId": 24,
+        "title": "Ubiquiti UniFi Dream Machine Pro",
+        "price": 379,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 1138,
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "Paid",
+    "orderStatus": "Processing",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 54",
+      "city": "Tangerang",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-19T10:15:00Z"
+  },
+  {
+    "id": 19,
+    "orderNumber": "ORD-2026-1019",
+    "userId": 20,
+    "items": [
+      {
+        "productId": 20,
+        "title": "Secretlab TITAN Evo Gaming Chair",
+        "price": 549,
+        "quantity": 1
+      },
+      {
+        "productId": 25,
+        "title": "ASUS ROG Rapture GT-AXE16000 Router",
+        "price": 599,
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 1747,
+    "paymentMethod": "Bank Transfer",
+    "paymentStatus": "Paid",
+    "orderStatus": "Cancelled",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 57",
+      "city": "Bekasi",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-20T10:15:00Z"
+  },
+  {
+    "id": 20,
+    "orderNumber": "ORD-2026-1020",
+    "userId": 21,
+    "items": [
+      {
+        "productId": 21,
+        "title": "Autonomous SmartDesk Pro",
+        "price": 699,
+        "quantity": 1
+      },
+      {
+        "productId": 26,
+        "title": "Kindle Paperwhite Signature Edition",
+        "price": 189,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 888,
+    "paymentMethod": "E-Wallet",
+    "paymentStatus": "Paid",
+    "orderStatus": "Delivered",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 60",
+      "city": "Jakarta",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-21T10:15:00Z"
+  },
+  {
+    "id": 21,
+    "orderNumber": "ORD-2026-1021",
+    "userId": 22,
+    "items": [
+      {
+        "productId": 22,
+        "title": "Synology DiskStation DS923+ NAS",
+        "price": 599,
+        "quantity": 1
+      },
+      {
+        "productId": 1,
+        "title": "MacBook Pro 16 M3 Max",
+        "price": 2499,
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 5597,
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "Pending",
+    "orderStatus": "Delivered",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 63",
+      "city": "Bandung",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-22T10:15:00Z"
+  },
+  {
+    "id": 22,
+    "orderNumber": "ORD-2026-1022",
+    "userId": 23,
+    "items": [
+      {
+        "productId": 23,
+        "title": "Samsung 990 PRO 2TB NVMe SSD",
+        "price": 179,
+        "quantity": 1
+      },
+      {
+        "productId": 2,
+        "title": "Dell XPS 15 OLED",
+        "price": 1899,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 2078,
+    "paymentMethod": "Bank Transfer",
+    "paymentStatus": "Failed",
+    "orderStatus": "Shipped",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 66",
+      "city": "Surabaya",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-23T10:15:00Z"
+  },
+  {
+    "id": 23,
+    "orderNumber": "ORD-2026-1023",
+    "userId": 24,
+    "items": [
+      {
+        "productId": 24,
+        "title": "Ubiquiti UniFi Dream Machine Pro",
+        "price": 379,
+        "quantity": 1
+      },
+      {
+        "productId": 3,
+        "title": "Keychron Q1 Pro Mechanical Keyboard",
+        "price": 199,
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 777,
+    "paymentMethod": "E-Wallet",
+    "paymentStatus": "Refunded",
+    "orderStatus": "Processing",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 69",
+      "city": "Yogyakarta",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-24T10:15:00Z"
+  },
+  {
+    "id": 24,
+    "orderNumber": "ORD-2026-1024",
+    "userId": 25,
+    "items": [
+      {
+        "productId": 25,
+        "title": "ASUS ROG Rapture GT-AXE16000 Router",
+        "price": 599,
+        "quantity": 1
+      },
+      {
+        "productId": 4,
+        "title": "Logitech MX Master 3S",
+        "price": 99,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 698,
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "Paid",
+    "orderStatus": "Cancelled",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 72",
+      "city": "Medan",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-25T10:15:00Z"
+  },
+  {
+    "id": 25,
+    "orderNumber": "ORD-2026-1025",
+    "userId": 26,
+    "items": [
+      {
+        "productId": 26,
+        "title": "Kindle Paperwhite Signature Edition",
+        "price": 189,
+        "quantity": 1
+      },
+      {
+        "productId": 5,
+        "title": "Sony WH-1000XM5 Noise-Canceling",
+        "price": 399,
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 987,
+    "paymentMethod": "Bank Transfer",
+    "paymentStatus": "Paid",
+    "orderStatus": "Delivered",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 75",
+      "city": "Semarang",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-26T10:15:00Z"
+  },
+  {
+    "id": 26,
+    "orderNumber": "ORD-2026-1026",
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1,
+        "title": "MacBook Pro 16 M3 Max",
+        "price": 2499,
+        "quantity": 1
+      },
+      {
+        "productId": 6,
+        "title": "Bose QuietComfort Ultra",
+        "price": 429,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 2928,
+    "paymentMethod": "E-Wallet",
+    "paymentStatus": "Paid",
+    "orderStatus": "Delivered",
+    "shippingAddress": {
+      "street": "Jl. Gatot Subroto Kav. 78",
+      "city": "Denpasar",
+      "country": "Indonesia"
+    },
+    "createdAt": "2026-03-27T10:15:00Z"
+  }
+]

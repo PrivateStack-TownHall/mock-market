@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "serverNode": "node-us-east-1-a1",
+    "region": "us-east-1",
+    "cpuUsagePercent": 15,
+    "ramUsagePercent": 30,
+    "diskUsageGb": 50,
+    "uptimeDays": 20,
+    "healthStatus": "warning"
+  },
+  {
+    "id": 2,
+    "serverNode": "node-us-west-2-b2",
+    "region": "us-west-2",
+    "cpuUsagePercent": 16.1,
+    "ramUsagePercent": 31.1,
+    "diskUsageGb": 65,
+    "uptimeDays": 32,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 3,
+    "serverNode": "node-eu-central-1-c3",
+    "region": "eu-central-1",
+    "cpuUsagePercent": 17.2,
+    "ramUsagePercent": 32.2,
+    "diskUsageGb": 80,
+    "uptimeDays": 44,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 4,
+    "serverNode": "node-ap-southeast-1-d4",
+    "region": "ap-southeast-1",
+    "cpuUsagePercent": 18.3,
+    "ramUsagePercent": 33.3,
+    "diskUsageGb": 95,
+    "uptimeDays": 56,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 5,
+    "serverNode": "node-ap-northeast-1-a5",
+    "region": "ap-northeast-1",
+    "cpuUsagePercent": 19.4,
+    "ramUsagePercent": 34.4,
+    "diskUsageGb": 110,
+    "uptimeDays": 68,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 6,
+    "serverNode": "node-us-east-1-b6",
+    "region": "us-east-1",
+    "cpuUsagePercent": 20.5,
+    "ramUsagePercent": 35.5,
+    "diskUsageGb": 125,
+    "uptimeDays": 80,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 7,
+    "serverNode": "node-us-west-2-c7",
+    "region": "us-west-2",
+    "cpuUsagePercent": 21.6,
+    "ramUsagePercent": 36.6,
+    "diskUsageGb": 140,
+    "uptimeDays": 92,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 8,
+    "serverNode": "node-eu-central-1-d8",
+    "region": "eu-central-1",
+    "cpuUsagePercent": 22.7,
+    "ramUsagePercent": 37.7,
+    "diskUsageGb": 155,
+    "uptimeDays": 104,
+    "healthStatus": "warning"
+  },
+  {
+    "id": 9,
+    "serverNode": "node-ap-southeast-1-a9",
+    "region": "ap-southeast-1",
+    "cpuUsagePercent": 23.8,
+    "ramUsagePercent": 38.8,
+    "diskUsageGb": 170,
+    "uptimeDays": 116,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 10,
+    "serverNode": "node-ap-northeast-1-b10",
+    "region": "ap-northeast-1",
+    "cpuUsagePercent": 24.9,
+    "ramUsagePercent": 39.9,
+    "diskUsageGb": 185,
+    "uptimeDays": 128,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 11,
+    "serverNode": "node-us-east-1-c11",
+    "region": "us-east-1",
+    "cpuUsagePercent": 26,
+    "ramUsagePercent": 41,
+    "diskUsageGb": 200,
+    "uptimeDays": 140,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 12,
+    "serverNode": "node-us-west-2-d12",
+    "region": "us-west-2",
+    "cpuUsagePercent": 27.1,
+    "ramUsagePercent": 42.1,
+    "diskUsageGb": 215,
+    "uptimeDays": 152,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 13,
+    "serverNode": "node-eu-central-1-a13",
+    "region": "eu-central-1",
+    "cpuUsagePercent": 28.2,
+    "ramUsagePercent": 43.2,
+    "diskUsageGb": 230,
+    "uptimeDays": 164,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 14,
+    "serverNode": "node-ap-southeast-1-b14",
+    "region": "ap-southeast-1",
+    "cpuUsagePercent": 29.3,
+    "ramUsagePercent": 44.3,
+    "diskUsageGb": 245,
+    "uptimeDays": 176,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 15,
+    "serverNode": "node-ap-northeast-1-c15",
+    "region": "ap-northeast-1",
+    "cpuUsagePercent": 30.4,
+    "ramUsagePercent": 45.4,
+    "diskUsageGb": 260,
+    "uptimeDays": 188,
+    "healthStatus": "warning"
+  },
+  {
+    "id": 16,
+    "serverNode": "node-us-east-1-d16",
+    "region": "us-east-1",
+    "cpuUsagePercent": 31.5,
+    "ramUsagePercent": 46.5,
+    "diskUsageGb": 275,
+    "uptimeDays": 200,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 17,
+    "serverNode": "node-us-west-2-a17",
+    "region": "us-west-2",
+    "cpuUsagePercent": 32.6,
+    "ramUsagePercent": 47.6,
+    "diskUsageGb": 290,
+    "uptimeDays": 212,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 18,
+    "serverNode": "node-eu-central-1-b18",
+    "region": "eu-central-1",
+    "cpuUsagePercent": 33.7,
+    "ramUsagePercent": 48.7,
+    "diskUsageGb": 305,
+    "uptimeDays": 224,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 19,
+    "serverNode": "node-ap-southeast-1-c19",
+    "region": "ap-southeast-1",
+    "cpuUsagePercent": 34.8,
+    "ramUsagePercent": 49.8,
+    "diskUsageGb": 320,
+    "uptimeDays": 236,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 20,
+    "serverNode": "node-ap-northeast-1-d20",
+    "region": "ap-northeast-1",
+    "cpuUsagePercent": 35.9,
+    "ramUsagePercent": 50.9,
+    "diskUsageGb": 335,
+    "uptimeDays": 248,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 21,
+    "serverNode": "node-us-east-1-a21",
+    "region": "us-east-1",
+    "cpuUsagePercent": 37,
+    "ramUsagePercent": 52,
+    "diskUsageGb": 350,
+    "uptimeDays": 260,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 22,
+    "serverNode": "node-us-west-2-b22",
+    "region": "us-west-2",
+    "cpuUsagePercent": 38.1,
+    "ramUsagePercent": 53.1,
+    "diskUsageGb": 365,
+    "uptimeDays": 272,
+    "healthStatus": "warning"
+  },
+  {
+    "id": 23,
+    "serverNode": "node-eu-central-1-c23",
+    "region": "eu-central-1",
+    "cpuUsagePercent": 39.2,
+    "ramUsagePercent": 54.2,
+    "diskUsageGb": 380,
+    "uptimeDays": 284,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 24,
+    "serverNode": "node-ap-southeast-1-d24",
+    "region": "ap-southeast-1",
+    "cpuUsagePercent": 40.3,
+    "ramUsagePercent": 55.3,
+    "diskUsageGb": 395,
+    "uptimeDays": 296,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 25,
+    "serverNode": "node-ap-northeast-1-a25",
+    "region": "ap-northeast-1",
+    "cpuUsagePercent": 41.4,
+    "ramUsagePercent": 56.4,
+    "diskUsageGb": 410,
+    "uptimeDays": 308,
+    "healthStatus": "healthy"
+  },
+  {
+    "id": 26,
+    "serverNode": "node-us-east-1-b26",
+    "region": "us-east-1",
+    "cpuUsagePercent": 42.5,
+    "ramUsagePercent": 57.5,
+    "diskUsageGb": 425,
+    "uptimeDays": 320,
+    "healthStatus": "healthy"
+  }
+]

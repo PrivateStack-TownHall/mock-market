@@ -1,0 +1,626 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "products": [
+      {
+        "id": 2,
+        "title": "Dell XPS 15 OLED",
+        "price": 1899,
+        "quantity": 2,
+        "total": 3798
+      },
+      {
+        "id": 5,
+        "title": "Sony WH-1000XM5 Noise-Canceling",
+        "price": 399,
+        "quantity": 1,
+        "total": 399
+      }
+    ],
+    "total": 4197,
+    "discountedTotal": 3777,
+    "totalProducts": 2,
+    "totalQuantity": 3
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "products": [
+      {
+        "id": 3,
+        "title": "Keychron Q1 Pro Mechanical Keyboard",
+        "price": 199,
+        "quantity": 3,
+        "total": 597
+      },
+      {
+        "id": 6,
+        "title": "Bose QuietComfort Ultra",
+        "price": 429,
+        "quantity": 2,
+        "total": 858
+      }
+    ],
+    "total": 1455,
+    "discountedTotal": 1310,
+    "totalProducts": 2,
+    "totalQuantity": 5
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "products": [
+      {
+        "id": 4,
+        "title": "Logitech MX Master 3S",
+        "price": 99,
+        "quantity": 1,
+        "total": 99
+      },
+      {
+        "id": 7,
+        "title": "LG UltraFine 27\" 4K Monitor",
+        "price": 549,
+        "quantity": 1,
+        "total": 549
+      }
+    ],
+    "total": 648,
+    "discountedTotal": 583,
+    "totalProducts": 2,
+    "totalQuantity": 2
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "products": [
+      {
+        "id": 5,
+        "title": "Sony WH-1000XM5 Noise-Canceling",
+        "price": 399,
+        "quantity": 2,
+        "total": 798
+      },
+      {
+        "id": 8,
+        "title": "Samsung Odyssey Neo G9 Gaming Monitor",
+        "price": 1299,
+        "quantity": 2,
+        "total": 2598
+      }
+    ],
+    "total": 3396,
+    "discountedTotal": 3056,
+    "totalProducts": 2,
+    "totalQuantity": 4
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "products": [
+      {
+        "id": 6,
+        "title": "Bose QuietComfort Ultra",
+        "price": 429,
+        "quantity": 3,
+        "total": 1287
+      },
+      {
+        "id": 9,
+        "title": "iPad Pro 13\" M4 OLED",
+        "price": 1199,
+        "quantity": 1,
+        "total": 1199
+      }
+    ],
+    "total": 2486,
+    "discountedTotal": 2237,
+    "totalProducts": 2,
+    "totalQuantity": 4
+  },
+  {
+    "id": 6,
+    "userId": 6,
+    "products": [
+      {
+        "id": 7,
+        "title": "LG UltraFine 27\" 4K Monitor",
+        "price": 549,
+        "quantity": 1,
+        "total": 549
+      },
+      {
+        "id": 10,
+        "title": "Samsung Galaxy Tab S9 Ultra",
+        "price": 999,
+        "quantity": 2,
+        "total": 1998
+      }
+    ],
+    "total": 2547,
+    "discountedTotal": 2292,
+    "totalProducts": 2,
+    "totalQuantity": 3
+  },
+  {
+    "id": 7,
+    "userId": 7,
+    "products": [
+      {
+        "id": 8,
+        "title": "Samsung Odyssey Neo G9 Gaming Monitor",
+        "price": 1299,
+        "quantity": 2,
+        "total": 2598
+      },
+      {
+        "id": 11,
+        "title": "iPhone 16 Pro Max 256GB",
+        "price": 1199,
+        "quantity": 1,
+        "total": 1199
+      }
+    ],
+    "total": 3797,
+    "discountedTotal": 3417,
+    "totalProducts": 2,
+    "totalQuantity": 3
+  },
+  {
+    "id": 8,
+    "userId": 8,
+    "products": [
+      {
+        "id": 9,
+        "title": "iPad Pro 13\" M4 OLED",
+        "price": 1199,
+        "quantity": 3,
+        "total": 3597
+      },
+      {
+        "id": 12,
+        "title": "Samsung Galaxy S24 Ultra",
+        "price": 1149,
+        "quantity": 2,
+        "total": 2298
+      }
+    ],
+    "total": 5895,
+    "discountedTotal": 5306,
+    "totalProducts": 2,
+    "totalQuantity": 5
+  },
+  {
+    "id": 9,
+    "userId": 9,
+    "products": [
+      {
+        "id": 10,
+        "title": "Samsung Galaxy Tab S9 Ultra",
+        "price": 999,
+        "quantity": 1,
+        "total": 999
+      },
+      {
+        "id": 13,
+        "title": "Google Pixel 9 Pro XL",
+        "price": 1099,
+        "quantity": 1,
+        "total": 1099
+      }
+    ],
+    "total": 2098,
+    "discountedTotal": 1888,
+    "totalProducts": 2,
+    "totalQuantity": 2
+  },
+  {
+    "id": 10,
+    "userId": 10,
+    "products": [
+      {
+        "id": 11,
+        "title": "iPhone 16 Pro Max 256GB",
+        "price": 1199,
+        "quantity": 2,
+        "total": 2398
+      },
+      {
+        "id": 14,
+        "title": "Anker Prime 20,000mAh Power Bank",
+        "price": 89,
+        "quantity": 2,
+        "total": 178
+      }
+    ],
+    "total": 2576,
+    "discountedTotal": 2318,
+    "totalProducts": 2,
+    "totalQuantity": 4
+  },
+  {
+    "id": 11,
+    "userId": 11,
+    "products": [
+      {
+        "id": 12,
+        "title": "Samsung Galaxy S24 Ultra",
+        "price": 1149,
+        "quantity": 3,
+        "total": 3447
+      },
+      {
+        "id": 15,
+        "title": "CalDigit TS4 Thunderbolt 4 Dock",
+        "price": 399,
+        "quantity": 1,
+        "total": 399
+      }
+    ],
+    "total": 3846,
+    "discountedTotal": 3461,
+    "totalProducts": 2,
+    "totalQuantity": 4
+  },
+  {
+    "id": 12,
+    "userId": 12,
+    "products": [
+      {
+        "id": 13,
+        "title": "Google Pixel 9 Pro XL",
+        "price": 1099,
+        "quantity": 1,
+        "total": 1099
+      },
+      {
+        "id": 16,
+        "title": "Elgato Stream Deck MK.2",
+        "price": 149,
+        "quantity": 2,
+        "total": 298
+      }
+    ],
+    "total": 1397,
+    "discountedTotal": 1257,
+    "totalProducts": 2,
+    "totalQuantity": 3
+  },
+  {
+    "id": 13,
+    "userId": 13,
+    "products": [
+      {
+        "id": 14,
+        "title": "Anker Prime 20,000mAh Power Bank",
+        "price": 89,
+        "quantity": 2,
+        "total": 178
+      },
+      {
+        "id": 17,
+        "title": "Shure SM7B Vocal Dynamic Mic",
+        "price": 399,
+        "quantity": 1,
+        "total": 399
+      }
+    ],
+    "total": 577,
+    "discountedTotal": 519,
+    "totalProducts": 2,
+    "totalQuantity": 3
+  },
+  {
+    "id": 14,
+    "userId": 14,
+    "products": [
+      {
+        "id": 15,
+        "title": "CalDigit TS4 Thunderbolt 4 Dock",
+        "price": 399,
+        "quantity": 3,
+        "total": 1197
+      },
+      {
+        "id": 18,
+        "title": "Sony Alpha A7 IV Mirrorless Camera",
+        "price": 2498,
+        "quantity": 2,
+        "total": 4996
+      }
+    ],
+    "total": 6193,
+    "discountedTotal": 5574,
+    "totalProducts": 2,
+    "totalQuantity": 5
+  },
+  {
+    "id": 15,
+    "userId": 15,
+    "products": [
+      {
+        "id": 16,
+        "title": "Elgato Stream Deck MK.2",
+        "price": 149,
+        "quantity": 1,
+        "total": 149
+      },
+      {
+        "id": 19,
+        "title": "DJI Mini 4 Pro Drone",
+        "price": 759,
+        "quantity": 1,
+        "total": 759
+      }
+    ],
+    "total": 908,
+    "discountedTotal": 817,
+    "totalProducts": 2,
+    "totalQuantity": 2
+  },
+  {
+    "id": 16,
+    "userId": 16,
+    "products": [
+      {
+        "id": 17,
+        "title": "Shure SM7B Vocal Dynamic Mic",
+        "price": 399,
+        "quantity": 2,
+        "total": 798
+      },
+      {
+        "id": 20,
+        "title": "Secretlab TITAN Evo Gaming Chair",
+        "price": 549,
+        "quantity": 2,
+        "total": 1098
+      }
+    ],
+    "total": 1896,
+    "discountedTotal": 1706,
+    "totalProducts": 2,
+    "totalQuantity": 4
+  },
+  {
+    "id": 17,
+    "userId": 17,
+    "products": [
+      {
+        "id": 18,
+        "title": "Sony Alpha A7 IV Mirrorless Camera",
+        "price": 2498,
+        "quantity": 3,
+        "total": 7494
+      },
+      {
+        "id": 21,
+        "title": "Autonomous SmartDesk Pro",
+        "price": 699,
+        "quantity": 1,
+        "total": 699
+      }
+    ],
+    "total": 8193,
+    "discountedTotal": 7374,
+    "totalProducts": 2,
+    "totalQuantity": 4
+  },
+  {
+    "id": 18,
+    "userId": 18,
+    "products": [
+      {
+        "id": 19,
+        "title": "DJI Mini 4 Pro Drone",
+        "price": 759,
+        "quantity": 1,
+        "total": 759
+      },
+      {
+        "id": 22,
+        "title": "Synology DiskStation DS923+ NAS",
+        "price": 599,
+        "quantity": 2,
+        "total": 1198
+      }
+    ],
+    "total": 1957,
+    "discountedTotal": 1761,
+    "totalProducts": 2,
+    "totalQuantity": 3
+  },
+  {
+    "id": 19,
+    "userId": 19,
+    "products": [
+      {
+        "id": 20,
+        "title": "Secretlab TITAN Evo Gaming Chair",
+        "price": 549,
+        "quantity": 2,
+        "total": 1098
+      },
+      {
+        "id": 23,
+        "title": "Samsung 990 PRO 2TB NVMe SSD",
+        "price": 179,
+        "quantity": 1,
+        "total": 179
+      }
+    ],
+    "total": 1277,
+    "discountedTotal": 1149,
+    "totalProducts": 2,
+    "totalQuantity": 3
+  },
+  {
+    "id": 20,
+    "userId": 20,
+    "products": [
+      {
+        "id": 21,
+        "title": "Autonomous SmartDesk Pro",
+        "price": 699,
+        "quantity": 3,
+        "total": 2097
+      },
+      {
+        "id": 24,
+        "title": "Ubiquiti UniFi Dream Machine Pro",
+        "price": 379,
+        "quantity": 2,
+        "total": 758
+      }
+    ],
+    "total": 2855,
+    "discountedTotal": 2570,
+    "totalProducts": 2,
+    "totalQuantity": 5
+  },
+  {
+    "id": 21,
+    "userId": 21,
+    "products": [
+      {
+        "id": 22,
+        "title": "Synology DiskStation DS923+ NAS",
+        "price": 599,
+        "quantity": 1,
+        "total": 599
+      },
+      {
+        "id": 25,
+        "title": "ASUS ROG Rapture GT-AXE16000 Router",
+        "price": 599,
+        "quantity": 1,
+        "total": 599
+      }
+    ],
+    "total": 1198,
+    "discountedTotal": 1078,
+    "totalProducts": 2,
+    "totalQuantity": 2
+  },
+  {
+    "id": 22,
+    "userId": 22,
+    "products": [
+      {
+        "id": 23,
+        "title": "Samsung 990 PRO 2TB NVMe SSD",
+        "price": 179,
+        "quantity": 2,
+        "total": 358
+      },
+      {
+        "id": 26,
+        "title": "Kindle Paperwhite Signature Edition",
+        "price": 189,
+        "quantity": 2,
+        "total": 378
+      }
+    ],
+    "total": 736,
+    "discountedTotal": 662,
+    "totalProducts": 2,
+    "totalQuantity": 4
+  },
+  {
+    "id": 23,
+    "userId": 23,
+    "products": [
+      {
+        "id": 24,
+        "title": "Ubiquiti UniFi Dream Machine Pro",
+        "price": 379,
+        "quantity": 3,
+        "total": 1137
+      },
+      {
+        "id": 1,
+        "title": "MacBook Pro 16 M3 Max",
+        "price": 2499,
+        "quantity": 1,
+        "total": 2499
+      }
+    ],
+    "total": 3636,
+    "discountedTotal": 3272,
+    "totalProducts": 2,
+    "totalQuantity": 4
+  },
+  {
+    "id": 24,
+    "userId": 24,
+    "products": [
+      {
+        "id": 25,
+        "title": "ASUS ROG Rapture GT-AXE16000 Router",
+        "price": 599,
+        "quantity": 1,
+        "total": 599
+      },
+      {
+        "id": 2,
+        "title": "Dell XPS 15 OLED",
+        "price": 1899,
+        "quantity": 2,
+        "total": 3798
+      }
+    ],
+    "total": 4397,
+    "discountedTotal": 3957,
+    "totalProducts": 2,
+    "totalQuantity": 3
+  },
+  {
+    "id": 25,
+    "userId": 25,
+    "products": [
+      {
+        "id": 26,
+        "title": "Kindle Paperwhite Signature Edition",
+        "price": 189,
+        "quantity": 2,
+        "total": 378
+      },
+      {
+        "id": 3,
+        "title": "Keychron Q1 Pro Mechanical Keyboard",
+        "price": 199,
+        "quantity": 1,
+        "total": 199
+      }
+    ],
+    "total": 577,
+    "discountedTotal": 519,
+    "totalProducts": 2,
+    "totalQuantity": 3
+  },
+  {
+    "id": 26,
+    "userId": 26,
+    "products": [
+      {
+        "id": 1,
+        "title": "MacBook Pro 16 M3 Max",
+        "price": 2499,
+        "quantity": 3,
+        "total": 7497
+      },
+      {
+        "id": 4,
+        "title": "Logitech MX Master 3S",
+        "price": 99,
+        "quantity": 2,
+        "total": 198
+      }
+    ],
+    "total": 7695,
+    "discountedTotal": 6926,
+    "totalProducts": 2,
+    "totalQuantity": 5
+  }
+]

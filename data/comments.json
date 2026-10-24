@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "articleId": 1,
+    "userId": 3,
+    "userName": "Citra Wijaya",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_3",
+    "content": "Tutorial ini sangat jelas dan langsung bisa dipraktekkan di proyek saya!",
+    "likes": 2,
+    "createdAt": "2026-03-01T14:20:00Z"
+  },
+  {
+    "id": 2,
+    "articleId": 2,
+    "userId": 4,
+    "userName": "Dewi Kusuma",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_4",
+    "content": "Apakah ada perbandingan performa jika menggunakan Bun daripada Node?",
+    "likes": 9,
+    "createdAt": "2026-03-02T14:20:00Z"
+  },
+  {
+    "id": 3,
+    "articleId": 3,
+    "userId": 5,
+    "userName": "Eko Hidayat",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_5",
+    "content": "Penjelasan tentang BOLA vulnerability membuka wawasan saya tentang security.",
+    "likes": 16,
+    "createdAt": "2026-03-03T14:20:00Z"
+  },
+  {
+    "id": 4,
+    "articleId": 4,
+    "userId": 6,
+    "userName": "Fajar Saputra",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_6",
+    "content": "Terima kasih banyak atas rangkumannya, sangat bermanfaat!",
+    "likes": 23,
+    "createdAt": "2026-03-04T14:20:00Z"
+  },
+  {
+    "id": 5,
+    "articleId": 5,
+    "userId": 7,
+    "userName": "Gita Lestari",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_7",
+    "content": "Bagaimana cara handle error jika Redis connection terputus tiba-tiba?",
+    "likes": 30,
+    "createdAt": "2026-03-05T14:20:00Z"
+  },
+  {
+    "id": 6,
+    "articleId": 6,
+    "userId": 8,
+    "userName": "Hendra Siregar",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_8",
+    "content": "Bisa tolong buatkan lanjutan tentang testing dengan Vitest?",
+    "likes": 37,
+    "createdAt": "2026-03-06T14:20:00Z"
+  },
+  {
+    "id": 7,
+    "articleId": 7,
+    "userId": 9,
+    "userName": "Indah Wibowo",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_9",
+    "content": "Suka sekali dengan visualisasi diagramnya, sangat mudah dipahami.",
+    "likes": 44,
+    "createdAt": "2026-03-07T14:20:00Z"
+  },
+  {
+    "id": 8,
+    "articleId": 8,
+    "userId": 10,
+    "userName": "Joko Nugroho",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_10",
+    "content": "Saya mengalami issue di langkah ke-3, ternyata port 3000 sudah terpakai.",
+    "likes": 6,
+    "createdAt": "2026-03-08T14:20:00Z"
+  },
+  {
+    "id": 9,
+    "articleId": 9,
+    "userId": 11,
+    "userName": "Kartika Anggraini",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_11",
+    "content": "Solusi yang sangat elegan! Kode jadi jauh lebih bersih dan modular.",
+    "likes": 13,
+    "createdAt": "2026-03-09T14:20:00Z"
+  },
+  {
+    "id": 10,
+    "articleId": 10,
+    "userId": 12,
+    "userName": "Lukman Setiawan",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_12",
+    "content": "Apakah Next.js 15 sudah stabil untuk proyek skala enterprise?",
+    "likes": 20,
+    "createdAt": "2026-03-10T14:20:00Z"
+  },
+  {
+    "id": 11,
+    "articleId": 11,
+    "userId": 13,
+    "userName": "Maya Permata",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_13",
+    "content": "Artikel yang wajib dibaca oleh setiap junior developer.",
+    "likes": 27,
+    "createdAt": "2026-03-11T14:20:00Z"
+  },
+  {
+    "id": 12,
+    "articleId": 12,
+    "userId": 14,
+    "userName": "Nanda Firmansyah",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_14",
+    "content": "Mantap materinya! Ditunggu bahasan arsitektur event-driven selanjutnya.",
+    "likes": 34,
+    "createdAt": "2026-03-12T14:20:00Z"
+  },
+  {
+    "id": 13,
+    "articleId": 13,
+    "userId": 15,
+    "userName": "Oscar Suryanto",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_15",
+    "content": "Sangat membantu untuk persiapan technical interview saya minggu depan.",
+    "likes": 41,
+    "createdAt": "2026-03-13T14:20:00Z"
+  },
+  {
+    "id": 14,
+    "articleId": 14,
+    "userId": 16,
+    "userName": "Putri Rahmawati",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_16",
+    "content": "Penjelasannya padat tanpa banyak basa-basi, recommended!",
+    "likes": 3,
+    "createdAt": "2026-03-14T14:20:00Z"
+  },
+  {
+    "id": 15,
+    "articleId": 15,
+    "userId": 17,
+    "userName": "Qori Ananda",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_17",
+    "content": "Setup Docker ini berhasil menghemat waktu onboarding tim kami.",
+    "likes": 10,
+    "createdAt": "2026-03-15T14:20:00Z"
+  },
+  {
+    "id": 16,
+    "articleId": 16,
+    "userId": 18,
+    "userName": "Rian Ramadhan",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_18",
+    "content": "Nice explanation! Especially the section regarding cache invalidation.",
+    "likes": 17,
+    "createdAt": "2026-03-16T14:20:00Z"
+  },
+  {
+    "id": 17,
+    "articleId": 17,
+    "userId": 19,
+    "userName": "Siti Utomo",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_19",
+    "content": "Great insights on microservices vs monolith tradeoffs.",
+    "likes": 24,
+    "createdAt": "2026-03-17T14:20:00Z"
+  },
+  {
+    "id": 18,
+    "articleId": 18,
+    "userId": 20,
+    "userName": "Taufik Mahendra",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_20",
+    "content": "Very clear and concise. Bookmarked for reference!",
+    "likes": 31,
+    "createdAt": "2026-03-18T14:20:00Z"
+  },
+  {
+    "id": 19,
+    "articleId": 19,
+    "userId": 21,
+    "userName": "Utami Suharto",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_21",
+    "content": "Could you elaborate on connection pooling settings for PostgreSQL?",
+    "likes": 38,
+    "createdAt": "2026-03-19T14:20:00Z"
+  },
+  {
+    "id": 20,
+    "articleId": 20,
+    "userId": 22,
+    "userName": "Vincent Guizot",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_22",
+    "content": "Helped me solve a stubborn memory leak issue in our background worker.",
+    "likes": 45,
+    "createdAt": "2026-03-20T14:20:00Z"
+  },
+  {
+    "id": 21,
+    "articleId": 21,
+    "userId": 23,
+    "userName": "Wahyu Gunawan",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_23",
+    "content": "Luar biasa penjelasannya, detail dan mudah diikuti langkah demi langkah.",
+    "likes": 7,
+    "createdAt": "2026-03-21T14:20:00Z"
+  },
+  {
+    "id": 22,
+    "articleId": 22,
+    "userId": 24,
+    "userName": "Xena Hartanto",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_24",
+    "content": "Keren banget Mas Vincent, ilmunya selalu daging!",
+    "likes": 14,
+    "createdAt": "2026-03-22T14:20:00Z"
+  },
+  {
+    "id": 23,
+    "articleId": 23,
+    "userId": 25,
+    "userName": "Yoga Prasetyo",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_25",
+    "content": "Mohon izin share artikel ini ke grup belajar komunitas kami ya.",
+    "likes": 21,
+    "createdAt": "2026-03-23T14:20:00Z"
+  },
+  {
+    "id": 24,
+    "articleId": 24,
+    "userId": 26,
+    "userName": "Zahra Nurhaliza",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_26",
+    "content": "Kombinasi Zustand dan TanStack Query memang game changer banget di React.",
+    "likes": 28,
+    "createdAt": "2026-03-24T14:20:00Z"
+  },
+  {
+    "id": 25,
+    "articleId": 25,
+    "userId": 1,
+    "userName": "Ahmad Pratama",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_1",
+    "content": "Sangat relevan dengan masalah yang sedang tim kami hadapi di sprint ini.",
+    "likes": 35,
+    "createdAt": "2026-03-25T14:20:00Z"
+  },
+  {
+    "id": 26,
+    "articleId": 26,
+    "userId": 2,
+    "userName": "Budi Santoso",
+    "userAvatar": "https://i.pravatar.cc/150?u=user_2",
+    "content": "Ditunggu video tutorialnya di YouTube Orange Kode!",
+    "likes": 42,
+    "createdAt": "2026-03-26T14:20:00Z"
+  }
+]

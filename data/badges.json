@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "badgeName": "First Commit Pioneer",
+    "description": "Awarded for demonstrating extraordinary achievement in first commit pioneer.",
+    "iconName": "award",
+    "rarityTier": "Common",
+    "pointsReward": 50,
+    "unlockedCount": 1810
+  },
+  {
+    "id": 2,
+    "badgeName": "Bug Bounty Slayer",
+    "description": "Awarded for demonstrating extraordinary achievement in bug bounty slayer.",
+    "iconName": "shield-check",
+    "rarityTier": "Rare",
+    "pointsReward": 200,
+    "unlockedCount": 1750
+  },
+  {
+    "id": 3,
+    "badgeName": "100-Day Streak",
+    "description": "Awarded for demonstrating extraordinary achievement in 100-day streak.",
+    "iconName": "zap",
+    "rarityTier": "Epic",
+    "pointsReward": 350,
+    "unlockedCount": 1690
+  },
+  {
+    "id": 4,
+    "badgeName": "Code Review Master",
+    "description": "Awarded for demonstrating extraordinary achievement in code review master.",
+    "iconName": "flame",
+    "rarityTier": "Legendary",
+    "pointsReward": 500,
+    "unlockedCount": 1630
+  },
+  {
+    "id": 5,
+    "badgeName": "API Wizard",
+    "description": "Awarded for demonstrating extraordinary achievement in api wizard.",
+    "iconName": "star",
+    "rarityTier": "Common",
+    "pointsReward": 50,
+    "unlockedCount": 1570
+  },
+  {
+    "id": 6,
+    "badgeName": "Speed Demon",
+    "description": "Awarded for demonstrating extraordinary achievement in speed demon.",
+    "iconName": "terminal",
+    "rarityTier": "Rare",
+    "pointsReward": 200,
+    "unlockedCount": 1510
+  },
+  {
+    "id": 7,
+    "badgeName": "Pull Request Legend",
+    "description": "Awarded for demonstrating extraordinary achievement in pull request legend.",
+    "iconName": "gift",
+    "rarityTier": "Epic",
+    "pointsReward": 350,
+    "unlockedCount": 1450
+  },
+  {
+    "id": 8,
+    "badgeName": "Security Sentinel",
+    "description": "Awarded for demonstrating extraordinary achievement in security sentinel.",
+    "iconName": "trophy",
+    "rarityTier": "Legendary",
+    "pointsReward": 500,
+    "unlockedCount": 1390
+  },
+  {
+    "id": 9,
+    "badgeName": "Documentation Hero",
+    "description": "Awarded for demonstrating extraordinary achievement in documentation hero.",
+    "iconName": "medal",
+    "rarityTier": "Common",
+    "pointsReward": 50,
+    "unlockedCount": 1330
+  },
+  {
+    "id": 10,
+    "badgeName": "Refactor Champion",
+    "description": "Awarded for demonstrating extraordinary achievement in refactor champion.",
+    "iconName": "award",
+    "rarityTier": "Rare",
+    "pointsReward": 200,
+    "unlockedCount": 1270
+  },
+  {
+    "id": 11,
+    "badgeName": "Clean Code Advocate",
+    "description": "Awarded for demonstrating extraordinary achievement in clean code advocate.",
+    "iconName": "shield-check",
+    "rarityTier": "Epic",
+    "pointsReward": 350,
+    "unlockedCount": 1210
+  },
+  {
+    "id": 12,
+    "badgeName": "Deployment Guru",
+    "description": "Awarded for demonstrating extraordinary achievement in deployment guru.",
+    "iconName": "zap",
+    "rarityTier": "Legendary",
+    "pointsReward": 500,
+    "unlockedCount": 1150
+  },
+  {
+    "id": 13,
+    "badgeName": "Docker Captain",
+    "description": "Awarded for demonstrating extraordinary achievement in docker captain.",
+    "iconName": "flame",
+    "rarityTier": "Common",
+    "pointsReward": 50,
+    "unlockedCount": 1090
+  },
+  {
+    "id": 14,
+    "badgeName": "Cloud Architect Pro",
+    "description": "Awarded for demonstrating extraordinary achievement in cloud architect pro.",
+    "iconName": "star",
+    "rarityTier": "Rare",
+    "pointsReward": 200,
+    "unlockedCount": 1030
+  },
+  {
+    "id": 15,
+    "badgeName": "Performance Optimizer",
+    "description": "Awarded for demonstrating extraordinary achievement in performance optimizer.",
+    "iconName": "terminal",
+    "rarityTier": "Epic",
+    "pointsReward": 350,
+    "unlockedCount": 970
+  },
+  {
+    "id": 16,
+    "badgeName": "Open Source Champion",
+    "description": "Awarded for demonstrating extraordinary achievement in open source champion.",
+    "iconName": "gift",
+    "rarityTier": "Legendary",
+    "pointsReward": 500,
+    "unlockedCount": 910
+  },
+  {
+    "id": 17,
+    "badgeName": "Early Adopter",
+    "description": "Awarded for demonstrating extraordinary achievement in early adopter.",
+    "iconName": "trophy",
+    "rarityTier": "Common",
+    "pointsReward": 50,
+    "unlockedCount": 850
+  },
+  {
+    "id": 18,
+    "badgeName": "Community Leader",
+    "description": "Awarded for demonstrating extraordinary achievement in community leader.",
+    "iconName": "medal",
+    "rarityTier": "Rare",
+    "pointsReward": 200,
+    "unlockedCount": 790
+  },
+  {
+    "id": 19,
+    "badgeName": "Data Science Explorer",
+    "description": "Awarded for demonstrating extraordinary achievement in data science explorer.",
+    "iconName": "award",
+    "rarityTier": "Epic",
+    "pointsReward": 350,
+    "unlockedCount": 730
+  },
+  {
+    "id": 20,
+    "badgeName": "Design System Guru",
+    "description": "Awarded for demonstrating extraordinary achievement in design system guru.",
+    "iconName": "shield-check",
+    "rarityTier": "Legendary",
+    "pointsReward": 500,
+    "unlockedCount": 670
+  },
+  {
+    "id": 21,
+    "badgeName": "Accessibility Champion",
+    "description": "Awarded for demonstrating extraordinary achievement in accessibility champion.",
+    "iconName": "zap",
+    "rarityTier": "Common",
+    "pointsReward": 50,
+    "unlockedCount": 610
+  },
+  {
+    "id": 22,
+    "badgeName": "Database Maestro",
+    "description": "Awarded for demonstrating extraordinary achievement in database maestro.",
+    "iconName": "flame",
+    "rarityTier": "Rare",
+    "pointsReward": 200,
+    "unlockedCount": 550
+  },
+  {
+    "id": 23,
+    "badgeName": "Zero Downtime Legend",
+    "description": "Awarded for demonstrating extraordinary achievement in zero downtime legend.",
+    "iconName": "star",
+    "rarityTier": "Epic",
+    "pointsReward": 350,
+    "unlockedCount": 490
+  },
+  {
+    "id": 24,
+    "badgeName": "High Velocity Coder",
+    "description": "Awarded for demonstrating extraordinary achievement in high velocity coder.",
+    "iconName": "terminal",
+    "rarityTier": "Legendary",
+    "pointsReward": 500,
+    "unlockedCount": 430
+  },
+  {
+    "id": 25,
+    "badgeName": "Mentor of the Year",
+    "description": "Awarded for demonstrating extraordinary achievement in mentor of the year.",
+    "iconName": "gift",
+    "rarityTier": "Common",
+    "pointsReward": 50,
+    "unlockedCount": 370
+  },
+  {
+    "id": 26,
+    "badgeName": "Hall of Fame 2026",
+    "description": "Awarded for demonstrating extraordinary achievement in hall of fame 2026.",
+    "iconName": "trophy",
+    "rarityTier": "Rare",
+    "pointsReward": 200,
+    "unlockedCount": 310
+  }
+]

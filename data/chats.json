@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "senderId": 1,
+    "receiverId": 2,
+    "message": "Halo, apakah produk MacBook Pro M3 Max masih tersedia ready stock?",
+    "status": "read",
+    "timestamp": "2026-03-01T08:30:00Z"
+  },
+  {
+    "id": 2,
+    "senderId": 2,
+    "receiverId": 3,
+    "message": "Halo Kak! Iya ready stock, siap kirim hari ini ya.",
+    "status": "delivered",
+    "timestamp": "2026-03-02T09:30:00Z"
+  },
+  {
+    "id": 3,
+    "senderId": 3,
+    "receiverId": 4,
+    "message": "Bisa minta bantuan untuk instalasi dependensi di server baru?",
+    "status": "read",
+    "timestamp": "2026-03-03T10:30:00Z"
+  },
+  {
+    "id": 4,
+    "senderId": 4,
+    "receiverId": 5,
+    "message": "Tentu, saya bantu remote via AnyDesk sekarang ya.",
+    "status": "delivered",
+    "timestamp": "2026-03-04T11:30:00Z"
+  },
+  {
+    "id": 5,
+    "senderId": 5,
+    "receiverId": 6,
+    "message": "Terima kasih atas review kodenya, sudah saya perbaiki di commit terbaru.",
+    "status": "read",
+    "timestamp": "2026-03-05T12:30:00Z"
+  },
+  {
+    "id": 6,
+    "senderId": 6,
+    "receiverId": 7,
+    "message": "Bagus sekali! PR sudah saya approve dan merge ke main branch.",
+    "status": "delivered",
+    "timestamp": "2026-03-06T13:30:00Z"
+  },
+  {
+    "id": 7,
+    "senderId": 7,
+    "receiverId": 8,
+    "message": "Kapan jadwal sesi mentoring 1-on-1 untuk modul backend?",
+    "status": "read",
+    "timestamp": "2026-03-07T14:30:00Z"
+  },
+  {
+    "id": 8,
+    "senderId": 8,
+    "receiverId": 9,
+    "message": "Besok jam 19.30 WIB ya Kak, link Google Meet sudah saya kirim ke email.",
+    "status": "delivered",
+    "timestamp": "2026-03-08T15:30:00Z"
+  },
+  {
+    "id": 9,
+    "senderId": 9,
+    "receiverId": 10,
+    "message": "Apakah ada diskon untuk pembelian paket tim 10 orang?",
+    "status": "read",
+    "timestamp": "2026-03-09T16:30:00Z"
+  },
+  {
+    "id": 10,
+    "senderId": 10,
+    "receiverId": 11,
+    "message": "Ada Kak, kami berikan potongan khusus 25% untuk corporate package.",
+    "status": "delivered",
+    "timestamp": "2026-03-10T17:30:00Z"
+  },
+  {
+    "id": 11,
+    "senderId": 11,
+    "receiverId": 12,
+    "message": "Pembayaran invoice #INV-4029 sudah saya transfer via BCA.",
+    "status": "read",
+    "timestamp": "2026-03-11T18:30:00Z"
+  },
+  {
+    "id": 12,
+    "senderId": 12,
+    "receiverId": 13,
+    "message": "Siap kami cek dan konfirmasi dalam 5 menit ya.",
+    "status": "delivered",
+    "timestamp": "2026-03-12T19:30:00Z"
+  },
+  {
+    "id": 13,
+    "senderId": 13,
+    "receiverId": 14,
+    "message": "Selamat siang, apakah sertifikat kelulusan sudah bisa diunduh?",
+    "status": "read",
+    "timestamp": "2026-03-13T08:30:00Z"
+  },
+  {
+    "id": 14,
+    "senderId": 14,
+    "receiverId": 15,
+    "message": "Bisa Kak, silakan cek di menu Dashboard > My Certificates.",
+    "status": "delivered",
+    "timestamp": "2026-03-14T09:30:00Z"
+  },
+  {
+    "id": 15,
+    "senderId": 15,
+    "receiverId": 16,
+    "message": "Bagaimana cara mengintegrasikan webhook payment gateway ke staging?",
+    "status": "read",
+    "timestamp": "2026-03-15T10:30:00Z"
+  },
+  {
+    "id": 16,
+    "senderId": 16,
+    "receiverId": 17,
+    "message": "Bisa lihat petunjuk di file docs/webhook.md di repositori.",
+    "status": "delivered",
+    "timestamp": "2026-03-16T11:30:00Z"
+  },
+  {
+    "id": 17,
+    "senderId": 17,
+    "receiverId": 18,
+    "message": "Pekerjaan slicing UI sudah selesai 100%, mohon dicek di staging.",
+    "status": "read",
+    "timestamp": "2026-03-17T12:30:00Z"
+  },
+  {
+    "id": 18,
+    "senderId": 18,
+    "receiverId": 19,
+    "message": "Mantap! Tampilan di mobile sangat responsif dan rapi.",
+    "status": "delivered",
+    "timestamp": "2026-03-18T13:30:00Z"
+  },
+  {
+    "id": 19,
+    "senderId": 19,
+    "receiverId": 20,
+    "message": "Apakah API endpoint users mendukung filter berdasarkan role?",
+    "status": "read",
+    "timestamp": "2026-03-19T14:30:00Z"
+  },
+  {
+    "id": 20,
+    "senderId": 20,
+    "receiverId": 21,
+    "message": "Iya, cukup tambahkan query param ?role=developer di URL.",
+    "status": "delivered",
+    "timestamp": "2026-03-20T15:30:00Z"
+  },
+  {
+    "id": 21,
+    "senderId": 21,
+    "receiverId": 22,
+    "message": "Mohon update status tiket gangguan #TCK-302.",
+    "status": "read",
+    "timestamp": "2026-03-21T16:30:00Z"
+  },
+  {
+    "id": 22,
+    "senderId": 22,
+    "receiverId": 23,
+    "message": "Tim DevOps sedang memeriksa log pod kubernetes terkait issue tersebut.",
+    "status": "delivered",
+    "timestamp": "2026-03-22T17:30:00Z"
+  },
+  {
+    "id": 23,
+    "senderId": 23,
+    "receiverId": 24,
+    "message": "Halo, saya tertarik bergabung sebagai mentor part-time di bootcamp.",
+    "status": "read",
+    "timestamp": "2026-03-23T18:30:00Z"
+  },
+  {
+    "id": 24,
+    "senderId": 24,
+    "receiverId": 25,
+    "message": "Halo! Silakan kirimkan CV dan profil LinkedIn ke recruitment@orangekode.com ya.",
+    "status": "delivered",
+    "timestamp": "2026-03-24T19:30:00Z"
+  },
+  {
+    "id": 25,
+    "senderId": 25,
+    "receiverId": 26,
+    "message": "Fitur dark mode di halaman dashboard sudah live di production.",
+    "status": "read",
+    "timestamp": "2026-03-25T08:30:00Z"
+  },
+  {
+    "id": 26,
+    "senderId": 26,
+    "receiverId": 1,
+    "message": "Terima kasih update-nya tim! User feedback sangat positif.",
+    "status": "delivered",
+    "timestamp": "2026-03-26T09:30:00Z"
+  }
+]

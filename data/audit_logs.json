@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "action": "USER_LOGOUT",
+    "resource": "/api/products",
+    "ipAddress": "10.0.0.15",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-02T01:02:00Z"
+  },
+  {
+    "id": 2,
+    "userId": 3,
+    "action": "RECORD_CREATED",
+    "resource": "/api/orders",
+    "ipAddress": "172.16.254.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-03T02:04:00Z"
+  },
+  {
+    "id": 3,
+    "userId": 4,
+    "action": "RECORD_UPDATED",
+    "resource": "/api/courses",
+    "ipAddress": "202.152.1.88",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-04T03:06:00Z"
+  },
+  {
+    "id": 4,
+    "userId": 5,
+    "action": "RECORD_DELETED",
+    "resource": "/api/articles",
+    "ipAddress": "36.88.12.44",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-05T04:08:00Z"
+  },
+  {
+    "id": 5,
+    "userId": 6,
+    "action": "PASSWORD_RESET",
+    "resource": "/api/tickets",
+    "ipAddress": "192.168.1.10",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-06T05:10:00Z"
+  },
+  {
+    "id": 6,
+    "userId": 7,
+    "action": "ROLE_CHANGED",
+    "resource": "/api/users",
+    "ipAddress": "10.0.0.15",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-07T06:12:00Z"
+  },
+  {
+    "id": 7,
+    "userId": 8,
+    "action": "API_KEY_GENERATED",
+    "resource": "/api/products",
+    "ipAddress": "172.16.254.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-08T07:14:00Z"
+  },
+  {
+    "id": 8,
+    "userId": 9,
+    "action": "EXPORT_DATA",
+    "resource": "/api/orders",
+    "ipAddress": "202.152.1.88",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-09T08:16:00Z"
+  },
+  {
+    "id": 9,
+    "userId": 10,
+    "action": "USER_LOGIN",
+    "resource": "/api/courses",
+    "ipAddress": "36.88.12.44",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-10T09:18:00Z"
+  },
+  {
+    "id": 10,
+    "userId": 11,
+    "action": "USER_LOGOUT",
+    "resource": "/api/articles",
+    "ipAddress": "192.168.1.10",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "FAILURE",
+    "timestamp": "2026-03-11T10:20:00Z"
+  },
+  {
+    "id": 11,
+    "userId": 12,
+    "action": "RECORD_CREATED",
+    "resource": "/api/tickets",
+    "ipAddress": "10.0.0.15",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-12T11:22:00Z"
+  },
+  {
+    "id": 12,
+    "userId": 13,
+    "action": "RECORD_UPDATED",
+    "resource": "/api/users",
+    "ipAddress": "172.16.254.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-13T12:24:00Z"
+  },
+  {
+    "id": 13,
+    "userId": 14,
+    "action": "RECORD_DELETED",
+    "resource": "/api/products",
+    "ipAddress": "202.152.1.88",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-14T13:26:00Z"
+  },
+  {
+    "id": 14,
+    "userId": 15,
+    "action": "PASSWORD_RESET",
+    "resource": "/api/orders",
+    "ipAddress": "36.88.12.44",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-15T14:28:00Z"
+  },
+  {
+    "id": 15,
+    "userId": 16,
+    "action": "ROLE_CHANGED",
+    "resource": "/api/courses",
+    "ipAddress": "192.168.1.10",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-16T15:30:00Z"
+  },
+  {
+    "id": 16,
+    "userId": 17,
+    "action": "API_KEY_GENERATED",
+    "resource": "/api/articles",
+    "ipAddress": "10.0.0.15",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-17T16:32:00Z"
+  },
+  {
+    "id": 17,
+    "userId": 18,
+    "action": "EXPORT_DATA",
+    "resource": "/api/tickets",
+    "ipAddress": "172.16.254.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-18T17:34:00Z"
+  },
+  {
+    "id": 18,
+    "userId": 19,
+    "action": "USER_LOGIN",
+    "resource": "/api/users",
+    "ipAddress": "202.152.1.88",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-19T18:36:00Z"
+  },
+  {
+    "id": 19,
+    "userId": 20,
+    "action": "USER_LOGOUT",
+    "resource": "/api/products",
+    "ipAddress": "36.88.12.44",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-20T19:38:00Z"
+  },
+  {
+    "id": 20,
+    "userId": 21,
+    "action": "RECORD_CREATED",
+    "resource": "/api/orders",
+    "ipAddress": "192.168.1.10",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "FAILURE",
+    "timestamp": "2026-03-21T20:40:00Z"
+  },
+  {
+    "id": 21,
+    "userId": 22,
+    "action": "RECORD_UPDATED",
+    "resource": "/api/courses",
+    "ipAddress": "10.0.0.15",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-22T21:42:00Z"
+  },
+  {
+    "id": 22,
+    "userId": 23,
+    "action": "RECORD_DELETED",
+    "resource": "/api/articles",
+    "ipAddress": "172.16.254.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-23T22:44:00Z"
+  },
+  {
+    "id": 23,
+    "userId": 24,
+    "action": "PASSWORD_RESET",
+    "resource": "/api/tickets",
+    "ipAddress": "202.152.1.88",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-24T23:46:00Z"
+  },
+  {
+    "id": 24,
+    "userId": 25,
+    "action": "ROLE_CHANGED",
+    "resource": "/api/users",
+    "ipAddress": "36.88.12.44",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-25T00:48:00Z"
+  },
+  {
+    "id": 25,
+    "userId": 26,
+    "action": "API_KEY_GENERATED",
+    "resource": "/api/products",
+    "ipAddress": "192.168.1.10",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-26T01:50:00Z"
+  },
+  {
+    "id": 26,
+    "userId": 1,
+    "action": "EXPORT_DATA",
+    "resource": "/api/orders",
+    "ipAddress": "10.0.0.15",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "status": "SUCCESS",
+    "timestamp": "2026-03-27T02:52:00Z"
+  }
+]

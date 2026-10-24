@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "deviceName": "Thermostat A-100",
+    "deviceType": "Thermostat",
+    "locationRoom": "Living Room",
+    "ipAddress": "192.168.1.100",
+    "batteryPercent": 40,
+    "firmwareVersion": "v2.0.0",
+    "status": "online"
+  },
+  {
+    "id": 2,
+    "deviceName": "Security Camera B-101",
+    "deviceType": "Security Camera",
+    "locationRoom": "Data Center 1",
+    "ipAddress": "192.168.1.101",
+    "batteryPercent": 41,
+    "firmwareVersion": "v2.1.1",
+    "status": "online"
+  },
+  {
+    "id": 3,
+    "deviceName": "Smart Sensor C-102",
+    "deviceType": "Smart Sensor",
+    "locationRoom": "Conference Room A",
+    "ipAddress": "192.168.1.102",
+    "batteryPercent": 42,
+    "firmwareVersion": "v2.2.2",
+    "status": "online"
+  },
+  {
+    "id": 4,
+    "deviceName": "Gateway Bridge D-103",
+    "deviceType": "Gateway Bridge",
+    "locationRoom": "Warehouse 2",
+    "ipAddress": "192.168.1.103",
+    "batteryPercent": 43,
+    "firmwareVersion": "v2.3.3",
+    "status": "updating"
+  },
+  {
+    "id": 5,
+    "deviceName": "Smart Plug E-104",
+    "deviceType": "Smart Plug",
+    "locationRoom": "Server Rack 3",
+    "ipAddress": "192.168.1.104",
+    "batteryPercent": 44,
+    "firmwareVersion": "v2.4.4",
+    "status": "offline"
+  },
+  {
+    "id": 6,
+    "deviceName": "Air Quality Monitor F-105",
+    "deviceType": "Air Quality Monitor",
+    "locationRoom": "Living Room",
+    "ipAddress": "192.168.1.105",
+    "batteryPercent": 45,
+    "firmwareVersion": "v2.0.5",
+    "status": "online"
+  },
+  {
+    "id": 7,
+    "deviceName": "Thermostat G-106",
+    "deviceType": "Thermostat",
+    "locationRoom": "Data Center 1",
+    "ipAddress": "192.168.1.106",
+    "batteryPercent": 46,
+    "firmwareVersion": "v2.1.6",
+    "status": "online"
+  },
+  {
+    "id": 8,
+    "deviceName": "Security Camera H-107",
+    "deviceType": "Security Camera",
+    "locationRoom": "Conference Room A",
+    "ipAddress": "192.168.1.107",
+    "batteryPercent": 47,
+    "firmwareVersion": "v2.2.7",
+    "status": "online"
+  },
+  {
+    "id": 9,
+    "deviceName": "Smart Sensor I-108",
+    "deviceType": "Smart Sensor",
+    "locationRoom": "Warehouse 2",
+    "ipAddress": "192.168.1.108",
+    "batteryPercent": 48,
+    "firmwareVersion": "v2.3.8",
+    "status": "updating"
+  },
+  {
+    "id": 10,
+    "deviceName": "Gateway Bridge J-109",
+    "deviceType": "Gateway Bridge",
+    "locationRoom": "Server Rack 3",
+    "ipAddress": "192.168.1.109",
+    "batteryPercent": 49,
+    "firmwareVersion": "v2.4.0",
+    "status": "offline"
+  },
+  {
+    "id": 11,
+    "deviceName": "Smart Plug K-110",
+    "deviceType": "Smart Plug",
+    "locationRoom": "Living Room",
+    "ipAddress": "192.168.1.110",
+    "batteryPercent": 50,
+    "firmwareVersion": "v2.0.1",
+    "status": "online"
+  },
+  {
+    "id": 12,
+    "deviceName": "Air Quality Monitor L-111",
+    "deviceType": "Air Quality Monitor",
+    "locationRoom": "Data Center 1",
+    "ipAddress": "192.168.1.111",
+    "batteryPercent": 51,
+    "firmwareVersion": "v2.1.2",
+    "status": "online"
+  },
+  {
+    "id": 13,
+    "deviceName": "Thermostat M-112",
+    "deviceType": "Thermostat",
+    "locationRoom": "Conference Room A",
+    "ipAddress": "192.168.1.112",
+    "batteryPercent": 52,
+    "firmwareVersion": "v2.2.3",
+    "status": "online"
+  },
+  {
+    "id": 14,
+    "deviceName": "Security Camera N-113",
+    "deviceType": "Security Camera",
+    "locationRoom": "Warehouse 2",
+    "ipAddress": "192.168.1.113",
+    "batteryPercent": 53,
+    "firmwareVersion": "v2.3.4",
+    "status": "updating"
+  },
+  {
+    "id": 15,
+    "deviceName": "Smart Sensor O-114",
+    "deviceType": "Smart Sensor",
+    "locationRoom": "Server Rack 3",
+    "ipAddress": "192.168.1.114",
+    "batteryPercent": 54,
+    "firmwareVersion": "v2.4.5",
+    "status": "offline"
+  },
+  {
+    "id": 16,
+    "deviceName": "Gateway Bridge P-115",
+    "deviceType": "Gateway Bridge",
+    "locationRoom": "Living Room",
+    "ipAddress": "192.168.1.115",
+    "batteryPercent": 55,
+    "firmwareVersion": "v2.0.6",
+    "status": "online"
+  },
+  {
+    "id": 17,
+    "deviceName": "Smart Plug Q-116",
+    "deviceType": "Smart Plug",
+    "locationRoom": "Data Center 1",
+    "ipAddress": "192.168.1.116",
+    "batteryPercent": 56,
+    "firmwareVersion": "v2.1.7",
+    "status": "online"
+  },
+  {
+    "id": 18,
+    "deviceName": "Air Quality Monitor R-117",
+    "deviceType": "Air Quality Monitor",
+    "locationRoom": "Conference Room A",
+    "ipAddress": "192.168.1.117",
+    "batteryPercent": 57,
+    "firmwareVersion": "v2.2.8",
+    "status": "online"
+  },
+  {
+    "id": 19,
+    "deviceName": "Thermostat S-118",
+    "deviceType": "Thermostat",
+    "locationRoom": "Warehouse 2",
+    "ipAddress": "192.168.1.118",
+    "batteryPercent": 58,
+    "firmwareVersion": "v2.3.0",
+    "status": "updating"
+  },
+  {
+    "id": 20,
+    "deviceName": "Security Camera T-119",
+    "deviceType": "Security Camera",
+    "locationRoom": "Server Rack 3",
+    "ipAddress": "192.168.1.119",
+    "batteryPercent": 59,
+    "firmwareVersion": "v2.4.1",
+    "status": "offline"
+  },
+  {
+    "id": 21,
+    "deviceName": "Smart Sensor U-120",
+    "deviceType": "Smart Sensor",
+    "locationRoom": "Living Room",
+    "ipAddress": "192.168.1.120",
+    "batteryPercent": 60,
+    "firmwareVersion": "v2.0.2",
+    "status": "online"
+  },
+  {
+    "id": 22,
+    "deviceName": "Gateway Bridge V-121",
+    "deviceType": "Gateway Bridge",
+    "locationRoom": "Data Center 1",
+    "ipAddress": "192.168.1.121",
+    "batteryPercent": 61,
+    "firmwareVersion": "v2.1.3",
+    "status": "online"
+  },
+  {
+    "id": 23,
+    "deviceName": "Smart Plug W-122",
+    "deviceType": "Smart Plug",
+    "locationRoom": "Conference Room A",
+    "ipAddress": "192.168.1.122",
+    "batteryPercent": 62,
+    "firmwareVersion": "v2.2.4",
+    "status": "online"
+  },
+  {
+    "id": 24,
+    "deviceName": "Air Quality Monitor X-123",
+    "deviceType": "Air Quality Monitor",
+    "locationRoom": "Warehouse 2",
+    "ipAddress": "192.168.1.123",
+    "batteryPercent": 63,
+    "firmwareVersion": "v2.3.5",
+    "status": "updating"
+  },
+  {
+    "id": 25,
+    "deviceName": "Thermostat Y-124",
+    "deviceType": "Thermostat",
+    "locationRoom": "Server Rack 3",
+    "ipAddress": "192.168.1.124",
+    "batteryPercent": 64,
+    "firmwareVersion": "v2.4.6",
+    "status": "offline"
+  },
+  {
+    "id": 26,
+    "deviceName": "Security Camera Z-125",
+    "deviceType": "Security Camera",
+    "locationRoom": "Living Room",
+    "ipAddress": "192.168.1.125",
+    "batteryPercent": 65,
+    "firmwareVersion": "v2.0.7",
+    "status": "online"
+  }
+]

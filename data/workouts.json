@@ -1,0 +1,339 @@
+[
+  {
+    "id": 1,
+    "title": "HIIT Cardio Blast",
+    "targetMuscle": "Chest",
+    "difficultyLevel": "Beginner",
+    "durationMinutes": 20,
+    "caloriesBurned": 180,
+    "equipmentRequired": [
+      "Dumbbells"
+    ],
+    "exercisesCount": 5
+  },
+  {
+    "id": 2,
+    "title": "Chest & Triceps Hypertrophy",
+    "targetMuscle": "Back",
+    "difficultyLevel": "Intermediate",
+    "durationMinutes": 30,
+    "caloriesBurned": 260,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell"
+    ],
+    "exercisesCount": 6
+  },
+  {
+    "id": 3,
+    "title": "Power Yoga Flow",
+    "targetMuscle": "Legs",
+    "difficultyLevel": "Advanced",
+    "durationMinutes": 40,
+    "caloriesBurned": 340,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell",
+      "Mat"
+    ],
+    "exercisesCount": 7
+  },
+  {
+    "id": 4,
+    "title": "Deadlift Strength Builder",
+    "targetMuscle": "Core",
+    "difficultyLevel": "Beginner",
+    "durationMinutes": 50,
+    "caloriesBurned": 420,
+    "equipmentRequired": [
+      "Dumbbells"
+    ],
+    "exercisesCount": 8
+  },
+  {
+    "id": 5,
+    "title": "Core & Abs Sculpt",
+    "targetMuscle": "Full Body",
+    "difficultyLevel": "Intermediate",
+    "durationMinutes": 60,
+    "caloriesBurned": 500,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell"
+    ],
+    "exercisesCount": 9
+  },
+  {
+    "id": 6,
+    "title": "Leg Day Heavy Squats",
+    "targetMuscle": "Shoulders",
+    "difficultyLevel": "Advanced",
+    "durationMinutes": 20,
+    "caloriesBurned": 580,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell",
+      "Mat"
+    ],
+    "exercisesCount": 5
+  },
+  {
+    "id": 7,
+    "title": "Shoulder Bolder Builder",
+    "targetMuscle": "Cardiovascular",
+    "difficultyLevel": "Beginner",
+    "durationMinutes": 30,
+    "caloriesBurned": 180,
+    "equipmentRequired": [
+      "Dumbbells"
+    ],
+    "exercisesCount": 6
+  },
+  {
+    "id": 8,
+    "title": "Full Body Functional Circuit",
+    "targetMuscle": "Chest",
+    "difficultyLevel": "Intermediate",
+    "durationMinutes": 40,
+    "caloriesBurned": 260,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell"
+    ],
+    "exercisesCount": 7
+  },
+  {
+    "id": 9,
+    "title": "Back & Biceps Pull Day",
+    "targetMuscle": "Back",
+    "difficultyLevel": "Advanced",
+    "durationMinutes": 50,
+    "caloriesBurned": 340,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell",
+      "Mat"
+    ],
+    "exercisesCount": 8
+  },
+  {
+    "id": 10,
+    "title": "Glute Activation Burn",
+    "targetMuscle": "Legs",
+    "difficultyLevel": "Beginner",
+    "durationMinutes": 60,
+    "caloriesBurned": 420,
+    "equipmentRequired": [
+      "Dumbbells"
+    ],
+    "exercisesCount": 9
+  },
+  {
+    "id": 11,
+    "title": "Kettlebell Conditioning",
+    "targetMuscle": "Core",
+    "difficultyLevel": "Intermediate",
+    "durationMinutes": 20,
+    "caloriesBurned": 500,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell"
+    ],
+    "exercisesCount": 5
+  },
+  {
+    "id": 12,
+    "title": "Calisthenics Mastery",
+    "targetMuscle": "Full Body",
+    "difficultyLevel": "Advanced",
+    "durationMinutes": 30,
+    "caloriesBurned": 580,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell",
+      "Mat"
+    ],
+    "exercisesCount": 6
+  },
+  {
+    "id": 13,
+    "title": "Sprint Interval Training",
+    "targetMuscle": "Shoulders",
+    "difficultyLevel": "Beginner",
+    "durationMinutes": 40,
+    "caloriesBurned": 180,
+    "equipmentRequired": [
+      "Dumbbells"
+    ],
+    "exercisesCount": 7
+  },
+  {
+    "id": 14,
+    "title": "Pilates Core Reform",
+    "targetMuscle": "Cardiovascular",
+    "difficultyLevel": "Intermediate",
+    "durationMinutes": 50,
+    "caloriesBurned": 260,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell"
+    ],
+    "exercisesCount": 8
+  },
+  {
+    "id": 15,
+    "title": "Olympic Snatch Technique",
+    "targetMuscle": "Chest",
+    "difficultyLevel": "Advanced",
+    "durationMinutes": 60,
+    "caloriesBurned": 340,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell",
+      "Mat"
+    ],
+    "exercisesCount": 9
+  },
+  {
+    "id": 16,
+    "title": "Recovery Foam Rolling",
+    "targetMuscle": "Back",
+    "difficultyLevel": "Beginner",
+    "durationMinutes": 20,
+    "caloriesBurned": 420,
+    "equipmentRequired": [
+      "Dumbbells"
+    ],
+    "exercisesCount": 5
+  },
+  {
+    "id": 17,
+    "title": "Boxer Endurance Drill",
+    "targetMuscle": "Legs",
+    "difficultyLevel": "Intermediate",
+    "durationMinutes": 30,
+    "caloriesBurned": 500,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell"
+    ],
+    "exercisesCount": 6
+  },
+  {
+    "id": 18,
+    "title": "Barbell Bench Mastery",
+    "targetMuscle": "Core",
+    "difficultyLevel": "Advanced",
+    "durationMinutes": 40,
+    "caloriesBurned": 580,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell",
+      "Mat"
+    ],
+    "exercisesCount": 7
+  },
+  {
+    "id": 19,
+    "title": "Endurance Rowing Challenge",
+    "targetMuscle": "Full Body",
+    "difficultyLevel": "Beginner",
+    "durationMinutes": 50,
+    "caloriesBurned": 180,
+    "equipmentRequired": [
+      "Dumbbells"
+    ],
+    "exercisesCount": 8
+  },
+  {
+    "id": 20,
+    "title": "Tabata Fat Furnace",
+    "targetMuscle": "Shoulders",
+    "difficultyLevel": "Intermediate",
+    "durationMinutes": 60,
+    "caloriesBurned": 260,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell"
+    ],
+    "exercisesCount": 9
+  },
+  {
+    "id": 21,
+    "title": "Arm Blaster Super-Sets",
+    "targetMuscle": "Cardiovascular",
+    "difficultyLevel": "Advanced",
+    "durationMinutes": 20,
+    "caloriesBurned": 340,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell",
+      "Mat"
+    ],
+    "exercisesCount": 5
+  },
+  {
+    "id": 22,
+    "title": "Mobility & Hip Flexor Flow",
+    "targetMuscle": "Chest",
+    "difficultyLevel": "Beginner",
+    "durationMinutes": 30,
+    "caloriesBurned": 420,
+    "equipmentRequired": [
+      "Dumbbells"
+    ],
+    "exercisesCount": 6
+  },
+  {
+    "id": 23,
+    "title": "Pyramid Upper Body",
+    "targetMuscle": "Back",
+    "difficultyLevel": "Intermediate",
+    "durationMinutes": 40,
+    "caloriesBurned": 500,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell"
+    ],
+    "exercisesCount": 7
+  },
+  {
+    "id": 24,
+    "title": "CrossFit WOD Helen",
+    "targetMuscle": "Legs",
+    "difficultyLevel": "Advanced",
+    "durationMinutes": 50,
+    "caloriesBurned": 580,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell",
+      "Mat"
+    ],
+    "exercisesCount": 8
+  },
+  {
+    "id": 25,
+    "title": "TRX Suspension Blast",
+    "targetMuscle": "Core",
+    "difficultyLevel": "Beginner",
+    "durationMinutes": 60,
+    "caloriesBurned": 180,
+    "equipmentRequired": [
+      "Dumbbells"
+    ],
+    "exercisesCount": 9
+  },
+  {
+    "id": 26,
+    "title": "Post-Run Stretch Routine",
+    "targetMuscle": "Full Body",
+    "difficultyLevel": "Intermediate",
+    "durationMinutes": 20,
+    "caloriesBurned": 260,
+    "equipmentRequired": [
+      "Dumbbells",
+      "Barbell"
+    ],
+    "exercisesCount": 5
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "priceUsd": 68450,
+    "marketCapUsd": 1350000000000,
+    "change24h": 2.45,
+    "volume24h": 67500000000,
+    "circulatingSupply": 19722425
+  },
+  {
+    "id": 2,
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "priceUsd": 3520.5,
+    "marketCapUsd": 423000000000,
+    "change24h": -1.2,
+    "volume24h": 21150000000,
+    "circulatingSupply": 120153387
+  },
+  {
+    "id": 3,
+    "symbol": "SOL",
+    "name": "Solana",
+    "priceUsd": 178.4,
+    "marketCapUsd": 82000000000,
+    "change24h": 5.6,
+    "volume24h": 4100000000,
+    "circulatingSupply": 459641256
+  },
+  {
+    "id": 4,
+    "symbol": "BNB",
+    "name": "BNB",
+    "priceUsd": 585.1,
+    "marketCapUsd": 87000000000,
+    "change24h": 0.85,
+    "volume24h": 4350000000,
+    "circulatingSupply": 148692531
+  },
+  {
+    "id": 5,
+    "symbol": "XRP",
+    "name": "XRP",
+    "priceUsd": 0.54,
+    "marketCapUsd": 30000000000,
+    "change24h": -0.4,
+    "volume24h": 1500000000,
+    "circulatingSupply": 55555555556
+  },
+  {
+    "id": 6,
+    "symbol": "ADA",
+    "name": "Cardano",
+    "priceUsd": 0.42,
+    "marketCapUsd": 15000000000,
+    "change24h": 1.15,
+    "volume24h": 750000000,
+    "circulatingSupply": 35714285714
+  },
+  {
+    "id": 7,
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "priceUsd": 32.8,
+    "marketCapUsd": 13000000000,
+    "change24h": 3.2,
+    "volume24h": 650000000,
+    "circulatingSupply": 396341463
+  },
+  {
+    "id": 8,
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "priceUsd": 0.12,
+    "marketCapUsd": 17000000000,
+    "change24h": -2.1,
+    "volume24h": 850000000,
+    "circulatingSupply": 141666666667
+  },
+  {
+    "id": 9,
+    "symbol": "DOT",
+    "name": "Polkadot",
+    "priceUsd": 6.85,
+    "marketCapUsd": 9800000000,
+    "change24h": 0.5,
+    "volume24h": 490000000,
+    "circulatingSupply": 1430656934
+  },
+  {
+    "id": 10,
+    "symbol": "LINK",
+    "name": "Chainlink",
+    "priceUsd": 14.2,
+    "marketCapUsd": 8500000000,
+    "change24h": 4.1,
+    "volume24h": 425000000,
+    "circulatingSupply": 598591549
+  },
+  {
+    "id": 11,
+    "symbol": "MATIC",
+    "name": "Polygon",
+    "priceUsd": 0.68,
+    "marketCapUsd": 6700000000,
+    "change24h": -0.9,
+    "volume24h": 335000000,
+    "circulatingSupply": 9852941176
+  },
+  {
+    "id": 12,
+    "symbol": "NEAR",
+    "name": "NEAR Protocol",
+    "priceUsd": 5.4,
+    "marketCapUsd": 5900000000,
+    "change24h": 6.3,
+    "volume24h": 295000000,
+    "circulatingSupply": 1092592593
+  },
+  {
+    "id": 13,
+    "symbol": "UNI",
+    "name": "Uniswap",
+    "priceUsd": 8.15,
+    "marketCapUsd": 4800000000,
+    "change24h": 1.8,
+    "volume24h": 240000000,
+    "circulatingSupply": 588957055
+  },
+  {
+    "id": 14,
+    "symbol": "LTC",
+    "name": "Litecoin",
+    "priceUsd": 72.3,
+    "marketCapUsd": 5400000000,
+    "change24h": -0.3,
+    "volume24h": 270000000,
+    "circulatingSupply": 74688797
+  },
+  {
+    "id": 15,
+    "symbol": "ATOM",
+    "name": "Cosmos",
+    "priceUsd": 6.2,
+    "marketCapUsd": 2400000000,
+    "change24h": 0.9,
+    "volume24h": 120000000,
+    "circulatingSupply": 387096774
+  },
+  {
+    "id": 16,
+    "symbol": "APT",
+    "name": "Aptos",
+    "priceUsd": 8.95,
+    "marketCapUsd": 4100000000,
+    "change24h": 3.8,
+    "volume24h": 205000000,
+    "circulatingSupply": 458100559
+  },
+  {
+    "id": 17,
+    "symbol": "ARB",
+    "name": "Arbitrum",
+    "priceUsd": 0.82,
+    "marketCapUsd": 2600000000,
+    "change24h": -1.5,
+    "volume24h": 130000000,
+    "circulatingSupply": 3170731707
+  },
+  {
+    "id": 18,
+    "symbol": "OP",
+    "name": "Optimism",
+    "priceUsd": 1.75,
+    "marketCapUsd": 1900000000,
+    "change24h": 2.1,
+    "volume24h": 95000000,
+    "circulatingSupply": 1085714286
+  },
+  {
+    "id": 19,
+    "symbol": "INJ",
+    "name": "Injective",
+    "priceUsd": 24.5,
+    "marketCapUsd": 2300000000,
+    "change24h": 7.4,
+    "volume24h": 115000000,
+    "circulatingSupply": 93877551
+  },
+  {
+    "id": 20,
+    "symbol": "SUI",
+    "name": "Sui",
+    "priceUsd": 1.95,
+    "marketCapUsd": 5200000000,
+    "change24h": 4.5,
+    "volume24h": 260000000,
+    "circulatingSupply": 2666666667
+  },
+  {
+    "id": 21,
+    "symbol": "RENDER",
+    "name": "Render",
+    "priceUsd": 6.1,
+    "marketCapUsd": 2300000000,
+    "change24h": 1.2,
+    "volume24h": 115000000,
+    "circulatingSupply": 377049180
+  },
+  {
+    "id": 22,
+    "symbol": "FET",
+    "name": "Artificial Superintelligence",
+    "priceUsd": 1.45,
+    "marketCapUsd": 3600000000,
+    "change24h": -3.4,
+    "volume24h": 180000000,
+    "circulatingSupply": 2482758621
+  },
+  {
+    "id": 23,
+    "symbol": "KAS",
+    "name": "Kaspa",
+    "priceUsd": 0.16,
+    "marketCapUsd": 3900000000,
+    "change24h": 0.8,
+    "volume24h": 195000000,
+    "circulatingSupply": 24375000000
+  },
+  {
+    "id": 24,
+    "symbol": "TIA",
+    "name": "Celestia",
+    "priceUsd": 5.8,
+    "marketCapUsd": 1200000000,
+    "change24h": -2.3,
+    "volume24h": 60000000,
+    "circulatingSupply": 206896552
+  },
+  {
+    "id": 25,
+    "symbol": "SEI",
+    "name": "Sei",
+    "priceUsd": 0.38,
+    "marketCapUsd": 1200000000,
+    "change24h": 1.9,
+    "volume24h": 60000000,
+    "circulatingSupply": 3157894737
+  },
+  {
+    "id": 26,
+    "symbol": "TAO",
+    "name": "Bittensor",
+    "priceUsd": 512,
+    "marketCapUsd": 3700000000,
+    "change24h": 8.2,
+    "volume24h": 185000000,
+    "circulatingSupply": 7226563
+  }
+]

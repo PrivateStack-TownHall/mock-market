@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "title": "Refactor authentication middleware to use JWT refresh tokens",
+    "completed": true,
+    "userId": 1,
+    "priority": "High",
+    "category": "Backend",
+    "dueDate": "2026-04-01",
+    "createdAt": "2026-03-01T08:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Design new landing page wireframes in Figma",
+    "completed": false,
+    "userId": 2,
+    "priority": "Medium",
+    "category": "Frontend",
+    "dueDate": "2026-04-02",
+    "createdAt": "2026-03-02T08:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Optimize SQL queries for order report generation",
+    "completed": false,
+    "userId": 3,
+    "priority": "Low",
+    "category": "DevOps",
+    "dueDate": "2026-04-03",
+    "createdAt": "2026-03-03T08:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Set up Docker container for staging environment",
+    "completed": true,
+    "userId": 4,
+    "priority": "Urgent",
+    "category": "Security",
+    "dueDate": "2026-04-04",
+    "createdAt": "2026-03-04T08:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Write end-to-end Cypress tests for checkout flow",
+    "completed": false,
+    "userId": 5,
+    "priority": "High",
+    "category": "QA",
+    "dueDate": "2026-04-05",
+    "createdAt": "2026-03-05T08:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Conduct quarterly security vulnerability audit",
+    "completed": false,
+    "userId": 6,
+    "priority": "Medium",
+    "category": "Design",
+    "dueDate": "2026-04-06",
+    "createdAt": "2026-03-06T08:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Review merge requests for the payment service",
+    "completed": true,
+    "userId": 7,
+    "priority": "Low",
+    "category": "Backend",
+    "dueDate": "2026-04-07",
+    "createdAt": "2026-03-07T08:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Configure automated backups for production PostgreSQL",
+    "completed": false,
+    "userId": 8,
+    "priority": "Urgent",
+    "category": "Frontend",
+    "dueDate": "2026-04-08",
+    "createdAt": "2026-03-08T08:00:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Update API documentation with Postman collection",
+    "completed": false,
+    "userId": 9,
+    "priority": "High",
+    "category": "DevOps",
+    "dueDate": "2026-04-09",
+    "createdAt": "2026-03-09T08:00:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Implement dark mode toggle using Tailwind CSS",
+    "completed": true,
+    "userId": 10,
+    "priority": "Medium",
+    "category": "Security",
+    "dueDate": "2026-04-10",
+    "createdAt": "2026-03-10T08:00:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Setup Sentry error tracking on frontend and backend",
+    "completed": false,
+    "userId": 11,
+    "priority": "Low",
+    "category": "QA",
+    "dueDate": "2026-04-11",
+    "createdAt": "2026-03-11T08:00:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Integrate midtrans sandbox webhook listener",
+    "completed": false,
+    "userId": 12,
+    "priority": "Urgent",
+    "category": "Design",
+    "dueDate": "2026-04-12",
+    "createdAt": "2026-03-12T08:00:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Clean up unused npm packages and dependencies",
+    "completed": true,
+    "userId": 13,
+    "priority": "High",
+    "category": "Backend",
+    "dueDate": "2026-04-13",
+    "createdAt": "2026-03-13T08:00:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Prepare sprint demo slides for stakeholders",
+    "completed": false,
+    "userId": 14,
+    "priority": "Medium",
+    "category": "Frontend",
+    "dueDate": "2026-04-14",
+    "createdAt": "2026-03-14T08:00:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Test responsive layout on iOS Safari and Android Chrome",
+    "completed": false,
+    "userId": 15,
+    "priority": "Low",
+    "category": "DevOps",
+    "dueDate": "2026-04-15",
+    "createdAt": "2026-03-15T08:00:00Z"
+  },
+  {
+    "id": 16,
+    "title": "Write unit tests for discount calculation service",
+    "completed": true,
+    "userId": 16,
+    "priority": "Urgent",
+    "category": "Security",
+    "dueDate": "2026-04-16",
+    "createdAt": "2026-03-16T08:00:00Z"
+  },
+  {
+    "id": 17,
+    "title": "Deploy microservice v1.4 to Kubernetes cluster",
+    "completed": false,
+    "userId": 17,
+    "priority": "High",
+    "category": "QA",
+    "dueDate": "2026-04-17",
+    "createdAt": "2026-03-17T08:00:00Z"
+  },
+  {
+    "id": 18,
+    "title": "Benchmark memory footprint during large file uploads",
+    "completed": false,
+    "userId": 18,
+    "priority": "Medium",
+    "category": "Design",
+    "dueDate": "2026-04-18",
+    "createdAt": "2026-03-18T08:00:00Z"
+  },
+  {
+    "id": 19,
+    "title": "Add Redis caching layer for hot articles query",
+    "completed": true,
+    "userId": 19,
+    "priority": "Low",
+    "category": "Backend",
+    "dueDate": "2026-04-19",
+    "createdAt": "2026-03-19T08:00:00Z"
+  },
+  {
+    "id": 20,
+    "title": "Create onboarding checklist for new junior engineers",
+    "completed": false,
+    "userId": 20,
+    "priority": "Urgent",
+    "category": "Frontend",
+    "dueDate": "2026-04-20",
+    "createdAt": "2026-03-20T08:00:00Z"
+  },
+  {
+    "id": 21,
+    "title": "Verify GDPR and local data privacy compliance",
+    "completed": false,
+    "userId": 21,
+    "priority": "High",
+    "category": "DevOps",
+    "dueDate": "2026-04-21",
+    "createdAt": "2026-03-01T08:00:00Z"
+  },
+  {
+    "id": 22,
+    "title": "Configure CORS whitelist for production frontend domains",
+    "completed": true,
+    "userId": 22,
+    "priority": "Medium",
+    "category": "Security",
+    "dueDate": "2026-04-22",
+    "createdAt": "2026-03-02T08:00:00Z"
+  },
+  {
+    "id": 23,
+    "title": "Setup GitHub Actions workflow for pull request linting",
+    "completed": false,
+    "userId": 23,
+    "priority": "Low",
+    "category": "QA",
+    "dueDate": "2026-04-23",
+    "createdAt": "2026-03-03T08:00:00Z"
+  },
+  {
+    "id": 24,
+    "title": "Implement multi-language support (ID / EN) in app settings",
+    "completed": false,
+    "userId": 24,
+    "priority": "Urgent",
+    "category": "Design",
+    "dueDate": "2026-04-24",
+    "createdAt": "2026-03-04T08:00:00Z"
+  },
+  {
+    "id": 25,
+    "title": "Fix websocket disconnect reconnection loop bug",
+    "completed": true,
+    "userId": 25,
+    "priority": "High",
+    "category": "Backend",
+    "dueDate": "2026-04-25",
+    "createdAt": "2026-03-05T08:00:00Z"
+  },
+  {
+    "id": 26,
+    "title": "Prepare release notes for mobile app version 2.1.0",
+    "completed": false,
+    "userId": 26,
+    "priority": "Medium",
+    "category": "Frontend",
+    "dueDate": "2026-04-26",
+    "createdAt": "2026-03-06T08:00:00Z"
+  }
+]

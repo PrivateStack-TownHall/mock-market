@@ -1,0 +1,470 @@
+[
+  {
+    "id": 1,
+    "name": "Starter Plan - Annual",
+    "tier": "Starter",
+    "billingCycle": "yearly",
+    "priceMonthly": 150000,
+    "priceYearly": 1500000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "20000 API request per bulan",
+      "Dukungan prioritas Dedicated Slack Channel",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 10,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 2,
+    "name": "Professional Plan - Monthly",
+    "tier": "Professional",
+    "billingCycle": "monthly",
+    "priceMonthly": 300000,
+    "priceYearly": 3000000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "30000 API request per bulan",
+      "Dukungan customer service via email 24/7",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": true,
+    "maxUsers": 15,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 3,
+    "name": "Team Pro Plan - Annual",
+    "tier": "Team Pro",
+    "billingCycle": "yearly",
+    "priceMonthly": 450000,
+    "priceYearly": 4500000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "40000 API request per bulan",
+      "Dukungan prioritas Dedicated Slack Channel",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 20,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 4,
+    "name": "Enterprise Scale Plan - Monthly",
+    "tier": "Enterprise Scale",
+    "billingCycle": "monthly",
+    "priceMonthly": 600000,
+    "priceYearly": 6000000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "50000 API request per bulan",
+      "Dukungan customer service via email 24/7",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 25,
+    "supportLevel": "Dedicated SLA 99.9%"
+  },
+  {
+    "id": 5,
+    "name": "Free Plan - Annual",
+    "tier": "Free",
+    "billingCycle": "yearly",
+    "priceMonthly": 0,
+    "priceYearly": 0,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "10000 API request per bulan",
+      "Dukungan prioritas Dedicated Slack Channel",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 5,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 6,
+    "name": "Starter Plan - Monthly",
+    "tier": "Starter",
+    "billingCycle": "monthly",
+    "priceMonthly": 150000,
+    "priceYearly": 1500000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "20000 API request per bulan",
+      "Dukungan customer service via email 24/7",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 10,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 7,
+    "name": "Professional Plan - Annual",
+    "tier": "Professional",
+    "billingCycle": "yearly",
+    "priceMonthly": 300000,
+    "priceYearly": 3000000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "30000 API request per bulan",
+      "Dukungan prioritas Dedicated Slack Channel",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": true,
+    "maxUsers": 15,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 8,
+    "name": "Team Pro Plan - Monthly",
+    "tier": "Team Pro",
+    "billingCycle": "monthly",
+    "priceMonthly": 450000,
+    "priceYearly": 4500000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "40000 API request per bulan",
+      "Dukungan customer service via email 24/7",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 20,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 9,
+    "name": "Enterprise Scale Plan - Annual",
+    "tier": "Enterprise Scale",
+    "billingCycle": "yearly",
+    "priceMonthly": 600000,
+    "priceYearly": 6000000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "50000 API request per bulan",
+      "Dukungan prioritas Dedicated Slack Channel",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 25,
+    "supportLevel": "Dedicated SLA 99.9%"
+  },
+  {
+    "id": 10,
+    "name": "Free Plan - Monthly",
+    "tier": "Free",
+    "billingCycle": "monthly",
+    "priceMonthly": 0,
+    "priceYearly": 0,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "10000 API request per bulan",
+      "Dukungan customer service via email 24/7",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 5,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 11,
+    "name": "Starter Plan - Annual",
+    "tier": "Starter",
+    "billingCycle": "yearly",
+    "priceMonthly": 150000,
+    "priceYearly": 1500000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "20000 API request per bulan",
+      "Dukungan prioritas Dedicated Slack Channel",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 10,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 12,
+    "name": "Professional Plan - Monthly",
+    "tier": "Professional",
+    "billingCycle": "monthly",
+    "priceMonthly": 300000,
+    "priceYearly": 3000000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "30000 API request per bulan",
+      "Dukungan customer service via email 24/7",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": true,
+    "maxUsers": 15,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 13,
+    "name": "Team Pro Plan - Annual",
+    "tier": "Team Pro",
+    "billingCycle": "yearly",
+    "priceMonthly": 450000,
+    "priceYearly": 4500000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "40000 API request per bulan",
+      "Dukungan prioritas Dedicated Slack Channel",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 20,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 14,
+    "name": "Enterprise Scale Plan - Monthly",
+    "tier": "Enterprise Scale",
+    "billingCycle": "monthly",
+    "priceMonthly": 600000,
+    "priceYearly": 6000000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "50000 API request per bulan",
+      "Dukungan customer service via email 24/7",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 25,
+    "supportLevel": "Dedicated SLA 99.9%"
+  },
+  {
+    "id": 15,
+    "name": "Free Plan - Annual",
+    "tier": "Free",
+    "billingCycle": "yearly",
+    "priceMonthly": 0,
+    "priceYearly": 0,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "10000 API request per bulan",
+      "Dukungan prioritas Dedicated Slack Channel",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 5,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 16,
+    "name": "Starter Plan - Monthly",
+    "tier": "Starter",
+    "billingCycle": "monthly",
+    "priceMonthly": 150000,
+    "priceYearly": 1500000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "20000 API request per bulan",
+      "Dukungan customer service via email 24/7",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 10,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 17,
+    "name": "Professional Plan - Annual",
+    "tier": "Professional",
+    "billingCycle": "yearly",
+    "priceMonthly": 300000,
+    "priceYearly": 3000000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "30000 API request per bulan",
+      "Dukungan prioritas Dedicated Slack Channel",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": true,
+    "maxUsers": 15,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 18,
+    "name": "Team Pro Plan - Monthly",
+    "tier": "Team Pro",
+    "billingCycle": "monthly",
+    "priceMonthly": 450000,
+    "priceYearly": 4500000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "40000 API request per bulan",
+      "Dukungan customer service via email 24/7",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 20,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 19,
+    "name": "Enterprise Scale Plan - Annual",
+    "tier": "Enterprise Scale",
+    "billingCycle": "yearly",
+    "priceMonthly": 600000,
+    "priceYearly": 6000000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "50000 API request per bulan",
+      "Dukungan prioritas Dedicated Slack Channel",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 25,
+    "supportLevel": "Dedicated SLA 99.9%"
+  },
+  {
+    "id": 20,
+    "name": "Free Plan - Monthly",
+    "tier": "Free",
+    "billingCycle": "monthly",
+    "priceMonthly": 0,
+    "priceYearly": 0,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "10000 API request per bulan",
+      "Dukungan customer service via email 24/7",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 5,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 21,
+    "name": "Starter Plan - Annual",
+    "tier": "Starter",
+    "billingCycle": "yearly",
+    "priceMonthly": 150000,
+    "priceYearly": 1500000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "20000 API request per bulan",
+      "Dukungan prioritas Dedicated Slack Channel",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 10,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 22,
+    "name": "Professional Plan - Monthly",
+    "tier": "Professional",
+    "billingCycle": "monthly",
+    "priceMonthly": 300000,
+    "priceYearly": 3000000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "30000 API request per bulan",
+      "Dukungan customer service via email 24/7",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": true,
+    "maxUsers": 15,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 23,
+    "name": "Team Pro Plan - Annual",
+    "tier": "Team Pro",
+    "billingCycle": "yearly",
+    "priceMonthly": 450000,
+    "priceYearly": 4500000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "40000 API request per bulan",
+      "Dukungan prioritas Dedicated Slack Channel",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 20,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 24,
+    "name": "Enterprise Scale Plan - Monthly",
+    "tier": "Enterprise Scale",
+    "billingCycle": "monthly",
+    "priceMonthly": 600000,
+    "priceYearly": 6000000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "50000 API request per bulan",
+      "Dukungan customer service via email 24/7",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 25,
+    "supportLevel": "Dedicated SLA 99.9%"
+  },
+  {
+    "id": 25,
+    "name": "Free Plan - Annual",
+    "tier": "Free",
+    "billingCycle": "yearly",
+    "priceMonthly": 0,
+    "priceYearly": 0,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "10000 API request per bulan",
+      "Dukungan prioritas Dedicated Slack Channel",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 5,
+    "supportLevel": "Standard"
+  },
+  {
+    "id": 26,
+    "name": "Starter Plan - Monthly",
+    "tier": "Starter",
+    "billingCycle": "monthly",
+    "priceMonthly": 150000,
+    "priceYearly": 1500000,
+    "currency": "IDR",
+    "features": [
+      "Akses ke seluruh 30 endpoint API",
+      "20000 API request per bulan",
+      "Dukungan customer service via email 24/7",
+      "Akses download full dataset JSON & CSV"
+    ],
+    "isPopular": false,
+    "maxUsers": 10,
+    "supportLevel": "Standard"
+  }
+]

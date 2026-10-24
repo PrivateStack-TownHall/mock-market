@@ -1,0 +1,391 @@
+[
+  {
+    "id": 1,
+    "title": "The Modern Developer",
+    "hostName": "Emma Johnson",
+    "episodeNumber": 12,
+    "durationMinutes": 30,
+    "releaseDate": "2026-09-01",
+    "audioUrl": "https://mockmarket.io/audio/episode_1.mp3",
+    "listenerCount": 15000,
+    "tags": [
+      "Tech",
+      "Engineering"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Deep Dive AI & LLMs",
+    "hostName": "Liam Williams",
+    "episodeNumber": 15,
+    "durationMinutes": 40,
+    "releaseDate": "2026-09-02",
+    "audioUrl": "https://mockmarket.io/audio/episode_2.mp3",
+    "listenerCount": 17400,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Frontend Architects",
+    "hostName": "Olivia Brown",
+    "episodeNumber": 18,
+    "durationMinutes": 50,
+    "releaseDate": "2026-09-03",
+    "audioUrl": "https://mockmarket.io/audio/episode_3.mp3",
+    "listenerCount": 19800,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software",
+      "Cloud"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Scaling Cloud Systems",
+    "hostName": "Noah Jones",
+    "episodeNumber": 21,
+    "durationMinutes": 60,
+    "releaseDate": "2026-09-04",
+    "audioUrl": "https://mockmarket.io/audio/episode_4.mp3",
+    "listenerCount": 22200,
+    "tags": [
+      "Tech",
+      "Engineering"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Indie Hacker Chronicles",
+    "hostName": "Ava Garcia",
+    "episodeNumber": 24,
+    "durationMinutes": 70,
+    "releaseDate": "2026-09-05",
+    "audioUrl": "https://mockmarket.io/audio/episode_5.mp3",
+    "listenerCount": 24600,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Cybersecurity Frontlines",
+    "hostName": "Oliver Miller",
+    "episodeNumber": 27,
+    "durationMinutes": 80,
+    "releaseDate": "2026-09-06",
+    "audioUrl": "https://mockmarket.io/audio/episode_6.mp3",
+    "listenerCount": 27000,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software",
+      "Cloud"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "The UX Psychology Podcast",
+    "hostName": "Sophia Davis",
+    "episodeNumber": 30,
+    "durationMinutes": 30,
+    "releaseDate": "2026-09-07",
+    "audioUrl": "https://mockmarket.io/audio/episode_7.mp3",
+    "listenerCount": 29400,
+    "tags": [
+      "Tech",
+      "Engineering"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Data Engineering Today",
+    "hostName": "Elijah Rodriguez",
+    "episodeNumber": 33,
+    "durationMinutes": 40,
+    "releaseDate": "2026-09-08",
+    "audioUrl": "https://mockmarket.io/audio/episode_8.mp3",
+    "listenerCount": 31800,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Startup Growth Engine",
+    "hostName": "Isabella Martinez",
+    "episodeNumber": 36,
+    "durationMinutes": 50,
+    "releaseDate": "2026-09-09",
+    "audioUrl": "https://mockmarket.io/audio/episode_9.mp3",
+    "listenerCount": 34200,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software",
+      "Cloud"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Quantum Computing Pulse",
+    "hostName": "William Hernandez",
+    "episodeNumber": 39,
+    "durationMinutes": 60,
+    "releaseDate": "2026-09-10",
+    "audioUrl": "https://mockmarket.io/audio/episode_10.mp3",
+    "listenerCount": 36600,
+    "tags": [
+      "Tech",
+      "Engineering"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "DevOps in Practice",
+    "hostName": "Mia Lopez",
+    "episodeNumber": 42,
+    "durationMinutes": 70,
+    "releaseDate": "2026-09-11",
+    "audioUrl": "https://mockmarket.io/audio/episode_11.mp3",
+    "listenerCount": 39000,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "SaaS Founders Lounge",
+    "hostName": "Lucas Gonzalez",
+    "episodeNumber": 45,
+    "durationMinutes": 80,
+    "releaseDate": "2026-09-12",
+    "audioUrl": "https://mockmarket.io/audio/episode_12.mp3",
+    "listenerCount": 41400,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software",
+      "Cloud"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Open Source Revolution",
+    "hostName": "Charlotte Wilson",
+    "episodeNumber": 48,
+    "durationMinutes": 30,
+    "releaseDate": "2026-09-13",
+    "audioUrl": "https://mockmarket.io/audio/episode_13.mp3",
+    "listenerCount": 43800,
+    "tags": [
+      "Tech",
+      "Engineering"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "The Product Mindset",
+    "hostName": "Benjamin Anderson",
+    "episodeNumber": 51,
+    "durationMinutes": 40,
+    "releaseDate": "2026-09-14",
+    "audioUrl": "https://mockmarket.io/audio/episode_14.mp3",
+    "listenerCount": 46200,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Machine Learning Decoded",
+    "hostName": "Amelia Thomas",
+    "episodeNumber": 54,
+    "durationMinutes": 50,
+    "releaseDate": "2026-09-15",
+    "audioUrl": "https://mockmarket.io/audio/episode_15.mp3",
+    "listenerCount": 48600,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software",
+      "Cloud"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Web3 Decentralized Future",
+    "hostName": "Henry Taylor",
+    "episodeNumber": 57,
+    "durationMinutes": 60,
+    "releaseDate": "2026-09-16",
+    "audioUrl": "https://mockmarket.io/audio/episode_16.mp3",
+    "listenerCount": 51000,
+    "tags": [
+      "Tech",
+      "Engineering"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Clean Code Weekly",
+    "hostName": "Harper Moore",
+    "episodeNumber": 60,
+    "durationMinutes": 70,
+    "releaseDate": "2026-09-17",
+    "audioUrl": "https://mockmarket.io/audio/episode_17.mp3",
+    "listenerCount": 53400,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Mobile App Velocity",
+    "hostName": "Alexander Jackson",
+    "episodeNumber": 63,
+    "durationMinutes": 80,
+    "releaseDate": "2026-09-18",
+    "audioUrl": "https://mockmarket.io/audio/episode_18.mp3",
+    "listenerCount": 55800,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software",
+      "Cloud"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Distributed Systems Talk",
+    "hostName": "Evelyn Martin",
+    "episodeNumber": 66,
+    "durationMinutes": 30,
+    "releaseDate": "2026-09-19",
+    "audioUrl": "https://mockmarket.io/audio/episode_19.mp3",
+    "listenerCount": 58200,
+    "tags": [
+      "Tech",
+      "Engineering"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Tech Lead Leadership",
+    "hostName": "Sebastian Lee",
+    "episodeNumber": 69,
+    "durationMinutes": 40,
+    "releaseDate": "2026-09-20",
+    "audioUrl": "https://mockmarket.io/audio/episode_20.mp3",
+    "listenerCount": 60600,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "The Agile Transformation",
+    "hostName": "Abigail Perez",
+    "episodeNumber": 72,
+    "durationMinutes": 50,
+    "releaseDate": "2026-09-21",
+    "audioUrl": "https://mockmarket.io/audio/episode_21.mp3",
+    "listenerCount": 63000,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software",
+      "Cloud"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Database Internals",
+    "hostName": "Jack Thompson",
+    "episodeNumber": 75,
+    "durationMinutes": 60,
+    "releaseDate": "2026-09-22",
+    "audioUrl": "https://mockmarket.io/audio/episode_22.mp3",
+    "listenerCount": 65400,
+    "tags": [
+      "Tech",
+      "Engineering"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Microservices Real World",
+    "hostName": "Emily White",
+    "episodeNumber": 78,
+    "durationMinutes": 70,
+    "releaseDate": "2026-09-23",
+    "audioUrl": "https://mockmarket.io/audio/episode_23.mp3",
+    "listenerCount": 67800,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Fullstack Journey",
+    "hostName": "Daniel Harris",
+    "episodeNumber": 81,
+    "durationMinutes": 80,
+    "releaseDate": "2026-09-24",
+    "audioUrl": "https://mockmarket.io/audio/episode_24.mp3",
+    "listenerCount": 70200,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software",
+      "Cloud"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Software Craftsmanship",
+    "hostName": "Elizabeth Sanchez",
+    "episodeNumber": 84,
+    "durationMinutes": 30,
+    "releaseDate": "2026-09-25",
+    "audioUrl": "https://mockmarket.io/audio/episode_25.mp3",
+    "listenerCount": 72600,
+    "tags": [
+      "Tech",
+      "Engineering"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "API First Architecture",
+    "hostName": "James Smith",
+    "episodeNumber": 87,
+    "durationMinutes": 40,
+    "releaseDate": "2026-09-26",
+    "audioUrl": "https://mockmarket.io/audio/episode_26.mp3",
+    "listenerCount": 75000,
+    "tags": [
+      "Tech",
+      "Engineering",
+      "Software"
+    ]
+  }
+]

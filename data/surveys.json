@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "topic": "Frontend Framework Trends",
+    "question": "What is your primary choice regarding frontend framework trends?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 1200,
+    "category": "Technology",
+    "closingDate": "2026-11-01",
+    "status": "closed"
+  },
+  {
+    "id": 2,
+    "topic": "Cloud Provider Preference",
+    "question": "What is your primary choice regarding cloud provider preference?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 1550,
+    "category": "Technology",
+    "closingDate": "2026-11-02",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "topic": "Remote Work Satisfaction",
+    "question": "What is your primary choice regarding remote work satisfaction?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 1900,
+    "category": "Technology",
+    "closingDate": "2026-11-03",
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "topic": "AI Pair Programming Adoption",
+    "question": "What is your primary choice regarding ai pair programming adoption?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 2250,
+    "category": "Technology",
+    "closingDate": "2026-11-04",
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "topic": "API Architecture Preferences",
+    "question": "What is your primary choice regarding api architecture preferences?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 2600,
+    "category": "Technology",
+    "closingDate": "2026-11-05",
+    "status": "closed"
+  },
+  {
+    "id": 6,
+    "topic": "State Management in React",
+    "question": "What is your primary choice regarding state management in react?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 2950,
+    "category": "Technology",
+    "closingDate": "2026-11-06",
+    "status": "active"
+  },
+  {
+    "id": 7,
+    "topic": "Mobile Dev: Native vs Flutter",
+    "question": "What is your primary choice regarding mobile dev: native vs flutter?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 3300,
+    "category": "Technology",
+    "closingDate": "2026-11-07",
+    "status": "active"
+  },
+  {
+    "id": 8,
+    "topic": "Database Selection in 2026",
+    "question": "What is your primary choice regarding database selection in 2026?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 3650,
+    "category": "Technology",
+    "closingDate": "2026-11-08",
+    "status": "active"
+  },
+  {
+    "id": 9,
+    "topic": "Code Review Frequency",
+    "question": "What is your primary choice regarding code review frequency?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 4000,
+    "category": "Technology",
+    "closingDate": "2026-11-09",
+    "status": "closed"
+  },
+  {
+    "id": 10,
+    "topic": "CI/CD Pipeline Speed",
+    "question": "What is your primary choice regarding ci/cd pipeline speed?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 4350,
+    "category": "Technology",
+    "closingDate": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": 11,
+    "topic": "Testing Strategies & Coverage",
+    "question": "What is your primary choice regarding testing strategies & coverage?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 4700,
+    "category": "Technology",
+    "closingDate": "2026-11-11",
+    "status": "active"
+  },
+  {
+    "id": 12,
+    "topic": "Microservices vs Monoliths",
+    "question": "What is your primary choice regarding microservices vs monoliths?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 5050,
+    "category": "Technology",
+    "closingDate": "2026-11-12",
+    "status": "active"
+  },
+  {
+    "id": 13,
+    "topic": "TypeScript Adoption Rates",
+    "question": "What is your primary choice regarding typescript adoption rates?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 5400,
+    "category": "Technology",
+    "closingDate": "2026-11-13",
+    "status": "closed"
+  },
+  {
+    "id": 14,
+    "topic": "CSS: Tailwind vs Styled",
+    "question": "What is your primary choice regarding css: tailwind vs styled?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 5750,
+    "category": "Technology",
+    "closingDate": "2026-11-14",
+    "status": "active"
+  },
+  {
+    "id": 15,
+    "topic": "Design System Scalability",
+    "question": "What is your primary choice regarding design system scalability?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 6100,
+    "category": "Technology",
+    "closingDate": "2026-11-15",
+    "status": "active"
+  },
+  {
+    "id": 16,
+    "topic": "Kubernetes in Production",
+    "question": "What is your primary choice regarding kubernetes in production?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 6450,
+    "category": "Technology",
+    "closingDate": "2026-11-16",
+    "status": "active"
+  },
+  {
+    "id": 17,
+    "topic": "GraphQL vs REST Preference",
+    "question": "What is your primary choice regarding graphql vs rest preference?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 6800,
+    "category": "Technology",
+    "closingDate": "2026-11-17",
+    "status": "closed"
+  },
+  {
+    "id": 18,
+    "topic": "Security Scanning Practices",
+    "question": "What is your primary choice regarding security scanning practices?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 7150,
+    "category": "Technology",
+    "closingDate": "2026-11-18",
+    "status": "active"
+  },
+  {
+    "id": 19,
+    "topic": "Developer Burnout Factors",
+    "question": "What is your primary choice regarding developer burnout factors?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 7500,
+    "category": "Technology",
+    "closingDate": "2026-11-19",
+    "status": "active"
+  },
+  {
+    "id": 20,
+    "topic": "Open Source Contribution Habits",
+    "question": "What is your primary choice regarding open source contribution habits?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 7850,
+    "category": "Technology",
+    "closingDate": "2026-11-20",
+    "status": "active"
+  },
+  {
+    "id": 21,
+    "topic": "Package Manager Performance",
+    "question": "What is your primary choice regarding package manager performance?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 8200,
+    "category": "Technology",
+    "closingDate": "2026-11-21",
+    "status": "closed"
+  },
+  {
+    "id": 22,
+    "topic": "Authentication Protocols",
+    "question": "What is your primary choice regarding authentication protocols?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 8550,
+    "category": "Technology",
+    "closingDate": "2026-11-22",
+    "status": "active"
+  },
+  {
+    "id": 23,
+    "topic": "Serverless Architecture Usage",
+    "question": "What is your primary choice regarding serverless architecture usage?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 8900,
+    "category": "Technology",
+    "closingDate": "2026-11-23",
+    "status": "active"
+  },
+  {
+    "id": 24,
+    "topic": "Monorepo Tooling Experience",
+    "question": "What is your primary choice regarding monorepo tooling experience?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 9250,
+    "category": "Technology",
+    "closingDate": "2026-11-24",
+    "status": "active"
+  },
+  {
+    "id": 25,
+    "topic": "Tech Stack Modernization",
+    "question": "What is your primary choice regarding tech stack modernization?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 9600,
+    "category": "Technology",
+    "closingDate": "2026-11-25",
+    "status": "closed"
+  },
+  {
+    "id": 26,
+    "topic": "Career Growth in Tech",
+    "question": "What is your primary choice regarding career growth in tech?",
+    "options": [
+      "Option A (Primary)",
+      "Option B (Secondary)",
+      "Option C (Alternative)",
+      "Other / None"
+    ],
+    "totalResponses": 9950,
+    "category": "Technology",
+    "closingDate": "2026-11-26",
+    "status": "active"
+  }
+]

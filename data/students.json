@@ -1,0 +1,340 @@
+[
+  {
+    "id": 1,
+    "name": "Aji Purnomo",
+    "email": "aji.purnomo@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_1",
+    "enrolledCourseIds": [
+      1,
+      5
+    ],
+    "status": "Graduated",
+    "joinDate": "2025-01-10",
+    "country": "Indonesia"
+  },
+  {
+    "id": 2,
+    "name": "Bella Safitri",
+    "email": "bella.safitri@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_2",
+    "enrolledCourseIds": [
+      2,
+      6
+    ],
+    "status": "Active",
+    "joinDate": "2025-02-10",
+    "country": "Indonesia"
+  },
+  {
+    "id": 3,
+    "name": "Cahyo Utomo",
+    "email": "cahyo.utomo@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_3",
+    "enrolledCourseIds": [
+      3,
+      7
+    ],
+    "status": "Active",
+    "joinDate": "2025-03-10",
+    "country": "Indonesia"
+  },
+  {
+    "id": 4,
+    "name": "Dian Lestari",
+    "email": "dian.lestari@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_4",
+    "enrolledCourseIds": [
+      4,
+      8
+    ],
+    "status": "Active",
+    "joinDate": "2025-04-10",
+    "country": "Malaysia"
+  },
+  {
+    "id": 5,
+    "name": "Evan Pratama",
+    "email": "evan.pratama@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_5",
+    "enrolledCourseIds": [
+      5,
+      9
+    ],
+    "status": "Graduated",
+    "joinDate": "2025-05-10",
+    "country": "Singapore"
+  },
+  {
+    "id": 6,
+    "name": "Fitri Handayani",
+    "email": "fitri.handayani@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_6",
+    "enrolledCourseIds": [
+      6,
+      10
+    ],
+    "status": "Active",
+    "joinDate": "2025-06-10",
+    "country": "Indonesia"
+  },
+  {
+    "id": 7,
+    "name": "Gilang Ramadhan",
+    "email": "gilang.ramadhan@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_7",
+    "enrolledCourseIds": [
+      7,
+      11
+    ],
+    "status": "Active",
+    "joinDate": "2025-07-10",
+    "country": "Indonesia"
+  },
+  {
+    "id": 8,
+    "name": "Hany Wulandari",
+    "email": "hany.wulandari@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_8",
+    "enrolledCourseIds": [
+      8,
+      12
+    ],
+    "status": "Active",
+    "joinDate": "2025-08-10",
+    "country": "Indonesia"
+  },
+  {
+    "id": 9,
+    "name": "Iqbal Kurniawan",
+    "email": "iqbal.kurniawan@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_9",
+    "enrolledCourseIds": [
+      9,
+      13
+    ],
+    "status": "Graduated",
+    "joinDate": "2025-09-10",
+    "country": "Malaysia"
+  },
+  {
+    "id": 10,
+    "name": "Jasmine Putri",
+    "email": "jasmine.putri@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_10",
+    "enrolledCourseIds": [
+      10,
+      14
+    ],
+    "status": "Active",
+    "joinDate": "2025-01-10",
+    "country": "Singapore"
+  },
+  {
+    "id": 11,
+    "name": "Kevin Sanjaya",
+    "email": "kevin.sanjaya@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_11",
+    "enrolledCourseIds": [
+      11,
+      15
+    ],
+    "status": "Active",
+    "joinDate": "2025-02-10",
+    "country": "Indonesia"
+  },
+  {
+    "id": 12,
+    "name": "Lia Novita",
+    "email": "lia.novita@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_12",
+    "enrolledCourseIds": [
+      12,
+      16
+    ],
+    "status": "Active",
+    "joinDate": "2025-03-10",
+    "country": "Indonesia"
+  },
+  {
+    "id": 13,
+    "name": "Miko Anggoro",
+    "email": "miko.anggoro@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_13",
+    "enrolledCourseIds": [
+      13,
+      17
+    ],
+    "status": "Graduated",
+    "joinDate": "2025-04-10",
+    "country": "Indonesia"
+  },
+  {
+    "id": 14,
+    "name": "Nadya Kusuma",
+    "email": "nadya.kusuma@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_14",
+    "enrolledCourseIds": [
+      14,
+      18
+    ],
+    "status": "Active",
+    "joinDate": "2025-05-10",
+    "country": "Malaysia"
+  },
+  {
+    "id": 15,
+    "name": "Oki Setiawan",
+    "email": "oki.setiawan@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_15",
+    "enrolledCourseIds": [
+      15,
+      19
+    ],
+    "status": "Active",
+    "joinDate": "2025-06-10",
+    "country": "Singapore"
+  },
+  {
+    "id": 16,
+    "name": "Panji Gumilar",
+    "email": "panji.gumilar@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_16",
+    "enrolledCourseIds": [
+      16,
+      20
+    ],
+    "status": "Active",
+    "joinDate": "2025-07-10",
+    "country": "Indonesia"
+  },
+  {
+    "id": 17,
+    "name": "Qonita Rahma",
+    "email": "qonita.rahma@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_17",
+    "enrolledCourseIds": [
+      17,
+      21
+    ],
+    "status": "Graduated",
+    "joinDate": "2025-08-10",
+    "country": "Indonesia"
+  },
+  {
+    "id": 18,
+    "name": "Riko Saputra",
+    "email": "riko.saputra@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_18",
+    "enrolledCourseIds": [
+      18,
+      22
+    ],
+    "status": "Active",
+    "joinDate": "2025-09-10",
+    "country": "Indonesia"
+  },
+  {
+    "id": 19,
+    "name": "Syifa Azzahra",
+    "email": "syifa.azzahra@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_19",
+    "enrolledCourseIds": [
+      19,
+      23
+    ],
+    "status": "Active",
+    "joinDate": "2025-01-10",
+    "country": "Malaysia"
+  },
+  {
+    "id": 20,
+    "name": "Tommy Wijaya",
+    "email": "tommy.wijaya@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_20",
+    "enrolledCourseIds": [
+      20,
+      24
+    ],
+    "status": "Active",
+    "joinDate": "2025-02-10",
+    "country": "Singapore"
+  },
+  {
+    "id": 21,
+    "name": "Ulfa Mardiana",
+    "email": "ulfa.mardiana@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_21",
+    "enrolledCourseIds": [
+      21,
+      25
+    ],
+    "status": "Graduated",
+    "joinDate": "2025-03-10",
+    "country": "Indonesia"
+  },
+  {
+    "id": 22,
+    "name": "Vicky Firmansyah",
+    "email": "vicky.firmansyah@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_22",
+    "enrolledCourseIds": [
+      22,
+      26
+    ],
+    "status": "Active",
+    "joinDate": "2025-04-10",
+    "country": "Indonesia"
+  },
+  {
+    "id": 23,
+    "name": "Winda Astuti",
+    "email": "winda.astuti@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_23",
+    "enrolledCourseIds": [
+      23,
+      1
+    ],
+    "status": "Active",
+    "joinDate": "2025-05-10",
+    "country": "Indonesia"
+  },
+  {
+    "id": 24,
+    "name": "Xavier Tanaka",
+    "email": "xavier.tanaka@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_24",
+    "enrolledCourseIds": [
+      24,
+      2
+    ],
+    "status": "Active",
+    "joinDate": "2025-06-10",
+    "country": "Malaysia"
+  },
+  {
+    "id": 25,
+    "name": "Yuliana Sari",
+    "email": "yuliana.sari@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_25",
+    "enrolledCourseIds": [
+      25,
+      3
+    ],
+    "status": "Graduated",
+    "joinDate": "2025-07-10",
+    "country": "Singapore"
+  },
+  {
+    "id": 26,
+    "name": "Zulham Efendi",
+    "email": "zulham.efendi@student.id",
+    "avatar": "https://i.pravatar.cc/150?u=student_26",
+    "enrolledCourseIds": [
+      26,
+      4
+    ],
+    "status": "Active",
+    "joinDate": "2025-08-10",
+    "country": "Indonesia"
+  }
+]

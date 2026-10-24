@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "title": "Deep Focus Coding Beats",
+    "creator": "Spotify Editorial",
+    "genre": "Sci-Fi",
+    "trackCount": 30,
+    "totalDurationMinutes": 110,
+    "followersCount": 12000,
+    "isPublic": true
+  },
+  {
+    "id": 2,
+    "title": "Lo-Fi Midnight Coffee",
+    "creator": "Emma Johnson Curations",
+    "genre": "Thriller",
+    "trackCount": 40,
+    "totalDurationMinutes": 118,
+    "followersCount": 19500,
+    "isPublic": true
+  },
+  {
+    "id": 3,
+    "title": "Synthwave Cyber Night",
+    "creator": "Spotify Editorial",
+    "genre": "Action",
+    "trackCount": 50,
+    "totalDurationMinutes": 126,
+    "followersCount": 27000,
+    "isPublic": true
+  },
+  {
+    "id": 4,
+    "title": "Indie Chill Vibes",
+    "creator": "Olivia Brown Curations",
+    "genre": "Drama",
+    "trackCount": 60,
+    "totalDurationMinutes": 134,
+    "followersCount": 34500,
+    "isPublic": true
+  },
+  {
+    "id": 5,
+    "title": "Acoustic Morning Sunlight",
+    "creator": "Spotify Editorial",
+    "genre": "Mystery",
+    "trackCount": 70,
+    "totalDurationMinutes": 142,
+    "followersCount": 42000,
+    "isPublic": true
+  },
+  {
+    "id": 6,
+    "title": "High BPM Workout Energy",
+    "creator": "Ava Garcia Curations",
+    "genre": "Cyberpunk",
+    "trackCount": 30,
+    "totalDurationMinutes": 150,
+    "followersCount": 49500,
+    "isPublic": true
+  },
+  {
+    "id": 7,
+    "title": "Ambient Space Drift",
+    "creator": "Spotify Editorial",
+    "genre": "Adventure",
+    "trackCount": 40,
+    "totalDurationMinutes": 158,
+    "followersCount": 57000,
+    "isPublic": true
+  },
+  {
+    "id": 8,
+    "title": "Piano Concentration Masterpieces",
+    "creator": "Sophia Davis Curations",
+    "genre": "Sci-Fi",
+    "trackCount": 50,
+    "totalDurationMinutes": 166,
+    "followersCount": 64500,
+    "isPublic": true
+  },
+  {
+    "id": 9,
+    "title": "Jazz Cafe Rainy Evening",
+    "creator": "Spotify Editorial",
+    "genre": "Thriller",
+    "trackCount": 60,
+    "totalDurationMinutes": 174,
+    "followersCount": 72000,
+    "isPublic": true
+  },
+  {
+    "id": 10,
+    "title": "Electronic Gaming Velocity",
+    "creator": "Isabella Martinez Curations",
+    "genre": "Action",
+    "trackCount": 70,
+    "totalDurationMinutes": 182,
+    "followersCount": 79500,
+    "isPublic": true
+  },
+  {
+    "id": 11,
+    "title": "Post-Rock Atmospheric Journeys",
+    "creator": "Spotify Editorial",
+    "genre": "Drama",
+    "trackCount": 30,
+    "totalDurationMinutes": 190,
+    "followersCount": 87000,
+    "isPublic": true
+  },
+  {
+    "id": 12,
+    "title": "Retro Wave 80s Highway",
+    "creator": "Mia Lopez Curations",
+    "genre": "Mystery",
+    "trackCount": 40,
+    "totalDurationMinutes": 198,
+    "followersCount": 94500,
+    "isPublic": true
+  },
+  {
+    "id": 13,
+    "title": "Tropical Sunset Lounge",
+    "creator": "Spotify Editorial",
+    "genre": "Cyberpunk",
+    "trackCount": 50,
+    "totalDurationMinutes": 206,
+    "followersCount": 102000,
+    "isPublic": true
+  },
+  {
+    "id": 14,
+    "title": "Heavy Metal Gym Power",
+    "creator": "Charlotte Wilson Curations",
+    "genre": "Adventure",
+    "trackCount": 60,
+    "totalDurationMinutes": 214,
+    "followersCount": 109500,
+    "isPublic": true
+  },
+  {
+    "id": 15,
+    "title": "Classical Studying Symphony",
+    "creator": "Spotify Editorial",
+    "genre": "Sci-Fi",
+    "trackCount": 70,
+    "totalDurationMinutes": 222,
+    "followersCount": 117000,
+    "isPublic": true
+  },
+  {
+    "id": 16,
+    "title": "Coffeehouse Folk Singer",
+    "creator": "Amelia Thomas Curations",
+    "genre": "Thriller",
+    "trackCount": 30,
+    "totalDurationMinutes": 230,
+    "followersCount": 124500,
+    "isPublic": true
+  },
+  {
+    "id": 17,
+    "title": "Vaporwave Nostalgia Hall",
+    "creator": "Spotify Editorial",
+    "genre": "Action",
+    "trackCount": 40,
+    "totalDurationMinutes": 238,
+    "followersCount": 132000,
+    "isPublic": true
+  },
+  {
+    "id": 18,
+    "title": "Techno Warehouse Peak",
+    "creator": "Harper Moore Curations",
+    "genre": "Drama",
+    "trackCount": 50,
+    "totalDurationMinutes": 246,
+    "followersCount": 139500,
+    "isPublic": true
+  },
+  {
+    "id": 19,
+    "title": "Chillstep Bass Odyssey",
+    "creator": "Spotify Editorial",
+    "genre": "Mystery",
+    "trackCount": 60,
+    "totalDurationMinutes": 254,
+    "followersCount": 147000,
+    "isPublic": true
+  },
+  {
+    "id": 20,
+    "title": "Deep House Poolside",
+    "creator": "Evelyn Martin Curations",
+    "genre": "Cyberpunk",
+    "trackCount": 70,
+    "totalDurationMinutes": 262,
+    "followersCount": 154500,
+    "isPublic": true
+  },
+  {
+    "id": 21,
+    "title": "Soulful R&B Groove",
+    "creator": "Spotify Editorial",
+    "genre": "Adventure",
+    "trackCount": 30,
+    "totalDurationMinutes": 270,
+    "followersCount": 162000,
+    "isPublic": true
+  },
+  {
+    "id": 22,
+    "title": "Meditative Zen Garden",
+    "creator": "Abigail Perez Curations",
+    "genre": "Sci-Fi",
+    "trackCount": 40,
+    "totalDurationMinutes": 278,
+    "followersCount": 169500,
+    "isPublic": true
+  },
+  {
+    "id": 23,
+    "title": "Drum & Bass Rush Hour",
+    "creator": "Spotify Editorial",
+    "genre": "Thriller",
+    "trackCount": 50,
+    "totalDurationMinutes": 286,
+    "followersCount": 177000,
+    "isPublic": true
+  },
+  {
+    "id": 24,
+    "title": "Reggae Summer Sunshine",
+    "creator": "Emily White Curations",
+    "genre": "Action",
+    "trackCount": 60,
+    "totalDurationMinutes": 294,
+    "followersCount": 184500,
+    "isPublic": true
+  },
+  {
+    "id": 25,
+    "title": "Cinematic Soundtracks Epic",
+    "creator": "Spotify Editorial",
+    "genre": "Drama",
+    "trackCount": 70,
+    "totalDurationMinutes": 302,
+    "followersCount": 192000,
+    "isPublic": true
+  },
+  {
+    "id": 26,
+    "title": "Minimalist Techno Flow",
+    "creator": "Elizabeth Sanchez Curations",
+    "genre": "Mystery",
+    "trackCount": 30,
+    "totalDurationMinutes": 310,
+    "followersCount": 199500,
+    "isPublic": true
+  }
+]

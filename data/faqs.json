@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "question": "Bagaimana cara mendaftar akun di Json Raw Data?",
+    "answer": "Anda dapat mendaftar dengan mengakses endpoint POST /api/users atau melalui form registrasi di web portal kami.",
+    "category": "General",
+    "isHelpfulCount": 15
+  },
+  {
+    "id": 2,
+    "question": "Apakah API ini gratis digunakan untuk keperluan pembelajaran?",
+    "answer": "Ya, seluruh endpoint API publik disediakan secara gratis untuk testing frontend, mobile apps, dan prototyping.",
+    "category": "API Usage",
+    "isHelpfulCount": 23
+  },
+  {
+    "id": 3,
+    "question": "Bagaimana cara melakukan filtering data pada endpoint?",
+    "answer": "Anda dapat menggunakan query string parameter standar json-server seperti ?role=admin atau ?category=Laptops.",
+    "category": "Technical",
+    "isHelpfulCount": 31
+  },
+  {
+    "id": 4,
+    "question": "Apakah API mendukung pagination?",
+    "answer": "Ya, Anda dapat menggunakan parameter ?_page=1&_limit=10 untuk membatasi dan menavigasi halaman data.",
+    "category": "Troubleshooting",
+    "isHelpfulCount": 39
+  },
+  {
+    "id": 5,
+    "question": "Bagaimana cara melakukan pencarian teks penuh (full-text search)?",
+    "answer": "Gunakan parameter ?q=kata_kunci pada endpoint koleksi mana pun untuk mencari di seluruh atribut data.",
+    "category": "General",
+    "isHelpfulCount": 47
+  },
+  {
+    "id": 6,
+    "question": "Apakah mendukung metode POST, PUT, PATCH, dan DELETE?",
+    "answer": "Ya, json-server menyediakan operasi RESTful lengkap untuk menambah, memperbarui, dan menghapus item.",
+    "category": "API Usage",
+    "isHelpfulCount": 55
+  },
+  {
+    "id": 7,
+    "question": "Bagaimana cara mengaktifkan CORS untuk frontend React / Next.js?",
+    "answer": "CORS telah diaktifkan secara default di server.js kami sehingga Anda dapat langsung melakukan fetch dari origin mana pun.",
+    "category": "Technical",
+    "isHelpfulCount": 63
+  },
+  {
+    "id": 8,
+    "question": "Berapa batasan rate limit request yang diperbolehkan?",
+    "answer": "Untuk server lokal tidak ada rate limit batasan ketat, namun disarankan menjaga beban wajar di bawah 100 req/detik.",
+    "category": "Troubleshooting",
+    "isHelpfulCount": 71
+  },
+  {
+    "id": 9,
+    "question": "Bagaimana format respon jika data yang dicari tidak ditemukan?",
+    "answer": "Server akan mengembalikan status HTTP 404 dengan body JSON kosong atau pesan error terstruktur.",
+    "category": "General",
+    "isHelpfulCount": 79
+  },
+  {
+    "id": 10,
+    "question": "Apakah saya bisa menambahkan field kustom pada data JSON?",
+    "answer": "Tentu, Anda cukup mengedit file JSON terkait di dalam folder data/ dan server akan langsung me-reload data.",
+    "category": "API Usage",
+    "isHelpfulCount": 17
+  },
+  {
+    "id": 11,
+    "question": "Bagaimana cara mereset data kembali ke kondisi awal (seed)?",
+    "answer": "Cukup jalankan perintah npm run test atau script generator ulang untuk mengembalikan data awal.",
+    "category": "Technical",
+    "isHelpfulCount": 25
+  },
+  {
+    "id": 12,
+    "question": "Apakah gambar thumbnail dan avatar memiliki link aktif?",
+    "answer": "Ya, seluruh URL gambar menggunakan layanan penyedia foto publik seperti Picsum Photos dan Pravatar yang selalu aktif.",
+    "category": "Troubleshooting",
+    "isHelpfulCount": 33
+  },
+  {
+    "id": 13,
+    "question": "Bagaimana cara mengurutkan hasil data (sorting)?",
+    "answer": "Gunakan query parameter ?_sort=price&_order=desc untuk mengurutkan harga dari yang tertinggi ke terendah.",
+    "category": "General",
+    "isHelpfulCount": 41
+  },
+  {
+    "id": 14,
+    "question": "Apakah bisa melakukan filter rentang angka seperti harga?",
+    "answer": "Bisa, gunakan operator pembanding seperti ?price_gte=100&price_lte=500 untuk mencari harga antara 100 dan 500.",
+    "category": "API Usage",
+    "isHelpfulCount": 49
+  },
+  {
+    "id": 15,
+    "question": "Bisakah saya menjalankan server pada port selain 3000?",
+    "answer": "Bisa, cukup jalankan dengan PORT=8080 node server.js atau atur environment variable PORT di terminal.",
+    "category": "Technical",
+    "isHelpfulCount": 57
+  },
+  {
+    "id": 16,
+    "question": "Apakah data tersimpan permanen saat ada request POST?",
+    "answer": "Data akan disimpan ke dalam memori router aktif. Untuk persistensi file, data dapat ditulis langsung ke file data/.",
+    "category": "Troubleshooting",
+    "isHelpfulCount": 65
+  },
+  {
+    "id": 17,
+    "question": "Bagaimana cara melihat daftar seluruh endpoint yang tersedia?",
+    "answer": "Akses halaman root GET / atau GET /api di browser untuk melihat ringkasan katalog seluruh 30 endpoint.",
+    "category": "General",
+    "isHelpfulCount": 73
+  },
+  {
+    "id": 18,
+    "question": "Apakah format response selalu berupa JSON?",
+    "answer": "Ya, seluruh API endpoint secara konsisten mengembalikan header Content-Type: application/json.",
+    "category": "API Usage",
+    "isHelpfulCount": 81
+  },
+  {
+    "id": 19,
+    "question": "Bagaimana struktur endpoint untuk relasi data nested?",
+    "answer": "Anda dapat mengakses route seperti /api/users/1/orders atau menggunakan filter /api/orders?userId=1.",
+    "category": "Technical",
+    "isHelpfulCount": 19
+  },
+  {
+    "id": 20,
+    "question": "Apakah format waktu menggunakan standar ISO 8601?",
+    "answer": "Ya, seluruh format timestamp waktu menggunakan format UTC standar YYYY-MM-DDTHH:mm:ssZ.",
+    "category": "Troubleshooting",
+    "isHelpfulCount": 27
+  },
+  {
+    "id": 21,
+    "question": "Apakah API mendukung autentikasi Bearer token?",
+    "answer": "Secara default endpoint terbuka untuk kemudahan testing, namun Anda dapat menambahkan middleware auth kustom di server.js.",
+    "category": "General",
+    "isHelpfulCount": 35
+  },
+  {
+    "id": 22,
+    "question": "Bagaimana cara melakukan clone repository ini?",
+    "answer": "Gunakan git clone pada url repositori kemudian jalankan npm install dan npm start.",
+    "category": "API Usage",
+    "isHelpfulCount": 43
+  },
+  {
+    "id": 23,
+    "question": "Apakah library json-server kompatibel dengan Node.js versi terbaru?",
+    "answer": "Ya, proyek ini diuji dan berjalan sempurna pada Node.js LTS v20, v22, dan v24.",
+    "category": "Technical",
+    "isHelpfulCount": 51
+  },
+  {
+    "id": 24,
+    "question": "Bisakah endpoint ini dipakai untuk testing aplikasi mobile Flutter?",
+    "answer": "Sangat bisa, pastikan memakai IP address lokal (seperti 192.168.x.x:3000) saat menjalankan di emulator/device nyata.",
+    "category": "Troubleshooting",
+    "isHelpfulCount": 59
+  },
+  {
+    "id": 25,
+    "question": "Apakah ada log request HTTP di konsol server?",
+    "answer": "Ya, middleware logging bawaan akan mencetak metode HTTP, endpoint yang dituju, dan waktu respon di terminal.",
+    "category": "General",
+    "isHelpfulCount": 67
+  },
+  {
+    "id": 26,
+    "question": "Siapa yang dapat saya hubungi jika ada pertanyaan lanjutan?",
+    "answer": "Silakan kirimkan pertanyaan melalui form inquiry di endpoint /api/leads atau hubungi tim pengembang kami.",
+    "category": "API Usage",
+    "isHelpfulCount": 75
+  }
+]

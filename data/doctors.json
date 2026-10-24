@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "fullName": "Dr. James Smith, M.D.",
+    "specialty": "Cardiology",
+    "hospital": "Metro Health Center",
+    "experienceYears": 6,
+    "consultationFee": 120,
+    "rating": 4.4,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": false
+  },
+  {
+    "id": 2,
+    "fullName": "Dr. Emma Johnson, M.D.",
+    "specialty": "Dermatology",
+    "hospital": "Saint Jude Medical",
+    "experienceYears": 7,
+    "consultationFee": 140,
+    "rating": 4.5,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 3,
+    "fullName": "Dr. Liam Williams, M.D.",
+    "specialty": "Neurology",
+    "hospital": "Cedar Sinai Hospital",
+    "experienceYears": 8,
+    "consultationFee": 160,
+    "rating": 4.6,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 4,
+    "fullName": "Dr. Olivia Brown, M.D.",
+    "specialty": "Pediatrics",
+    "hospital": "Mayo Clinic Partner",
+    "experienceYears": 9,
+    "consultationFee": 180,
+    "rating": 4.7,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 5,
+    "fullName": "Dr. Noah Jones, M.D.",
+    "specialty": "Orthopedics",
+    "hospital": "Bellevue Medical Center",
+    "experienceYears": 10,
+    "consultationFee": 200,
+    "rating": 4.8,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": false
+  },
+  {
+    "id": 6,
+    "fullName": "Dr. Ava Garcia, M.D.",
+    "specialty": "Psychiatry",
+    "hospital": "Metro Health Center",
+    "experienceYears": 11,
+    "consultationFee": 220,
+    "rating": 4.9,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 7,
+    "fullName": "Dr. Oliver Miller, M.D.",
+    "specialty": "Ophthalmology",
+    "hospital": "Saint Jude Medical",
+    "experienceYears": 12,
+    "consultationFee": 240,
+    "rating": 4.4,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 8,
+    "fullName": "Dr. Sophia Davis, M.D.",
+    "specialty": "Oncology",
+    "hospital": "Cedar Sinai Hospital",
+    "experienceYears": 13,
+    "consultationFee": 260,
+    "rating": 4.5,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 9,
+    "fullName": "Dr. Elijah Rodriguez, M.D.",
+    "specialty": "Endocrinology",
+    "hospital": "Mayo Clinic Partner",
+    "experienceYears": 14,
+    "consultationFee": 120,
+    "rating": 4.6,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": false
+  },
+  {
+    "id": 10,
+    "fullName": "Dr. Isabella Martinez, M.D.",
+    "specialty": "Cardiology",
+    "hospital": "Bellevue Medical Center",
+    "experienceYears": 15,
+    "consultationFee": 140,
+    "rating": 4.7,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 11,
+    "fullName": "Dr. William Hernandez, M.D.",
+    "specialty": "Dermatology",
+    "hospital": "Metro Health Center",
+    "experienceYears": 16,
+    "consultationFee": 160,
+    "rating": 4.8,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 12,
+    "fullName": "Dr. Mia Lopez, M.D.",
+    "specialty": "Neurology",
+    "hospital": "Saint Jude Medical",
+    "experienceYears": 17,
+    "consultationFee": 180,
+    "rating": 4.9,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 13,
+    "fullName": "Dr. Lucas Gonzalez, M.D.",
+    "specialty": "Pediatrics",
+    "hospital": "Cedar Sinai Hospital",
+    "experienceYears": 18,
+    "consultationFee": 200,
+    "rating": 4.4,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": false
+  },
+  {
+    "id": 14,
+    "fullName": "Dr. Charlotte Wilson, M.D.",
+    "specialty": "Orthopedics",
+    "hospital": "Mayo Clinic Partner",
+    "experienceYears": 19,
+    "consultationFee": 220,
+    "rating": 4.5,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 15,
+    "fullName": "Dr. Benjamin Anderson, M.D.",
+    "specialty": "Psychiatry",
+    "hospital": "Bellevue Medical Center",
+    "experienceYears": 20,
+    "consultationFee": 240,
+    "rating": 4.6,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 16,
+    "fullName": "Dr. Amelia Thomas, M.D.",
+    "specialty": "Ophthalmology",
+    "hospital": "Metro Health Center",
+    "experienceYears": 21,
+    "consultationFee": 260,
+    "rating": 4.7,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 17,
+    "fullName": "Dr. Henry Taylor, M.D.",
+    "specialty": "Oncology",
+    "hospital": "Saint Jude Medical",
+    "experienceYears": 22,
+    "consultationFee": 120,
+    "rating": 4.8,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": false
+  },
+  {
+    "id": 18,
+    "fullName": "Dr. Harper Moore, M.D.",
+    "specialty": "Endocrinology",
+    "hospital": "Cedar Sinai Hospital",
+    "experienceYears": 23,
+    "consultationFee": 140,
+    "rating": 4.9,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 19,
+    "fullName": "Dr. Alexander Jackson, M.D.",
+    "specialty": "Cardiology",
+    "hospital": "Mayo Clinic Partner",
+    "experienceYears": 6,
+    "consultationFee": 160,
+    "rating": 4.4,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 20,
+    "fullName": "Dr. Evelyn Martin, M.D.",
+    "specialty": "Dermatology",
+    "hospital": "Bellevue Medical Center",
+    "experienceYears": 7,
+    "consultationFee": 180,
+    "rating": 4.5,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 21,
+    "fullName": "Dr. Sebastian Lee, M.D.",
+    "specialty": "Neurology",
+    "hospital": "Metro Health Center",
+    "experienceYears": 8,
+    "consultationFee": 200,
+    "rating": 4.6,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": false
+  },
+  {
+    "id": 22,
+    "fullName": "Dr. Abigail Perez, M.D.",
+    "specialty": "Pediatrics",
+    "hospital": "Saint Jude Medical",
+    "experienceYears": 9,
+    "consultationFee": 220,
+    "rating": 4.7,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 23,
+    "fullName": "Dr. Jack Thompson, M.D.",
+    "specialty": "Orthopedics",
+    "hospital": "Cedar Sinai Hospital",
+    "experienceYears": 10,
+    "consultationFee": 240,
+    "rating": 4.8,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 24,
+    "fullName": "Dr. Emily White, M.D.",
+    "specialty": "Psychiatry",
+    "hospital": "Mayo Clinic Partner",
+    "experienceYears": 11,
+    "consultationFee": 260,
+    "rating": 4.9,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  },
+  {
+    "id": 25,
+    "fullName": "Dr. Daniel Harris, M.D.",
+    "specialty": "Ophthalmology",
+    "hospital": "Bellevue Medical Center",
+    "experienceYears": 12,
+    "consultationFee": 120,
+    "rating": 4.4,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": false
+  },
+  {
+    "id": 26,
+    "fullName": "Dr. Elizabeth Sanchez, M.D.",
+    "specialty": "Oncology",
+    "hospital": "Metro Health Center",
+    "experienceYears": 13,
+    "consultationFee": 140,
+    "rating": 4.5,
+    "availableDays": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "isAcceptingNewPatients": true
+  }
+]

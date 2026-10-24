@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Orange Kode",
+    "description": "Fullstack JavaScript Bootcamp for career switchers.",
+    "logoImage": "https://picsum.photos/200/200?1"
+  },
+  {
+    "id": 2,
+    "name": "Sadino Technology",
+    "description": "Software house specializing in web applications and API development.",
+    "logoImage": "https://picsum.photos/200/200?2"
+  },
+  {
+    "id": 3,
+    "name": "Sekolah Stack",
+    "description": "Premium coding bootcamp focused on modern software engineering skills.",
+    "logoImage": "https://picsum.photos/200/200?3"
+  },
+  {
+    "id": 4,
+    "name": "Protein Shack",
+    "description": "Content and resources about nutrition, protein meals, and fitness.",
+    "logoImage": "https://picsum.photos/200/200?4"
+  },
+  {
+    "id": 5,
+    "name": "Cookiefy",
+    "description": "Creative dessert brand focused on unique cookie recipes.",
+    "logoImage": "https://picsum.photos/200/200?5"
+  },
+  {
+    "id": 6,
+    "name": "CloudScale DevOps",
+    "description": "Enterprise Kubernetes and infrastructure automation consultancy.",
+    "logoImage": "https://picsum.photos/200/200?6"
+  },
+  {
+    "id": 7,
+    "name": "CyberShield ID",
+    "description": "Information security audits, pentesting, and SOC monitoring.",
+    "logoImage": "https://picsum.photos/200/200?7"
+  },
+  {
+    "id": 8,
+    "name": "Nusantara AI Labs",
+    "description": "Applied machine learning and generative AI solutions for Indonesian businesses.",
+    "logoImage": "https://picsum.photos/200/200?8"
+  },
+  {
+    "id": 9,
+    "name": "PixelCraft Studio",
+    "description": "UI/UX design agency focused on mobile and web product experiences.",
+    "logoImage": "https://picsum.photos/200/200?9"
+  },
+  {
+    "id": 10,
+    "name": "FinPay Nusantara",
+    "description": "Digital payment gateway and micro-lending API provider.",
+    "logoImage": "https://picsum.photos/200/200?10"
+  },
+  {
+    "id": 11,
+    "name": "EduKids Interaktif",
+    "description": "Gamified learning platform for early childhood education.",
+    "logoImage": "https://picsum.photos/200/200?11"
+  },
+  {
+    "id": 12,
+    "name": "Logistik Kilat Express",
+    "description": "Last-mile logistics platform and warehouse tracking systems.",
+    "logoImage": "https://picsum.photos/200/200?12"
+  },
+  {
+    "id": 13,
+    "name": "KopiKulture Indonesia",
+    "description": "Artisan single-origin coffee roastery and omnichannel bean supplier.",
+    "logoImage": "https://picsum.photos/200/200?13"
+  },
+  {
+    "id": 14,
+    "name": "EcoGreen Recycle",
+    "description": "Waste management tech and circular economy logistics.",
+    "logoImage": "https://picsum.photos/200/200?14"
+  },
+  {
+    "id": 15,
+    "name": "AeroTravel Media",
+    "description": "Travel discovery and budget flight comparison network.",
+    "logoImage": "https://picsum.photos/200/200?15"
+  },
+  {
+    "id": 16,
+    "name": "HealthSync Telemed",
+    "description": "On-demand doctor consultation and pharmacy delivery app.",
+    "logoImage": "https://picsum.photos/200/200?16"
+  },
+  {
+    "id": 17,
+    "name": "AutoDrive EV",
+    "description": "Electric vehicle charging station network and IoT fleet monitoring.",
+    "logoImage": "https://picsum.photos/200/200?17"
+  },
+  {
+    "id": 18,
+    "name": "RuangKreatif Coworking",
+    "description": "Modern shared workspaces and startup event hubs in Jakarta & Bandung.",
+    "logoImage": "https://picsum.photos/200/200?18"
+  },
+  {
+    "id": 19,
+    "name": "UrbanFit Gym & Club",
+    "description": "Smart gym chain with biometric check-in and automated workout logs.",
+    "logoImage": "https://picsum.photos/200/200?19"
+  },
+  {
+    "id": 20,
+    "name": "AgriNusa SmartFarm",
+    "description": "Precision agriculture sensors, soil metrics, and crop yield forecasting.",
+    "logoImage": "https://picsum.photos/200/200?20"
+  },
+  {
+    "id": 21,
+    "name": "GameForge Studios",
+    "description": "Indie mobile game development studio producing story-driven RPGs.",
+    "logoImage": "https://picsum.photos/200/200?21"
+  },
+  {
+    "id": 22,
+    "name": "NusaClean Homecare",
+    "description": "On-demand eco-friendly residential cleaning services.",
+    "logoImage": "https://picsum.photos/200/200?22"
+  },
+  {
+    "id": 23,
+    "name": "LegalTech ID",
+    "description": "Automated contract generation and digital notarization portal.",
+    "logoImage": "https://picsum.photos/200/200?23"
+  },
+  {
+    "id": 24,
+    "name": "Solaris Renewable Energy",
+    "description": "Rooftop solar panel installation and residential battery storage.",
+    "logoImage": "https://picsum.photos/200/200?24"
+  },
+  {
+    "id": 25,
+    "name": "OmniStream Media",
+    "description": "Live streaming tools, podcast production, and creator monetization.",
+    "logoImage": "https://picsum.photos/200/200?25"
+  }
+]

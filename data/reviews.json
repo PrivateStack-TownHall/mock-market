@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "productId": 1,
+    "userId": 4,
+    "reviewerName": "Dewi Kusuma",
+    "rating": 4,
+    "comment": "Kualitas barang luar biasa! Build quality kokoh dan performa sangat kencang.",
+    "date": "2026-03-01"
+  },
+  {
+    "id": 2,
+    "productId": 2,
+    "userId": 5,
+    "reviewerName": "Eko Hidayat",
+    "rating": 5,
+    "comment": "Pengiriman cepat, packing kayu rapi dan aman. Sangat puas belanja di sini.",
+    "date": "2026-03-02"
+  },
+  {
+    "id": 3,
+    "productId": 3,
+    "userId": 6,
+    "reviewerName": "Fajar Saputra",
+    "rating": 5,
+    "comment": "Keyboard terasa sangat empuk, suara thocky dan koneksi Bluetooth stabil.",
+    "date": "2026-03-03"
+  },
+  {
+    "id": 4,
+    "productId": 4,
+    "userId": 7,
+    "reviewerName": "Gita Lestari",
+    "rating": 5,
+    "comment": "Suara bass jernih, noise cancelling sangat kedap saat dipakai di cafe.",
+    "date": "2026-03-04"
+  },
+  {
+    "id": 5,
+    "productId": 5,
+    "userId": 8,
+    "reviewerName": "Hendra Siregar",
+    "rating": 5,
+    "comment": "Layar OLED jernih luar biasa, akurasi warna sangat pas untuk kerja grading visual.",
+    "date": "2026-03-05"
+  },
+  {
+    "id": 6,
+    "productId": 6,
+    "userId": 9,
+    "reviewerName": "Indah Wibowo",
+    "rating": 4,
+    "comment": "Produk original dan bergaransi resmi. Customer service sangat responsif!",
+    "date": "2026-03-06"
+  },
+  {
+    "id": 7,
+    "productId": 7,
+    "userId": 10,
+    "reviewerName": "Joko Nugroho",
+    "rating": 5,
+    "comment": "Baterai tahan seharian penuh untuk coding dan compile proyek besar.",
+    "date": "2026-03-07"
+  },
+  {
+    "id": 8,
+    "productId": 8,
+    "userId": 11,
+    "reviewerName": "Kartika Anggraini",
+    "rating": 5,
+    "comment": "Mouse sangat ergonomis, tangan tidak pegal meski dipakai 10 jam nonstop.",
+    "date": "2026-03-08"
+  },
+  {
+    "id": 9,
+    "productId": 9,
+    "userId": 12,
+    "reviewerName": "Lukman Setiawan",
+    "rating": 5,
+    "comment": "Monitor ultrawide membuat multitasking split window jadi sangat nyaman.",
+    "date": "2026-03-09"
+  },
+  {
+    "id": 10,
+    "productId": 10,
+    "userId": 13,
+    "reviewerName": "Maya Permata",
+    "rating": 5,
+    "comment": "Desain minimalis dan premium. Sangat merekomendasikan produk ini ke rekan kerja.",
+    "date": "2026-03-10"
+  },
+  {
+    "id": 11,
+    "productId": 11,
+    "userId": 14,
+    "reviewerName": "Nanda Firmansyah",
+    "rating": 4,
+    "comment": "Packaging sangat mewah, aksesoris kabel bawaan lengkap dan berkualitas tinggi.",
+    "date": "2026-03-11"
+  },
+  {
+    "id": 12,
+    "productId": 12,
+    "userId": 15,
+    "reviewerName": "Oscar Suryanto",
+    "rating": 5,
+    "comment": "Webcam dan microphone bawaan sudah sangat cukup untuk meeting online harian.",
+    "date": "2026-03-12"
+  },
+  {
+    "id": 13,
+    "productId": 13,
+    "userId": 16,
+    "reviewerName": "Putri Rahmawati",
+    "rating": 5,
+    "comment": "Performa rendering video 4K lancar jaya tanpa thermal throttling berlebih.",
+    "date": "2026-03-13"
+  },
+  {
+    "id": 14,
+    "productId": 14,
+    "userId": 17,
+    "reviewerName": "Qori Ananda",
+    "rating": 5,
+    "comment": "Sudah pakai 3 bulan dan performa tetap konsisten tanpa kendala sama sekali.",
+    "date": "2026-03-14"
+  },
+  {
+    "id": 15,
+    "productId": 15,
+    "userId": 18,
+    "reviewerName": "Rian Ramadhan",
+    "rating": 5,
+    "comment": "Worth every penny! Investasi terbaik untuk workstation kerja dari rumah.",
+    "date": "2026-03-15"
+  },
+  {
+    "id": 16,
+    "productId": 16,
+    "userId": 19,
+    "reviewerName": "Siti Utomo",
+    "rating": 4,
+    "comment": "Konektivitas port Thunderbolt lengkap, tidak perlu dongle tambahan lagi.",
+    "date": "2026-03-16"
+  },
+  {
+    "id": 17,
+    "productId": 17,
+    "userId": 20,
+    "reviewerName": "Taufik Mahendra",
+    "rating": 5,
+    "comment": "Stok selalu update dan pengiriman same day sampai sesuai estimasi waktu.",
+    "date": "2026-03-17"
+  },
+  {
+    "id": 18,
+    "productId": 18,
+    "userId": 21,
+    "reviewerName": "Utami Suharto",
+    "rating": 5,
+    "comment": "Sensor trackpad sangat presisi dan gesture swipe terasa begitu mulus.",
+    "date": "2026-03-18"
+  },
+  {
+    "id": 19,
+    "productId": 19,
+    "userId": 22,
+    "reviewerName": "Vincent Guizot",
+    "rating": 5,
+    "comment": "Ukuran compact dan ringan, sangat praktis untuk dibawa bepergian ke luar kota.",
+    "date": "2026-03-19"
+  },
+  {
+    "id": 20,
+    "productId": 20,
+    "userId": 23,
+    "reviewerName": "Wahyu Gunawan",
+    "rating": 5,
+    "comment": "Peredam getaran pada stand mic berfungsi sangat baik mengisolasi noise meja.",
+    "date": "2026-03-20"
+  },
+  {
+    "id": 21,
+    "productId": 21,
+    "userId": 24,
+    "reviewerName": "Xena Hartanto",
+    "rating": 4,
+    "comment": "Kamera mirrorless dengan autofokus tercepat yang pernah saya gunakan!",
+    "date": "2026-03-21"
+  },
+  {
+    "id": 22,
+    "productId": 22,
+    "userId": 25,
+    "reviewerName": "Yoga Prasetyo",
+    "rating": 5,
+    "comment": "Drone sangat stabil meski diuji terbang pada kondisi angin pantai cukup kencang.",
+    "date": "2026-03-22"
+  },
+  {
+    "id": 23,
+    "productId": 23,
+    "userId": 26,
+    "reviewerName": "Zahra Nurhaliza",
+    "rating": 5,
+    "comment": "Kursi gaming ergonomis yang benar-benar menopang tulang lumbar dengan sempurna.",
+    "date": "2026-03-23"
+  },
+  {
+    "id": 24,
+    "productId": 24,
+    "userId": 1,
+    "reviewerName": "Ahmad Pratama",
+    "rating": 5,
+    "comment": "Meja hidrolik naik turun dengan motor halus dan memori ketinggian preset akurat.",
+    "date": "2026-03-24"
+  },
+  {
+    "id": 25,
+    "productId": 25,
+    "userId": 2,
+    "reviewerName": "Budi Santoso",
+    "rating": 5,
+    "comment": "Kecepatan transfer SSD NVMe tembus 7000 MB/s sesuai klaim spesifikasi!",
+    "date": "2026-03-25"
+  },
+  {
+    "id": 26,
+    "productId": 26,
+    "userId": 3,
+    "reviewerName": "Citra Wijaya",
+    "rating": 4,
+    "comment": "E-reader dengan layar e-ink hangat, sangat nyaman membaca novel berjam-jam.",
+    "date": "2026-03-26"
+  }
+]

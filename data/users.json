@@ -1,0 +1,548 @@
+[
+  {
+    "id": 1,
+    "firstName": "Ahmad",
+    "lastName": "Pratama",
+    "username": "ahmad.pratama",
+    "email": "ahmad.pratama@example.com",
+    "role": "manager",
+    "avatar": "https://i.pravatar.cc/150?u=user_1",
+    "phone": "+62 812-1001-2001",
+    "address": {
+      "street": "Jl. Melati No. 4",
+      "city": "Bandung",
+      "state": "Indonesia",
+      "postalCode": "10111"
+    },
+    "company": {
+      "name": "Orange Kode Digital",
+      "department": "Design"
+    },
+    "createdAt": "2025-02-15T08:30:00Z"
+  },
+  {
+    "id": 2,
+    "firstName": "Budi",
+    "lastName": "Santoso",
+    "username": "budi.santoso",
+    "email": "budi.santoso@example.com",
+    "role": "developer",
+    "avatar": "https://i.pravatar.cc/150?u=user_2",
+    "phone": "+62 812-1002-2002",
+    "address": {
+      "street": "Jl. Melati No. 8",
+      "city": "Surabaya",
+      "state": "Indonesia",
+      "postalCode": "10222"
+    },
+    "company": {
+      "name": "Sadino Technology",
+      "department": "Product"
+    },
+    "createdAt": "2025-03-15T08:30:00Z"
+  },
+  {
+    "id": 3,
+    "firstName": "Citra",
+    "lastName": "Wijaya",
+    "username": "citra.wijaya",
+    "email": "citra.wijaya@example.com",
+    "role": "designer",
+    "avatar": "https://i.pravatar.cc/150?u=user_3",
+    "phone": "+62 812-1003-2003",
+    "address": {
+      "street": "Jl. Melati No. 12",
+      "city": "Yogyakarta",
+      "state": "Indonesia",
+      "postalCode": "10333"
+    },
+    "company": {
+      "name": "Orange Kode Digital",
+      "department": "Engineering"
+    },
+    "createdAt": "2025-04-15T08:30:00Z"
+  },
+  {
+    "id": 4,
+    "firstName": "Dewi",
+    "lastName": "Kusuma",
+    "username": "dewi.kusuma",
+    "email": "dewi.kusuma@example.com",
+    "role": "customer",
+    "avatar": "https://i.pravatar.cc/150?u=user_4",
+    "phone": "+62 812-1004-2004",
+    "address": {
+      "street": "Jl. Melati No. 16",
+      "city": "Medan",
+      "state": "Indonesia",
+      "postalCode": "10444"
+    },
+    "company": {
+      "name": "Sadino Technology",
+      "department": "Design"
+    },
+    "createdAt": "2025-05-15T08:30:00Z"
+  },
+  {
+    "id": 5,
+    "firstName": "Eko",
+    "lastName": "Hidayat",
+    "username": "eko.hidayat",
+    "email": "eko.hidayat@example.com",
+    "role": "customer",
+    "avatar": "https://i.pravatar.cc/150?u=user_5",
+    "phone": "+62 812-1005-2005",
+    "address": {
+      "street": "Jl. Melati No. 20",
+      "city": "Semarang",
+      "state": "Indonesia",
+      "postalCode": "10555"
+    },
+    "company": {
+      "name": "Orange Kode Digital",
+      "department": "Product"
+    },
+    "createdAt": "2025-06-15T08:30:00Z"
+  },
+  {
+    "id": 6,
+    "firstName": "Fajar",
+    "lastName": "Saputra",
+    "username": "fajar.saputra",
+    "email": "fajar.saputra@example.com",
+    "role": "customer",
+    "avatar": "https://i.pravatar.cc/150?u=user_6",
+    "phone": "+62 812-1006-2006",
+    "address": {
+      "street": "Jl. Melati No. 24",
+      "city": "Denpasar",
+      "state": "Indonesia",
+      "postalCode": "10666"
+    },
+    "company": {
+      "name": "Sadino Technology",
+      "department": "Engineering"
+    },
+    "createdAt": "2025-07-15T08:30:00Z"
+  },
+  {
+    "id": 7,
+    "firstName": "Gita",
+    "lastName": "Lestari",
+    "username": "gita.lestari",
+    "email": "gita.lestari@example.com",
+    "role": "instructor",
+    "avatar": "https://i.pravatar.cc/150?u=user_7",
+    "phone": "+62 812-1007-2007",
+    "address": {
+      "street": "Jl. Melati No. 28",
+      "city": "Malang",
+      "state": "Indonesia",
+      "postalCode": "10777"
+    },
+    "company": {
+      "name": "Orange Kode Digital",
+      "department": "Design"
+    },
+    "createdAt": "2025-08-15T08:30:00Z"
+  },
+  {
+    "id": 8,
+    "firstName": "Hendra",
+    "lastName": "Siregar",
+    "username": "hendra.siregar",
+    "email": "hendra.siregar@example.com",
+    "role": "admin",
+    "avatar": "https://i.pravatar.cc/150?u=user_8",
+    "phone": "+62 812-1008-2008",
+    "address": {
+      "street": "Jl. Melati No. 32",
+      "city": "Tangerang",
+      "state": "Indonesia",
+      "postalCode": "10888"
+    },
+    "company": {
+      "name": "Sadino Technology",
+      "department": "Product"
+    },
+    "createdAt": "2025-09-15T08:30:00Z"
+  },
+  {
+    "id": 9,
+    "firstName": "Indah",
+    "lastName": "Wibowo",
+    "username": "indah.wibowo",
+    "email": "indah.wibowo@example.com",
+    "role": "manager",
+    "avatar": "https://i.pravatar.cc/150?u=user_9",
+    "phone": "+62 812-1009-2009",
+    "address": {
+      "street": "Jl. Melati No. 36",
+      "city": "Bekasi",
+      "state": "Indonesia",
+      "postalCode": "10999"
+    },
+    "company": {
+      "name": "Orange Kode Digital",
+      "department": "Engineering"
+    },
+    "createdAt": "2025-10-15T08:30:00Z"
+  },
+  {
+    "id": 10,
+    "firstName": "Joko",
+    "lastName": "Nugroho",
+    "username": "joko.nugroho",
+    "email": "joko.nugroho@example.com",
+    "role": "developer",
+    "avatar": "https://i.pravatar.cc/150?u=user_10",
+    "phone": "+62 812-1010-2010",
+    "address": {
+      "street": "Jl. Melati No. 40",
+      "city": "Jakarta",
+      "state": "Indonesia",
+      "postalCode": "11110"
+    },
+    "company": {
+      "name": "Sadino Technology",
+      "department": "Design"
+    },
+    "createdAt": "2025-11-15T08:30:00Z"
+  },
+  {
+    "id": 11,
+    "firstName": "Kartika",
+    "lastName": "Anggraini",
+    "username": "kartika.anggraini",
+    "email": "kartika.anggraini@example.com",
+    "role": "designer",
+    "avatar": "https://i.pravatar.cc/150?u=user_11",
+    "phone": "+62 812-1011-2011",
+    "address": {
+      "street": "Jl. Melati No. 44",
+      "city": "Bandung",
+      "state": "Indonesia",
+      "postalCode": "11221"
+    },
+    "company": {
+      "name": "Orange Kode Digital",
+      "department": "Product"
+    },
+    "createdAt": "2025-12-15T08:30:00Z"
+  },
+  {
+    "id": 12,
+    "firstName": "Lukman",
+    "lastName": "Setiawan",
+    "username": "lukman.setiawan",
+    "email": "lukman.setiawan@example.com",
+    "role": "customer",
+    "avatar": "https://i.pravatar.cc/150?u=user_12",
+    "phone": "+62 812-1012-2012",
+    "address": {
+      "street": "Jl. Melati No. 48",
+      "city": "Surabaya",
+      "state": "Indonesia",
+      "postalCode": "11332"
+    },
+    "company": {
+      "name": "Sadino Technology",
+      "department": "Engineering"
+    },
+    "createdAt": "2025-01-15T08:30:00Z"
+  },
+  {
+    "id": 13,
+    "firstName": "Maya",
+    "lastName": "Permata",
+    "username": "maya.permata",
+    "email": "maya.permata@example.com",
+    "role": "customer",
+    "avatar": "https://i.pravatar.cc/150?u=user_13",
+    "phone": "+62 812-1013-2013",
+    "address": {
+      "street": "Jl. Melati No. 52",
+      "city": "Yogyakarta",
+      "state": "Indonesia",
+      "postalCode": "11443"
+    },
+    "company": {
+      "name": "Orange Kode Digital",
+      "department": "Design"
+    },
+    "createdAt": "2025-02-15T08:30:00Z"
+  },
+  {
+    "id": 14,
+    "firstName": "Nanda",
+    "lastName": "Firmansyah",
+    "username": "nanda.firmansyah",
+    "email": "nanda.firmansyah@example.com",
+    "role": "customer",
+    "avatar": "https://i.pravatar.cc/150?u=user_14",
+    "phone": "+62 812-1014-2014",
+    "address": {
+      "street": "Jl. Melati No. 56",
+      "city": "Medan",
+      "state": "Indonesia",
+      "postalCode": "11554"
+    },
+    "company": {
+      "name": "Sadino Technology",
+      "department": "Product"
+    },
+    "createdAt": "2025-03-15T08:30:00Z"
+  },
+  {
+    "id": 15,
+    "firstName": "Oscar",
+    "lastName": "Suryanto",
+    "username": "oscar.suryanto",
+    "email": "oscar.suryanto@example.com",
+    "role": "instructor",
+    "avatar": "https://i.pravatar.cc/150?u=user_15",
+    "phone": "+62 812-1015-2015",
+    "address": {
+      "street": "Jl. Melati No. 60",
+      "city": "Semarang",
+      "state": "Indonesia",
+      "postalCode": "11665"
+    },
+    "company": {
+      "name": "Orange Kode Digital",
+      "department": "Engineering"
+    },
+    "createdAt": "2025-04-15T08:30:00Z"
+  },
+  {
+    "id": 16,
+    "firstName": "Putri",
+    "lastName": "Rahmawati",
+    "username": "putri.rahmawati",
+    "email": "putri.rahmawati@example.com",
+    "role": "admin",
+    "avatar": "https://i.pravatar.cc/150?u=user_16",
+    "phone": "+62 812-1016-2016",
+    "address": {
+      "street": "Jl. Melati No. 64",
+      "city": "Denpasar",
+      "state": "Indonesia",
+      "postalCode": "11776"
+    },
+    "company": {
+      "name": "Sadino Technology",
+      "department": "Design"
+    },
+    "createdAt": "2025-05-15T08:30:00Z"
+  },
+  {
+    "id": 17,
+    "firstName": "Qori",
+    "lastName": "Ananda",
+    "username": "qori.ananda",
+    "email": "qori.ananda@example.com",
+    "role": "manager",
+    "avatar": "https://i.pravatar.cc/150?u=user_17",
+    "phone": "+62 812-1017-2017",
+    "address": {
+      "street": "Jl. Melati No. 68",
+      "city": "Malang",
+      "state": "Indonesia",
+      "postalCode": "11887"
+    },
+    "company": {
+      "name": "Orange Kode Digital",
+      "department": "Product"
+    },
+    "createdAt": "2025-06-15T08:30:00Z"
+  },
+  {
+    "id": 18,
+    "firstName": "Rian",
+    "lastName": "Ramadhan",
+    "username": "rian.ramadhan",
+    "email": "rian.ramadhan@example.com",
+    "role": "developer",
+    "avatar": "https://i.pravatar.cc/150?u=user_18",
+    "phone": "+62 812-1018-2018",
+    "address": {
+      "street": "Jl. Melati No. 72",
+      "city": "Tangerang",
+      "state": "Indonesia",
+      "postalCode": "11998"
+    },
+    "company": {
+      "name": "Sadino Technology",
+      "department": "Engineering"
+    },
+    "createdAt": "2025-07-15T08:30:00Z"
+  },
+  {
+    "id": 19,
+    "firstName": "Siti",
+    "lastName": "Utomo",
+    "username": "siti.utomo",
+    "email": "siti.utomo@example.com",
+    "role": "designer",
+    "avatar": "https://i.pravatar.cc/150?u=user_19",
+    "phone": "+62 812-1019-2019",
+    "address": {
+      "street": "Jl. Melati No. 76",
+      "city": "Bekasi",
+      "state": "Indonesia",
+      "postalCode": "12109"
+    },
+    "company": {
+      "name": "Orange Kode Digital",
+      "department": "Design"
+    },
+    "createdAt": "2025-08-15T08:30:00Z"
+  },
+  {
+    "id": 20,
+    "firstName": "Taufik",
+    "lastName": "Mahendra",
+    "username": "taufik.mahendra",
+    "email": "taufik.mahendra@example.com",
+    "role": "customer",
+    "avatar": "https://i.pravatar.cc/150?u=user_20",
+    "phone": "+62 812-1020-2020",
+    "address": {
+      "street": "Jl. Melati No. 80",
+      "city": "Jakarta",
+      "state": "Indonesia",
+      "postalCode": "12220"
+    },
+    "company": {
+      "name": "Sadino Technology",
+      "department": "Product"
+    },
+    "createdAt": "2025-09-15T08:30:00Z"
+  },
+  {
+    "id": 21,
+    "firstName": "Utami",
+    "lastName": "Suharto",
+    "username": "utami.suharto",
+    "email": "utami.suharto@example.com",
+    "role": "customer",
+    "avatar": "https://i.pravatar.cc/150?u=user_21",
+    "phone": "+62 812-1021-2021",
+    "address": {
+      "street": "Jl. Melati No. 84",
+      "city": "Bandung",
+      "state": "Indonesia",
+      "postalCode": "12331"
+    },
+    "company": {
+      "name": "Orange Kode Digital",
+      "department": "Engineering"
+    },
+    "createdAt": "2025-10-15T08:30:00Z"
+  },
+  {
+    "id": 22,
+    "firstName": "Vincent",
+    "lastName": "Guizot",
+    "username": "vincent.guizot",
+    "email": "vincent.guizot@example.com",
+    "role": "customer",
+    "avatar": "https://i.pravatar.cc/150?u=user_22",
+    "phone": "+62 812-1022-2022",
+    "address": {
+      "street": "Jl. Melati No. 88",
+      "city": "Surabaya",
+      "state": "Indonesia",
+      "postalCode": "12442"
+    },
+    "company": {
+      "name": "Sadino Technology",
+      "department": "Design"
+    },
+    "createdAt": "2025-11-15T08:30:00Z"
+  },
+  {
+    "id": 23,
+    "firstName": "Wahyu",
+    "lastName": "Gunawan",
+    "username": "wahyu.gunawan",
+    "email": "wahyu.gunawan@example.com",
+    "role": "instructor",
+    "avatar": "https://i.pravatar.cc/150?u=user_23",
+    "phone": "+62 812-1023-2023",
+    "address": {
+      "street": "Jl. Melati No. 92",
+      "city": "Yogyakarta",
+      "state": "Indonesia",
+      "postalCode": "12553"
+    },
+    "company": {
+      "name": "Orange Kode Digital",
+      "department": "Product"
+    },
+    "createdAt": "2025-12-15T08:30:00Z"
+  },
+  {
+    "id": 24,
+    "firstName": "Xena",
+    "lastName": "Hartanto",
+    "username": "xena.hartanto",
+    "email": "xena.hartanto@example.com",
+    "role": "admin",
+    "avatar": "https://i.pravatar.cc/150?u=user_24",
+    "phone": "+62 812-1024-2024",
+    "address": {
+      "street": "Jl. Melati No. 96",
+      "city": "Medan",
+      "state": "Indonesia",
+      "postalCode": "12664"
+    },
+    "company": {
+      "name": "Sadino Technology",
+      "department": "Engineering"
+    },
+    "createdAt": "2025-01-15T08:30:00Z"
+  },
+  {
+    "id": 25,
+    "firstName": "Yoga",
+    "lastName": "Prasetyo",
+    "username": "yoga.prasetyo",
+    "email": "yoga.prasetyo@example.com",
+    "role": "manager",
+    "avatar": "https://i.pravatar.cc/150?u=user_25",
+    "phone": "+62 812-1025-2025",
+    "address": {
+      "street": "Jl. Melati No. 100",
+      "city": "Semarang",
+      "state": "Indonesia",
+      "postalCode": "12775"
+    },
+    "company": {
+      "name": "Orange Kode Digital",
+      "department": "Design"
+    },
+    "createdAt": "2025-02-15T08:30:00Z"
+  },
+  {
+    "id": 26,
+    "firstName": "Zahra",
+    "lastName": "Nurhaliza",
+    "username": "zahra.nurhaliza",
+    "email": "zahra.nurhaliza@example.com",
+    "role": "developer",
+    "avatar": "https://i.pravatar.cc/150?u=user_26",
+    "phone": "+62 812-1026-2026",
+    "address": {
+      "street": "Jl. Melati No. 104",
+      "city": "Denpasar",
+      "state": "Indonesia",
+      "postalCode": "12886"
+    },
+    "company": {
+      "name": "Sadino Technology",
+      "department": "Product"
+    },
+    "createdAt": "2025-03-15T08:30:00Z"
+  }
+]

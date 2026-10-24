@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "React",
+    "brandId": 1
+  },
+  {
+    "id": 2,
+    "name": "JavaScript",
+    "brandId": 1
+  },
+  {
+    "id": 3,
+    "name": "Frontend",
+    "brandId": 1
+  },
+  {
+    "id": 4,
+    "name": "Redux",
+    "brandId": 1
+  },
+  {
+    "id": 5,
+    "name": "TypeScript",
+    "brandId": 1
+  },
+  {
+    "id": 6,
+    "name": "Performance",
+    "brandId": 1
+  },
+  {
+    "id": 7,
+    "name": "Architecture",
+    "brandId": 2
+  },
+  {
+    "id": 8,
+    "name": "Docker",
+    "brandId": 2
+  },
+  {
+    "id": 9,
+    "name": "Express",
+    "brandId": 2
+  },
+  {
+    "id": 10,
+    "name": "API",
+    "brandId": 2
+  },
+  {
+    "id": 11,
+    "name": "Programming",
+    "brandId": 3
+  },
+  {
+    "id": 12,
+    "name": "Career",
+    "brandId": 3
+  },
+  {
+    "id": 13,
+    "name": "Protein",
+    "brandId": 4
+  },
+  {
+    "id": 14,
+    "name": "Fitness",
+    "brandId": 4
+  },
+  {
+    "id": 15,
+    "name": "Nutrition",
+    "brandId": 4
+  },
+  {
+    "id": 16,
+    "name": "Dessert",
+    "brandId": 5
+  },
+  {
+    "id": 17,
+    "name": "Cookies",
+    "brandId": 5
+  },
+  {
+    "id": 18,
+    "name": "Kubernetes",
+    "brandId": 6
+  },
+  {
+    "id": 19,
+    "name": "Docker",
+    "brandId": 6
+  },
+  {
+    "id": 20,
+    "name": "Security Audit",
+    "brandId": 7
+  },
+  {
+    "id": 21,
+    "name": "Large Language Models",
+    "brandId": 8
+  },
+  {
+    "id": 22,
+    "name": "Figma",
+    "brandId": 9
+  },
+  {
+    "id": 23,
+    "name": "Payment API",
+    "brandId": 10
+  },
+  {
+    "id": 24,
+    "name": "Supply Chain",
+    "brandId": 12
+  },
+  {
+    "id": 25,
+    "name": "Clean Architecture",
+    "brandId": 2
+  },
+  {
+    "id": 26,
+    "name": "Microservices",
+    "brandId": 3
+  }
+]

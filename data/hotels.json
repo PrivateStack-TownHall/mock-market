@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "name": "The Grand Horizon",
+    "city": "New York",
+    "starRating": 4,
+    "pricePerNight": 150,
+    "currency": "USD",
+    "roomType": "Deluxe King",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Azure Bay Resort",
+    "city": "San Francisco",
+    "starRating": 5,
+    "pricePerNight": 235,
+    "currency": "USD",
+    "roomType": "Executive Suite",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.6
+  },
+  {
+    "id": 3,
+    "name": "Metropolitan Suites",
+    "city": "London",
+    "starRating": 5,
+    "pricePerNight": 320,
+    "currency": "USD",
+    "roomType": "Ocean View Villa",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Alpine Crest Lodge",
+    "city": "Tokyo",
+    "starRating": 4,
+    "pricePerNight": 405,
+    "currency": "USD",
+    "roomType": "Penthouse",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.8
+  },
+  {
+    "id": 5,
+    "name": "The Ritz Carlton Reserve",
+    "city": "Berlin",
+    "starRating": 5,
+    "pricePerNight": 490,
+    "currency": "USD",
+    "roomType": "Deluxe King",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.9
+  },
+  {
+    "id": 6,
+    "name": "Four Seasons Haven",
+    "city": "Singapore",
+    "starRating": 5,
+    "pricePerNight": 575,
+    "currency": "USD",
+    "roomType": "Executive Suite",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.5
+  },
+  {
+    "id": 7,
+    "name": "Park Hyatt Palace",
+    "city": "Sydney",
+    "starRating": 4,
+    "pricePerNight": 660,
+    "currency": "USD",
+    "roomType": "Ocean View Villa",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.6
+  },
+  {
+    "id": 8,
+    "name": "Mandarin Oriental View",
+    "city": "Toronto",
+    "starRating": 5,
+    "pricePerNight": 745,
+    "currency": "USD",
+    "roomType": "Penthouse",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.7
+  },
+  {
+    "id": 9,
+    "name": "St. Regis Sanctuary",
+    "city": "Paris",
+    "starRating": 5,
+    "pricePerNight": 150,
+    "currency": "USD",
+    "roomType": "Deluxe King",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.8
+  },
+  {
+    "id": 10,
+    "name": "Waldorf Astoria Oasis",
+    "city": "Austin",
+    "starRating": 4,
+    "pricePerNight": 235,
+    "currency": "USD",
+    "roomType": "Executive Suite",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.9
+  },
+  {
+    "id": 11,
+    "name": "W Hotel Downtown",
+    "city": "Seattle",
+    "starRating": 5,
+    "pricePerNight": 320,
+    "currency": "USD",
+    "roomType": "Ocean View Villa",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.5
+  },
+  {
+    "id": 12,
+    "name": "InterContinental Marina",
+    "city": "Amsterdam",
+    "starRating": 5,
+    "pricePerNight": 405,
+    "currency": "USD",
+    "roomType": "Penthouse",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.6
+  },
+  {
+    "id": 13,
+    "name": "Rosewood Sanctuary",
+    "city": "Dublin",
+    "starRating": 4,
+    "pricePerNight": 490,
+    "currency": "USD",
+    "roomType": "Deluxe King",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.7
+  },
+  {
+    "id": 14,
+    "name": "Banyan Tree Villa",
+    "city": "Zurich",
+    "starRating": 5,
+    "pricePerNight": 575,
+    "currency": "USD",
+    "roomType": "Executive Suite",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.8
+  },
+  {
+    "id": 15,
+    "name": "Aman Tokyo Sanctuary",
+    "city": "Chicago",
+    "starRating": 5,
+    "pricePerNight": 660,
+    "currency": "USD",
+    "roomType": "Ocean View Villa",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.9
+  },
+  {
+    "id": 16,
+    "name": "The Langham Heritage",
+    "city": "Boston",
+    "starRating": 4,
+    "pricePerNight": 745,
+    "currency": "USD",
+    "roomType": "Penthouse",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.5
+  },
+  {
+    "id": 17,
+    "name": "Peninsula Elegance",
+    "city": "Seoul",
+    "starRating": 5,
+    "pricePerNight": 150,
+    "currency": "USD",
+    "roomType": "Deluxe King",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.6
+  },
+  {
+    "id": 18,
+    "name": "Shangri-La Horizon",
+    "city": "Melbourne",
+    "starRating": 5,
+    "pricePerNight": 235,
+    "currency": "USD",
+    "roomType": "Executive Suite",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.7
+  },
+  {
+    "id": 19,
+    "name": "Fairmont Empress",
+    "city": "Stockholm",
+    "starRating": 4,
+    "pricePerNight": 320,
+    "currency": "USD",
+    "roomType": "Ocean View Villa",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.8
+  },
+  {
+    "id": 20,
+    "name": "Bulgari Resort",
+    "city": "Madrid",
+    "starRating": 5,
+    "pricePerNight": 405,
+    "currency": "USD",
+    "roomType": "Penthouse",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.9
+  },
+  {
+    "id": 21,
+    "name": "Belmond Cipriani",
+    "city": "Barcelona",
+    "starRating": 5,
+    "pricePerNight": 490,
+    "currency": "USD",
+    "roomType": "Deluxe King",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.5
+  },
+  {
+    "id": 22,
+    "name": "Cheval Blanc",
+    "city": "Vancouver",
+    "starRating": 4,
+    "pricePerNight": 575,
+    "currency": "USD",
+    "roomType": "Executive Suite",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.6
+  },
+  {
+    "id": 23,
+    "name": "Six Senses Hideaway",
+    "city": "Vienna",
+    "starRating": 5,
+    "pricePerNight": 660,
+    "currency": "USD",
+    "roomType": "Ocean View Villa",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.7
+  },
+  {
+    "id": 24,
+    "name": "One&Only Ocean",
+    "city": "Copenhagen",
+    "starRating": 5,
+    "pricePerNight": 745,
+    "currency": "USD",
+    "roomType": "Penthouse",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.8
+  },
+  {
+    "id": 25,
+    "name": "Raffles Landmark",
+    "city": "Dubai",
+    "starRating": 4,
+    "pricePerNight": 150,
+    "currency": "USD",
+    "roomType": "Deluxe King",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.9
+  },
+  {
+    "id": 26,
+    "name": "Kempinski Palace",
+    "city": "Oslo",
+    "starRating": 5,
+    "pricePerNight": 235,
+    "currency": "USD",
+    "roomType": "Executive Suite",
+    "amenities": [
+      "Free WiFi",
+      "Infinity Pool",
+      "Spa & Wellness",
+      "Breakfast Included"
+    ],
+    "userRating": 4.5
+  }
+]

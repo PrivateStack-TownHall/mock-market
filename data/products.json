@@ -1,0 +1,444 @@
+[
+  {
+    "id": 1,
+    "title": "MacBook Pro 16 M3 Max",
+    "description": "High-performance MacBook Pro 16 M3 Max engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 2499,
+    "discountPercentage": 5,
+    "rating": 4,
+    "stock": 15,
+    "brand": "Apple",
+    "category": "Laptops",
+    "thumbnail": "https://picsum.photos/400/300?product_1",
+    "images": [
+      "https://picsum.photos/600/400?p_1_1",
+      "https://picsum.photos/600/400?p_1_2",
+      "https://picsum.photos/600/400?p_1_3"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Dell XPS 15 OLED",
+    "description": "High-performance Dell XPS 15 OLED engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 1899,
+    "discountPercentage": 8,
+    "rating": 4.7,
+    "stock": 26,
+    "brand": "Dell",
+    "category": "Laptops",
+    "thumbnail": "https://picsum.photos/400/300?product_2",
+    "images": [
+      "https://picsum.photos/600/400?p_2_1",
+      "https://picsum.photos/600/400?p_2_2",
+      "https://picsum.photos/600/400?p_2_3"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Keychron Q1 Pro Mechanical Keyboard",
+    "description": "High-performance Keychron Q1 Pro Mechanical Keyboard engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 199,
+    "discountPercentage": 11,
+    "rating": 4.4,
+    "stock": 37,
+    "brand": "Keychron",
+    "category": "Peripherals",
+    "thumbnail": "https://picsum.photos/400/300?product_3",
+    "images": [
+      "https://picsum.photos/600/400?p_3_1",
+      "https://picsum.photos/600/400?p_3_2",
+      "https://picsum.photos/600/400?p_3_3"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Logitech MX Master 3S",
+    "description": "High-performance Logitech MX Master 3S engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 99,
+    "discountPercentage": 14,
+    "rating": 4.1,
+    "stock": 48,
+    "brand": "Logitech",
+    "category": "Peripherals",
+    "thumbnail": "https://picsum.photos/400/300?product_4",
+    "images": [
+      "https://picsum.photos/600/400?p_4_1",
+      "https://picsum.photos/600/400?p_4_2",
+      "https://picsum.photos/600/400?p_4_3"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Sony WH-1000XM5 Noise-Canceling",
+    "description": "High-performance Sony WH-1000XM5 Noise-Canceling engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 399,
+    "discountPercentage": 17,
+    "rating": 4.8,
+    "stock": 59,
+    "brand": "Sony",
+    "category": "Audio",
+    "thumbnail": "https://picsum.photos/400/300?product_5",
+    "images": [
+      "https://picsum.photos/600/400?p_5_1",
+      "https://picsum.photos/600/400?p_5_2",
+      "https://picsum.photos/600/400?p_5_3"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Bose QuietComfort Ultra",
+    "description": "High-performance Bose QuietComfort Ultra engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 429,
+    "discountPercentage": 20,
+    "rating": 4.5,
+    "stock": 70,
+    "brand": "Bose",
+    "category": "Audio",
+    "thumbnail": "https://picsum.photos/400/300?product_6",
+    "images": [
+      "https://picsum.photos/600/400?p_6_1",
+      "https://picsum.photos/600/400?p_6_2",
+      "https://picsum.photos/600/400?p_6_3"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "LG UltraFine 27\" 4K Monitor",
+    "description": "High-performance LG UltraFine 27\" 4K Monitor engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 549,
+    "discountPercentage": 23,
+    "rating": 4.2,
+    "stock": 21,
+    "brand": "LG",
+    "category": "Monitors",
+    "thumbnail": "https://picsum.photos/400/300?product_7",
+    "images": [
+      "https://picsum.photos/600/400?p_7_1",
+      "https://picsum.photos/600/400?p_7_2",
+      "https://picsum.photos/600/400?p_7_3"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Samsung Odyssey Neo G9 Gaming Monitor",
+    "description": "High-performance Samsung Odyssey Neo G9 Gaming Monitor engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 1299,
+    "discountPercentage": 6,
+    "rating": 4.9,
+    "stock": 32,
+    "brand": "Samsung",
+    "category": "Monitors",
+    "thumbnail": "https://picsum.photos/400/300?product_8",
+    "images": [
+      "https://picsum.photos/600/400?p_8_1",
+      "https://picsum.photos/600/400?p_8_2",
+      "https://picsum.photos/600/400?p_8_3"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "iPad Pro 13\" M4 OLED",
+    "description": "High-performance iPad Pro 13\" M4 OLED engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 1199,
+    "discountPercentage": 9,
+    "rating": 4.6,
+    "stock": 43,
+    "brand": "Apple",
+    "category": "Tablets",
+    "thumbnail": "https://picsum.photos/400/300?product_9",
+    "images": [
+      "https://picsum.photos/600/400?p_9_1",
+      "https://picsum.photos/600/400?p_9_2",
+      "https://picsum.photos/600/400?p_9_3"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Samsung Galaxy Tab S9 Ultra",
+    "description": "High-performance Samsung Galaxy Tab S9 Ultra engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 999,
+    "discountPercentage": 12,
+    "rating": 4.3,
+    "stock": 54,
+    "brand": "Samsung",
+    "category": "Tablets",
+    "thumbnail": "https://picsum.photos/400/300?product_10",
+    "images": [
+      "https://picsum.photos/600/400?p_10_1",
+      "https://picsum.photos/600/400?p_10_2",
+      "https://picsum.photos/600/400?p_10_3"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "iPhone 16 Pro Max 256GB",
+    "description": "High-performance iPhone 16 Pro Max 256GB engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 1199,
+    "discountPercentage": 15,
+    "rating": 4,
+    "stock": 65,
+    "brand": "Apple",
+    "category": "Smartphones",
+    "thumbnail": "https://picsum.photos/400/300?product_11",
+    "images": [
+      "https://picsum.photos/600/400?p_11_1",
+      "https://picsum.photos/600/400?p_11_2",
+      "https://picsum.photos/600/400?p_11_3"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Samsung Galaxy S24 Ultra",
+    "description": "High-performance Samsung Galaxy S24 Ultra engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 1149,
+    "discountPercentage": 18,
+    "rating": 4.7,
+    "stock": 16,
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "thumbnail": "https://picsum.photos/400/300?product_12",
+    "images": [
+      "https://picsum.photos/600/400?p_12_1",
+      "https://picsum.photos/600/400?p_12_2",
+      "https://picsum.photos/600/400?p_12_3"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Google Pixel 9 Pro XL",
+    "description": "High-performance Google Pixel 9 Pro XL engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 1099,
+    "discountPercentage": 21,
+    "rating": 4.4,
+    "stock": 27,
+    "brand": "Google",
+    "category": "Smartphones",
+    "thumbnail": "https://picsum.photos/400/300?product_13",
+    "images": [
+      "https://picsum.photos/600/400?p_13_1",
+      "https://picsum.photos/600/400?p_13_2",
+      "https://picsum.photos/600/400?p_13_3"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Anker Prime 20,000mAh Power Bank",
+    "description": "High-performance Anker Prime 20,000mAh Power Bank engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 89,
+    "discountPercentage": 24,
+    "rating": 4.1,
+    "stock": 38,
+    "brand": "Anker",
+    "category": "Accessories",
+    "thumbnail": "https://picsum.photos/400/300?product_14",
+    "images": [
+      "https://picsum.photos/600/400?p_14_1",
+      "https://picsum.photos/600/400?p_14_2",
+      "https://picsum.photos/600/400?p_14_3"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "CalDigit TS4 Thunderbolt 4 Dock",
+    "description": "High-performance CalDigit TS4 Thunderbolt 4 Dock engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 399,
+    "discountPercentage": 7,
+    "rating": 4.8,
+    "stock": 49,
+    "brand": "CalDigit",
+    "category": "Accessories",
+    "thumbnail": "https://picsum.photos/400/300?product_15",
+    "images": [
+      "https://picsum.photos/600/400?p_15_1",
+      "https://picsum.photos/600/400?p_15_2",
+      "https://picsum.photos/600/400?p_15_3"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Elgato Stream Deck MK.2",
+    "description": "High-performance Elgato Stream Deck MK.2 engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 149,
+    "discountPercentage": 10,
+    "rating": 4.5,
+    "stock": 60,
+    "brand": "Elgato",
+    "category": "Streaming",
+    "thumbnail": "https://picsum.photos/400/300?product_16",
+    "images": [
+      "https://picsum.photos/600/400?p_16_1",
+      "https://picsum.photos/600/400?p_16_2",
+      "https://picsum.photos/600/400?p_16_3"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Shure SM7B Vocal Dynamic Mic",
+    "description": "High-performance Shure SM7B Vocal Dynamic Mic engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 399,
+    "discountPercentage": 13,
+    "rating": 4.2,
+    "stock": 71,
+    "brand": "Shure",
+    "category": "Audio",
+    "thumbnail": "https://picsum.photos/400/300?product_17",
+    "images": [
+      "https://picsum.photos/600/400?p_17_1",
+      "https://picsum.photos/600/400?p_17_2",
+      "https://picsum.photos/600/400?p_17_3"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Sony Alpha A7 IV Mirrorless Camera",
+    "description": "High-performance Sony Alpha A7 IV Mirrorless Camera engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 2498,
+    "discountPercentage": 16,
+    "rating": 4.9,
+    "stock": 22,
+    "brand": "Sony",
+    "category": "Cameras",
+    "thumbnail": "https://picsum.photos/400/300?product_18",
+    "images": [
+      "https://picsum.photos/600/400?p_18_1",
+      "https://picsum.photos/600/400?p_18_2",
+      "https://picsum.photos/600/400?p_18_3"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "DJI Mini 4 Pro Drone",
+    "description": "High-performance DJI Mini 4 Pro Drone engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 759,
+    "discountPercentage": 19,
+    "rating": 4.6,
+    "stock": 33,
+    "brand": "DJI",
+    "category": "Cameras",
+    "thumbnail": "https://picsum.photos/400/300?product_19",
+    "images": [
+      "https://picsum.photos/600/400?p_19_1",
+      "https://picsum.photos/600/400?p_19_2",
+      "https://picsum.photos/600/400?p_19_3"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Secretlab TITAN Evo Gaming Chair",
+    "description": "High-performance Secretlab TITAN Evo Gaming Chair engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 549,
+    "discountPercentage": 22,
+    "rating": 4.3,
+    "stock": 44,
+    "brand": "Secretlab",
+    "category": "Furniture",
+    "thumbnail": "https://picsum.photos/400/300?product_20",
+    "images": [
+      "https://picsum.photos/600/400?p_20_1",
+      "https://picsum.photos/600/400?p_20_2",
+      "https://picsum.photos/600/400?p_20_3"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Autonomous SmartDesk Pro",
+    "description": "High-performance Autonomous SmartDesk Pro engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 699,
+    "discountPercentage": 5,
+    "rating": 4,
+    "stock": 55,
+    "brand": "Autonomous",
+    "category": "Furniture",
+    "thumbnail": "https://picsum.photos/400/300?product_21",
+    "images": [
+      "https://picsum.photos/600/400?p_21_1",
+      "https://picsum.photos/600/400?p_21_2",
+      "https://picsum.photos/600/400?p_21_3"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Synology DiskStation DS923+ NAS",
+    "description": "High-performance Synology DiskStation DS923+ NAS engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 599,
+    "discountPercentage": 8,
+    "rating": 4.7,
+    "stock": 66,
+    "brand": "Synology",
+    "category": "Storage",
+    "thumbnail": "https://picsum.photos/400/300?product_22",
+    "images": [
+      "https://picsum.photos/600/400?p_22_1",
+      "https://picsum.photos/600/400?p_22_2",
+      "https://picsum.photos/600/400?p_22_3"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Samsung 990 PRO 2TB NVMe SSD",
+    "description": "High-performance Samsung 990 PRO 2TB NVMe SSD engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 179,
+    "discountPercentage": 11,
+    "rating": 4.4,
+    "stock": 17,
+    "brand": "Samsung",
+    "category": "Storage",
+    "thumbnail": "https://picsum.photos/400/300?product_23",
+    "images": [
+      "https://picsum.photos/600/400?p_23_1",
+      "https://picsum.photos/600/400?p_23_2",
+      "https://picsum.photos/600/400?p_23_3"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Ubiquiti UniFi Dream Machine Pro",
+    "description": "High-performance Ubiquiti UniFi Dream Machine Pro engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 379,
+    "discountPercentage": 14,
+    "rating": 4.1,
+    "stock": 28,
+    "brand": "Ubiquiti",
+    "category": "Networking",
+    "thumbnail": "https://picsum.photos/400/300?product_24",
+    "images": [
+      "https://picsum.photos/600/400?p_24_1",
+      "https://picsum.photos/600/400?p_24_2",
+      "https://picsum.photos/600/400?p_24_3"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "ASUS ROG Rapture GT-AXE16000 Router",
+    "description": "High-performance ASUS ROG Rapture GT-AXE16000 Router engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 599,
+    "discountPercentage": 17,
+    "rating": 4.8,
+    "stock": 39,
+    "brand": "ASUS",
+    "category": "Networking",
+    "thumbnail": "https://picsum.photos/400/300?product_25",
+    "images": [
+      "https://picsum.photos/600/400?p_25_1",
+      "https://picsum.photos/600/400?p_25_2",
+      "https://picsum.photos/600/400?p_25_3"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Kindle Paperwhite Signature Edition",
+    "description": "High-performance Kindle Paperwhite Signature Edition engineered for professionals, developers, and creators seeking uncompromised reliability and sleek aesthetics.",
+    "price": 189,
+    "discountPercentage": 20,
+    "rating": 4.5,
+    "stock": 50,
+    "brand": "Amazon",
+    "category": "E-Readers",
+    "thumbnail": "https://picsum.photos/400/300?product_26",
+    "images": [
+      "https://picsum.photos/600/400?p_26_1",
+      "https://picsum.photos/600/400?p_26_2",
+      "https://picsum.photos/600/400?p_26_3"
+    ]
+  }
+]

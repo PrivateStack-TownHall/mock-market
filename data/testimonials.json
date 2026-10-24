@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "name": "Andi Setiawan",
+    "role": "Product Manager",
+    "company": "Tokopedia",
+    "content": "Bootcamp di Orange Kode mengubah karir saya dari administrasi menjadi backend developer profesional dalam 4 bulan!",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_1",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 2,
+    "name": "Bunga Citra",
+    "role": "Frontend Engineer",
+    "company": "Traveloka",
+    "content": "API Json Raw Data sangat mempercepat pengerjaan mockup prototipe aplikasi mobile tim kami.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_2",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 3,
+    "name": "Charles Wibisono",
+    "role": "Product Manager",
+    "company": "Gojek",
+    "content": "Materi pembelajaran terstruktur rapi, mentor sangat responsif menjawab pertanyaan di discord.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_3",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 4,
+    "name": "Desi Ratnasari",
+    "role": "Frontend Engineer",
+    "company": "Tokopedia",
+    "content": "Platform ini sangat stabil dan dokumentasi endpoint sangat komprehensif untuk pengujian frontend.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_4",
+    "rating": 5,
+    "featured": true
+  },
+  {
+    "id": 5,
+    "name": "Erwin Prasetyo",
+    "role": "Product Manager",
+    "company": "Traveloka",
+    "content": "Workshop arsitektur sistemnya langsung berdampak pada optimasi query di backend production perusahaan saya.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_5",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "Fany Rahmawati",
+    "role": "Frontend Engineer",
+    "company": "Gojek",
+    "content": "Kualitas dataset sangat kaya dan menyerupai database nyata industri e-commerce dan edtech.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_6",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 7,
+    "name": "Gideon Halim",
+    "role": "Product Manager",
+    "company": "Tokopedia",
+    "content": "Desain UI yang diajarkan sangat modern dan sesuai dengan standar industri digital global saat ini.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_7",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 8,
+    "name": "Hesty Purwanti",
+    "role": "Frontend Engineer",
+    "company": "Traveloka",
+    "content": "Kurikulum yang diajarkan sangat relevan dengan kebutuhan lowongan kerja software engineer saat ini.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_8",
+    "rating": 5,
+    "featured": true
+  },
+  {
+    "id": 9,
+    "name": "Indra Lesmana",
+    "role": "Product Manager",
+    "company": "Gojek",
+    "content": "Proses integrasi dengan Express dan json-server sangat mulus tanpa konfigurasi berbelit-belit.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_9",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 10,
+    "name": "Jessica Tan",
+    "role": "Frontend Engineer",
+    "company": "Tokopedia",
+    "content": "Investasi terbaik untuk peningkatan skill technical engineering tim saya tahun ini.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_10",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 11,
+    "name": "Krisna Murti",
+    "role": "Product Manager",
+    "company": "Traveloka",
+    "content": "Fitur filter dan sorting bawaan membuat testing fitur tabel dan pagination di React jadi sangat cepat.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_11",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 12,
+    "name": "Linda Marlina",
+    "role": "Frontend Engineer",
+    "company": "Gojek",
+    "content": "Sangat terbantu untuk menyelesaikan tugas akhir kuliah dan portofolio profesional saya.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_12",
+    "rating": 5,
+    "featured": true
+  },
+  {
+    "id": 13,
+    "name": "Mega Mustika",
+    "role": "Product Manager",
+    "company": "Tokopedia",
+    "content": "Mentor Vincent menjelaskan konsep sulit dengan analogi yang sangat mudah dimengerti pemula.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_13",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 14,
+    "name": "Niko Alamsyah",
+    "role": "Frontend Engineer",
+    "company": "Traveloka",
+    "content": "Bootcamp di Orange Kode mengubah karir saya dari administrasi menjadi backend developer profesional dalam 4 bulan!",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_14",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 15,
+    "name": "Olivia Chandra",
+    "role": "Product Manager",
+    "company": "Gojek",
+    "content": "API Json Raw Data sangat mempercepat pengerjaan mockup prototipe aplikasi mobile tim kami.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_15",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 16,
+    "name": "Prasetyo Utomo",
+    "role": "Frontend Engineer",
+    "company": "Tokopedia",
+    "content": "Materi pembelajaran terstruktur rapi, mentor sangat responsif menjawab pertanyaan di discord.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_16",
+    "rating": 5,
+    "featured": true
+  },
+  {
+    "id": 17,
+    "name": "Quincy Salim",
+    "role": "Product Manager",
+    "company": "Traveloka",
+    "content": "Platform ini sangat stabil dan dokumentasi endpoint sangat komprehensif untuk pengujian frontend.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_17",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 18,
+    "name": "Reza Pahlevi",
+    "role": "Frontend Engineer",
+    "company": "Gojek",
+    "content": "Workshop arsitektur sistemnya langsung berdampak pada optimasi query di backend production perusahaan saya.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_18",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 19,
+    "name": "Sherly Anjani",
+    "role": "Product Manager",
+    "company": "Tokopedia",
+    "content": "Kualitas dataset sangat kaya dan menyerupai database nyata industri e-commerce dan edtech.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_19",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 20,
+    "name": "Tri Kurniawan",
+    "role": "Frontend Engineer",
+    "company": "Traveloka",
+    "content": "Desain UI yang diajarkan sangat modern dan sesuai dengan standar industri digital global saat ini.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_20",
+    "rating": 5,
+    "featured": true
+  },
+  {
+    "id": 21,
+    "name": "Ully Artha",
+    "role": "Product Manager",
+    "company": "Gojek",
+    "content": "Kurikulum yang diajarkan sangat relevan dengan kebutuhan lowongan kerja software engineer saat ini.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_21",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 22,
+    "name": "Victor Emmanuel",
+    "role": "Frontend Engineer",
+    "company": "Tokopedia",
+    "content": "Proses integrasi dengan Express dan json-server sangat mulus tanpa konfigurasi berbelit-belit.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_22",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 23,
+    "name": "Wawan Darmawan",
+    "role": "Product Manager",
+    "company": "Traveloka",
+    "content": "Investasi terbaik untuk peningkatan skill technical engineering tim saya tahun ini.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_23",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 24,
+    "name": "Ximena Rosa",
+    "role": "Frontend Engineer",
+    "company": "Gojek",
+    "content": "Fitur filter dan sorting bawaan membuat testing fitur tabel dan pagination di React jadi sangat cepat.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_24",
+    "rating": 5,
+    "featured": true
+  },
+  {
+    "id": 25,
+    "name": "Yoseph Sinaga",
+    "role": "Product Manager",
+    "company": "Tokopedia",
+    "content": "Sangat terbantu untuk menyelesaikan tugas akhir kuliah dan portofolio profesional saya.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_25",
+    "rating": 5,
+    "featured": false
+  },
+  {
+    "id": 26,
+    "name": "Zaki Iskandar",
+    "role": "Frontend Engineer",
+    "company": "Traveloka",
+    "content": "Mentor Vincent menjelaskan konsep sulit dengan analogi yang sangat mudah dimengerti pemula.",
+    "avatar": "https://i.pravatar.cc/150?u=testimonial_26",
+    "rating": 5,
+    "featured": false
+  }
+]

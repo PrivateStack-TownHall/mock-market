@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler",
+    "category": "Programming"
+  },
+  {
+    "id": 2,
+    "quote": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson",
+    "category": "Problem Solving"
+  },
+  {
+    "id": 3,
+    "quote": "Experience is the name everyone gives to their mistakes.",
+    "author": "Oscar Wilde",
+    "category": "Wisdom"
+  },
+  {
+    "id": 4,
+    "quote": "Simplicity is prerequisite for reliability.",
+    "author": "Edsger W. Dijkstra",
+    "category": "Software Design"
+  },
+  {
+    "id": 5,
+    "quote": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck",
+    "category": "Agile"
+  },
+  {
+    "id": 6,
+    "quote": "Code is like humor. When you have to explain it, it’s bad.",
+    "author": "Cory House",
+    "category": "Clean Code"
+  },
+  {
+    "id": 7,
+    "quote": "Before software can be reusable it first has to be usable.",
+    "author": "Ralph Johnson",
+    "category": "Engineering"
+  },
+  {
+    "id": 8,
+    "quote": "The only way to go fast, is to go well.",
+    "author": "Robert C. Martin",
+    "category": "Craftsmanship"
+  },
+  {
+    "id": 9,
+    "quote": "Optimism is an occupational hazard of programming: feedback is the treatment.",
+    "author": "Kent Beck",
+    "category": "Psychology"
+  },
+  {
+    "id": 10,
+    "quote": "Premature optimization is the root of all evil in programming.",
+    "author": "Donald Knuth",
+    "category": "Performance"
+  },
+  {
+    "id": 11,
+    "quote": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds",
+    "category": "Open Source"
+  },
+  {
+    "id": 12,
+    "quote": "It’s not a bug – it’s an undocumented feature.",
+    "author": "Anonymous",
+    "category": "Humor"
+  },
+  {
+    "id": 13,
+    "quote": "Software and cathedrals are much the same – first we build them, then we pray.",
+    "author": "Sam Redwine",
+    "category": "Engineering"
+  },
+  {
+    "id": 14,
+    "quote": "There are only two hard things in Computer Science: cache invalidation and naming things.",
+    "author": "Phil Karlton",
+    "category": "Computer Science"
+  },
+  {
+    "id": 15,
+    "quote": "Truth can only be found in one place: the code.",
+    "author": "Robert C. Martin",
+    "category": "Code Quality"
+  },
+  {
+    "id": 16,
+    "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+    "author": "Edward V. Berard",
+    "category": "Product"
+  },
+  {
+    "id": 17,
+    "quote": "The best error message is the one that never shows up.",
+    "author": "Thomas Fuchs",
+    "category": "UX"
+  },
+  {
+    "id": 18,
+    "quote": "Software undergoes beta testing shortly before it’s released. Beta is Latin for “still doesn’t work”.",
+    "author": "Anonymous",
+    "category": "Testing"
+  },
+  {
+    "id": 19,
+    "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson",
+    "category": "Clean Code"
+  },
+  {
+    "id": 20,
+    "quote": "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+    "author": "Edsger W. Dijkstra",
+    "category": "Humor"
+  },
+  {
+    "id": 21,
+    "quote": "Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime.",
+    "author": "David Leinweber",
+    "category": "Education"
+  },
+  {
+    "id": 22,
+    "quote": "Deleted code is debugged code.",
+    "author": "Jeff Sickel",
+    "category": "Refactoring"
+  },
+  {
+    "id": 23,
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+    "author": "Bill Gates",
+    "category": "Metrics"
+  },
+  {
+    "id": 24,
+    "quote": "A language that doesn’t affect the way you think about programming is not worth knowing.",
+    "author": "Alan J. Perlis",
+    "category": "Philosophy"
+  },
+  {
+    "id": 25,
+    "quote": "The function of good software is to make the complex appear to be simple.",
+    "author": "Grady Booch",
+    "category": "Architecture"
+  },
+  {
+    "id": 26,
+    "quote": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs",
+    "category": "Inspiration"
+  }
+]
