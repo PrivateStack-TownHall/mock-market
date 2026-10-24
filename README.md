@@ -1,6 +1,29 @@
-# Json Raw Data API Server
+# Mock Market — Json Raw Data API Server
 
-Server mock RESTful API modular berbasis **Express.js** dan **json-server** dengan **30 entitas/koleksi** siap pakai dan total **779 data record**. Sangat cocok untuk prototyping, testing frontend (React, Next.js, Vue, Svelte), mobile apps (Flutter, React Native), dan showcase portofolio.
+Server mock RESTful API modular berbasis **Express.js** dan **json-server** dengan **55 entitas/koleksi** siap pakai dan total **1.429 data record**. Sangat cocok untuk prototyping, testing frontend (React, Next.js, Vue, Svelte), mobile apps (Flutter, React Native), dan showcase portofolio.
+
+Dapat dijalankan secara lokal dengan backend Express, maupun di-host langsung sebagai **GitHub Pages** (static mock data catalog).
+
+---
+
+## 🌐 Live GitHub Pages Demo & Static API
+
+- **Web Catalog**: [https://privatestack-townhall.github.io/mock-market/](https://privatestack-townhall.github.io/mock-market/)
+- **Direct Static JSON Access**:
+  ```http
+  https://privatestack-townhall.github.io/mock-market/data/<collection>.json
+  ```
+  Contoh:
+  - `https://privatestack-townhall.github.io/mock-market/data/products.json`
+  - `https://privatestack-townhall.github.io/mock-market/data/users.json`
+  - `https://privatestack-townhall.github.io/mock-market/data/articles.json`
+
+### Cara Mengaktifkan GitHub Pages di Repository
+1. Buka repo Anda di GitHub: **Settings** > **Pages**
+2. Pada bagian **Build and deployment > Source**:
+   - Pilih **Deploy from a branch** > Branch **`main`** > Folder **`/ (root)`** > Klik **Save**
+   - *ATAU* pilih opsi **GitHub Actions** (alur kerja `.github/workflows/deploy-pages.yml` sudah disiapkan otomatis).
+3. Halaman akan aktif di `https://privatestack-townhall.github.io/mock-market/`.
 
 ---
 
