@@ -44,6 +44,8 @@ app.use((req, res, next) => {
 
 // Serve frontend static assets from src folder
 app.use(express.static(path.join(__dirname, "src")));
+// Serve raw datasets under /data
+app.use("/data", express.static(path.join(__dirname, "data")));
 
 // Helper metadata function
 function getCatalogData(baseUrl) {
